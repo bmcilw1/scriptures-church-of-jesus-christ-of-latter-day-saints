@@ -7,28 +7,53 @@ Tags: SCRIPTURE, OLD_TESTAMENT
 # Psalm 96
 
 ##### 1
- O SING unto the LORD a new song: sing unto the LORD, all the earth.
+
+O SING unto the LORD a new song: sing unto the LORD, all the earth.
+
 ##### 2
- Sing unto the LORD, bless his name; shew forth his salvation from day to day.
+
+Sing unto the LORD, bless his name; shew forth his salvation from day to day.
+
 ##### 3
- Declare his glory among the heathen, his wonders among all people.
+
+Declare his glory among the heathen, his wonders among all people.
+
 ##### 4
- For the LORD is great, and greatly to be praised: he is to be feared above all gods.
+
+For the LORD is great, and greatly to be praised: he is to be feared above all gods.
+
 ##### 5
- For all the gods of the nations are idols: but the LORD made the heavens.
+
+For all the gods of the nations are idols: but the LORD made the heavens.
+
 ##### 6
- Honour and majesty are before him: strength and beauty are in his sanctuary.
+
+Honour and majesty are before him: strength and beauty are in his sanctuary.
+
 ##### 7
- Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.
+
+Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.
+
 ##### 8
- Give unto the LORD the glory due unto his name: bring an offering, and come into his courts.
+
+Give unto the LORD the glory due unto his name: bring an offering, and come into his courts.
+
 ##### 9
- O worship the LORD in the beauty of holiness: fear before him, all the earth.
+
+O worship the LORD in the beauty of holiness: fear before him, all the earth.
+
 ##### 10
- Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
+
+Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
+
 ##### 11
- Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
+
+Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
+
 ##### 12
- Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice
+
+Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice
+
 ##### 13
- Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.
+
+Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.

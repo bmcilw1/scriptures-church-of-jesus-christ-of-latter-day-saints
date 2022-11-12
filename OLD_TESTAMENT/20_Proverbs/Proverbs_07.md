@@ -7,56 +7,109 @@ Tags: SCRIPTURE, OLD_TESTAMENT
 # Proverbs 07
 
 ##### 1
- MY son, keep my words, and lay up my commandments with thee.
+
+MY son, keep my words, and lay up my commandments with thee.
+
 ##### 2
- Keep my commandments, and live; and my law as the apple of thine eye.
+
+Keep my commandments, and live; and my law as the apple of thine eye.
+
 ##### 3
- Bind them upon thy fingers, write them upon the table of thine heart.
+
+Bind them upon thy fingers, write them upon the table of thine heart.
+
 ##### 4
- Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:
+
+Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:
+
 ##### 5
- That they may keep thee from the strange woman, from the stranger which flattereth with her words.
+
+That they may keep thee from the strange woman, from the stranger which flattereth with her words.
+
 ##### 6
- ¶ For at the window of my house I looked through my casement,
+
+¶ For at the window of my house I looked through my casement,
+
 ##### 7
- And beheld among the simple ones, I discerned among the youths, a young man void of understanding,
+
+And beheld among the simple ones, I discerned among the youths, a young man void of understanding,
+
 ##### 8
- Passing through the street near her corner; and he went the way to her house,
+
+Passing through the street near her corner; and he went the way to her house,
+
 ##### 9
- In the twilight, in the evening, in the black and dark night:
+
+In the twilight, in the evening, in the black and dark night:
+
 ##### 10
- And, behold, there met him a woman with the attire of an harlot, and subtil of heart.
+
+And, behold, there met him a woman with the attire of an harlot, and subtil of heart.
+
 ##### 11
- (She is loud and stubborn; her feet abide not in her house:
+
+(She is loud and stubborn; her feet abide not in her house:
+
 ##### 12
- Now is she without, now in the streets, and lieth in wait at every corner.)
+
+Now is she without, now in the streets, and lieth in wait at every corner.)
+
 ##### 13
- So she caught him, and kissed him, and with an impudent face said unto him,
+
+So she caught him, and kissed him, and with an impudent face said unto him,
+
 ##### 14
- I have peace offerings with me; this day have I payed my vows.
+
+I have peace offerings with me; this day have I payed my vows.
+
 ##### 15
- Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.
+
+Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.
+
 ##### 16
- I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.
+
+I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.
+
 ##### 17
- I have perfumed my bed with myrrh, aloes, and cinnamon.
+
+I have perfumed my bed with myrrh, aloes, and cinnamon.
+
 ##### 18
- Come, let us take our fill of love until the morning: let us solace ourselves with loves.
+
+Come, let us take our fill of love until the morning: let us solace ourselves with loves.
+
 ##### 19
- For the goodman is not at home, he is gone a long journey:
+
+For the goodman is not at home, he is gone a long journey:
+
 ##### 20
- He hath taken a bag of money with him, and will come home at the day appointed.
+
+He hath taken a bag of money with him, and will come home at the day appointed.
+
 ##### 21
- With her much fair speech she caused him to yield, with the flattering of her lips she forced him.
+
+With her much fair speech she caused him to yield, with the flattering of her lips she forced him.
+
 ##### 22
- He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;
+
+He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;
+
 ##### 23
- Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.
+
+Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.
+
 ##### 24
- ¶ Hearken unto me now therefore, O ye children, and attend to the words of my mouth.
+
+¶ Hearken unto me now therefore, O ye children, and attend to the words of my mouth.
+
 ##### 25
- Let not thine heart decline to her ways, go not astray in her paths.
+
+Let not thine heart decline to her ways, go not astray in her paths.
+
 ##### 26
- For she hath cast down many wounded: yea, many strong men have been slain by her.
+
+For she hath cast down many wounded: yea, many strong men have been slain by her.
+
 ##### 27
- Her house is the way to hell, going down to the chambers of death.
+
+Her house is the way to hell, going down to the chambers of death.
