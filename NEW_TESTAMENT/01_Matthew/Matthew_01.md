@@ -2,7 +2,7 @@
 Tags: SCRIPTURE, NEW_TESTAMENT
 ---
 
-[<< Revelation 22](NEW_TESTAMENT/27_Revelation/Revelation_22.md) | [Matthew 02 >>](NEW_TESTAMENT/01_Matthew/Matthew_02.md)
+[<< Malachi 04](OLD_TESTAMENT/39_Malachi/Malachi_04.md) | [Matthew 02 >>](NEW_TESTAMENT/01_Matthew/Matthew_02.md)
 
 # Matthew 01
 
