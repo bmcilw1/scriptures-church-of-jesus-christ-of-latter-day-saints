@@ -2,7 +2,7 @@
 Tags: SCRIPTURE, NEW_TESTAMENT
 ---
 
-[<< Revelation 21](NEW_TESTAMENT/27_Revelation/Revelation_21.md) | [Revelation 22 >>](NEW_TESTAMENT/27_Revelation/Revelation_22.md)
+[<< Revelation 21](NEW_TESTAMENT/27_Revelation/Revelation_21.md) | [1 Nephi 01 >>](SCRIPTURES/Book_of_Mormon/01_1_Nephi/1_Nephi_01.md)
 
 # Revelation 22
 

@@ -2,7 +2,7 @@
 Tags: SCRIPTURE, BOOK_OF_MORMON
 ---
 
-[<< Moroni 09](BOOK_OF_MORMON/15_Moroni/Moroni_09.md) | [Moroni 10 >>](BOOK_OF_MORMON/15_Moroni/Moroni_10.md)
+[<< Moroni 09](BOOK_OF_MORMON/15_Moroni/Moroni_09.md) | [D&C 001 >>](DOCTRINE_AND_COVENANTS/D&C_001.md)
 
 # Moroni 10
 

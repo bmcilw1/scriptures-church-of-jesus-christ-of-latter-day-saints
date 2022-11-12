@@ -2,7 +2,7 @@
 Tags: SCRIPTURE, PEARL_OF_GREAT_PRICE
 ---
 
-[<< 05 The Articles of Faith](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/05_The_Articles_of_Faith.md) | [Moses 02 >>](PEARL_OF_GREAT_PRICE/01_Moses/Moses_02.md)
+[<< D&C 138](DOCTRINE_AND_COVENANTS/D&C_138.md) | [Moses 02 >>](PEARL_OF_GREAT_PRICE/01_Moses/Moses_02.md)
 
 # Moses 01
 
