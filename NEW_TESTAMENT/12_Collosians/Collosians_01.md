@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # Collosians 01
 
-##### 12
-1. Chapter 1
 ##### 1
  PAUL, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 ##### 2

@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # 2 Thessalonians 01
 
-##### 14
-1. Chapter 1
 ##### 1
  PAUL, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 ##### 2

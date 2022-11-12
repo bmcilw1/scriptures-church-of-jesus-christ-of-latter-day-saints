@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # Ephesians 01
 
-##### 10
-1. Chapter 1
 ##### 1
  PAUL, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 ##### 2

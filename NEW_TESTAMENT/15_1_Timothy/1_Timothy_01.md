@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # 1 Timothy 01
 
-##### 15
-1. Chapter 1
 ##### 1
  PAUL, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
 ##### 2

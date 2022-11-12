@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # Romans 01
 
-##### 6
-1. Chapter 1
 ##### 1
  PAUL, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
 ##### 2

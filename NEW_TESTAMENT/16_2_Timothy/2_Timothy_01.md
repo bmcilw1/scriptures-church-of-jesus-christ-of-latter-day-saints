@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # 2 Timothy 01
 
-##### 16
-1. Chapter 1
 ##### 1
  PAUL, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 ##### 2

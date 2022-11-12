@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # 1 Corinthians 01
 
-##### 7
-1. Chapter 1
 ##### 1
  PAUL, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 ##### 2

@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # Galatians 01
 
-##### 9
-1. Chapter 1
 ##### 1
  PAUL, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 ##### 2

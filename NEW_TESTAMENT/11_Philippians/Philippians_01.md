@@ -6,8 +6,6 @@ Tags: SCRIPTURE, NEW_TESTAMENT
 
 # Philippians 01
 
-##### 11
-1. Chapter 1
 ##### 1
  PAUL and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 ##### 2
