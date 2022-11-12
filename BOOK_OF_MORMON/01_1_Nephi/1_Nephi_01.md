@@ -2,7 +2,7 @@
 Tags: SCRIPTURE, BOOK_OF_MORMON
 ---
 
-| [1 Nephi 02 >>](SCRIPTURES/Book_of_Mormon/01_1_Nephi/1_Nephi_02.md)
+[1 Nephi 02 >>](SCRIPTURES/Book_of_Mormon/01_1_Nephi/1_Nephi_02.md)
 
 # 1 Nephi 01
 
