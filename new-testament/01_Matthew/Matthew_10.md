@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Matthew 09](new-testament/01_Matthew/Matthew_09.md) | [Matthew 11 >>](new-testament/01_Matthew/Matthew_11.md)
+[<< Matthew 09[(/new-testament/01_Matthew/Matthew_09.md) | [Matthew 11 >>[(/new-testament/01_Matthew/Matthew_11.md)
 
 # Matthew 10
 

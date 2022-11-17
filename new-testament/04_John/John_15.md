@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< John 14](new-testament/04_John/John_14.md) | [John 16 >>](new-testament/04_John/John_16.md)
+[<< John 14[(/new-testament/04_John/John_14.md) | [John 16 >>[(/new-testament/04_John/John_16.md)
 
 # John 15
 

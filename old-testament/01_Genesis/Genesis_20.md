@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 19](old-testament/01_Genesis/Genesis_19.md) | [Genesis 21 >>](old-testament/01_Genesis/Genesis_21.md)
+[<< Genesis 19[(/old-testament/01_Genesis/Genesis_19.md) | [Genesis 21 >>[(/old-testament/01_Genesis/Genesis_21.md)
 
 # Genesis 20
 

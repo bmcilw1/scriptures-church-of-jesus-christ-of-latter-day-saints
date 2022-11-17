@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 44](old-testament/23_Isaiah/Isaiah_44.md) | [Isaiah 46 >>](old-testament/23_Isaiah/Isaiah_46.md)
+[<< Isaiah 44[(/old-testament/23_Isaiah/Isaiah_44.md) | [Isaiah 46 >>[(/old-testament/23_Isaiah/Isaiah_46.md)
 
 # Isaiah 45
 

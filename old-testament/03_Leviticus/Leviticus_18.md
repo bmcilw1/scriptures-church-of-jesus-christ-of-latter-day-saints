@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Leviticus 17](old-testament/03_Leviticus/Leviticus_17.md) | [Leviticus 19 >>](old-testament/03_Leviticus/Leviticus_19.md)
+[<< Leviticus 17[(/old-testament/03_Leviticus/Leviticus_17.md) | [Leviticus 19 >>[(/old-testament/03_Leviticus/Leviticus_19.md)
 
 # Leviticus 18
 

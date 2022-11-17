@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Habakkuk 01](old-testament/35_Habakkuk/Habakkuk_01.md) | [Habakkuk 03 >>](old-testament/35_Habakkuk/Habakkuk_03.md)
+[<< Habakkuk 01[(/old-testament/35_Habakkuk/Habakkuk_01.md) | [Habakkuk 03 >>[(/old-testament/35_Habakkuk/Habakkuk_03.md)
 
 # Habakkuk 02
 

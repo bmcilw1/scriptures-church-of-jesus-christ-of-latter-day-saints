@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Luke 11](new-testament/03_Luke/Luke_11.md) | [Luke 13 >>](new-testament/03_Luke/Luke_13.md)
+[<< Luke 11[(/new-testament/03_Luke/Luke_11.md) | [Luke 13 >>[(/new-testament/03_Luke/Luke_13.md)
 
 # Luke 12
 

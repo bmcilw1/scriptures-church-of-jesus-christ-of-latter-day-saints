@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezra 01](old-testament/15_Ezra/Ezra_01.md) | [Ezra 03 >>](old-testament/15_Ezra/Ezra_03.md)
+[<< Ezra 01[(/old-testament/15_Ezra/Ezra_01.md) | [Ezra 03 >>[(/old-testament/15_Ezra/Ezra_03.md)
 
 # Ezra 02
 

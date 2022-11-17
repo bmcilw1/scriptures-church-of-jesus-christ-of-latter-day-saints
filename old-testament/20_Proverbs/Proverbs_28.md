@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Proverbs 27](old-testament/20_Proverbs/Proverbs_27.md) | [Proverbs 29 >>](old-testament/20_Proverbs/Proverbs_29.md)
+[<< Proverbs 27[(/old-testament/20_Proverbs/Proverbs_27.md) | [Proverbs 29 >>[(/old-testament/20_Proverbs/Proverbs_29.md)
 
 # Proverbs 28
 

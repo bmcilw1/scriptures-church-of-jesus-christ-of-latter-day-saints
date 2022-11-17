@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Chronicles 11](old-testament/13_1_Chronicles/1_Chronicles_11.md) | [1 Chronicles 13 >>](old-testament/13_1_Chronicles/1_Chronicles_13.md)
+[<< 1 Chronicles 11[(/old-testament/13_1_Chronicles/1_Chronicles_11.md) | [1 Chronicles 13 >>[(/old-testament/13_1_Chronicles/1_Chronicles_13.md)
 
 # 1 Chronicles 12
 

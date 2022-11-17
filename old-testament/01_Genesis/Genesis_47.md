@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 46](old-testament/01_Genesis/Genesis_46.md) | [Genesis 48 >>](old-testament/01_Genesis/Genesis_48.md)
+[<< Genesis 46[(/old-testament/01_Genesis/Genesis_46.md) | [Genesis 48 >>[(/old-testament/01_Genesis/Genesis_48.md)
 
 # Genesis 47
 

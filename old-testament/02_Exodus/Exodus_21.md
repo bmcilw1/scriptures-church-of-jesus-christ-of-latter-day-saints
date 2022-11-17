@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 20](old-testament/02_Exodus/Exodus_20.md) | [Exodus 22 >>](old-testament/02_Exodus/Exodus_22.md)
+[<< Exodus 20[(/old-testament/02_Exodus/Exodus_20.md) | [Exodus 22 >>[(/old-testament/02_Exodus/Exodus_22.md)
 
 # Exodus 21
 

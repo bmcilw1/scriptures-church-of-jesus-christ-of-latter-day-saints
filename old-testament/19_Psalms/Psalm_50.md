@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 49](old-testament/19_Psalms/Psalm_49.md) | [Psalm 51 >>](old-testament/19_Psalms/Psalm_51.md)
+[<< Psalm 49[(/old-testament/19_Psalms/Psalm_49.md) | [Psalm 51 >>[(/old-testament/19_Psalms/Psalm_51.md)
 
 # Psalm 50
 

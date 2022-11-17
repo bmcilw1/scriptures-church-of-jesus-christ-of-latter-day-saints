@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Jude 01](new-testament/26_Jude/Jude_01.md) | [Revelation 02 >>](new-testament/27_Revelation/Revelation_02.md)
+[<< Jude 01[(/new-testament/26_Jude/Jude_01.md) | [Revelation 02 >>[(/new-testament/27_Revelation/Revelation_02.md)
 
 # Revelation 01
 

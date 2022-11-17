@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ruth 01](old-testament/08_Ruth/Ruth_01.md) | [Ruth 03 >>](old-testament/08_Ruth/Ruth_03.md)
+[<< Ruth 01[(/old-testament/08_Ruth/Ruth_01.md) | [Ruth 03 >>[(/old-testament/08_Ruth/Ruth_03.md)
 
 # Ruth 02
 

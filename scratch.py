@@ -32,7 +32,7 @@ def create_header(chapter_path, prev_chapter_path, next_chapter_path):
     
     header = f'''tags:: #{book_name}
 
-[<< {prev_chapter}]({prev_chapter_path}) | [{next_chapter} >>]({next_chapter_path})
+[<< {prev_chapter}[(/{prev_chapter_path}) | [{next_chapter} >>[(/{next_chapter_path})
 
 # {chapter}
 

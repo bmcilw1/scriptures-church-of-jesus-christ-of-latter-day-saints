@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Song of Solomon 05](old-testament/22_Song_of_Solomon/Song_of_Solomon_05.md) | [Song of Solomon 07 >>](old-testament/22_Song_of_Solomon/Song_of_Solomon_07.md)
+[<< Song of Solomon 05[(/old-testament/22_Song_of_Solomon/Song_of_Solomon_05.md) | [Song of Solomon 07 >>[(/old-testament/22_Song_of_Solomon/Song_of_Solomon_07.md)
 
 # Song of Solomon 06
 

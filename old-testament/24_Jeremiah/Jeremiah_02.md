@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 01](old-testament/24_Jeremiah/Jeremiah_01.md) | [Jeremiah 03 >>](old-testament/24_Jeremiah/Jeremiah_03.md)
+[<< Jeremiah 01[(/old-testament/24_Jeremiah/Jeremiah_01.md) | [Jeremiah 03 >>[(/old-testament/24_Jeremiah/Jeremiah_03.md)
 
 # Jeremiah 02
 

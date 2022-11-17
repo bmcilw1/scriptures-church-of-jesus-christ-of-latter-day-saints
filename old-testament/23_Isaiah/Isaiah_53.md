@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 52](old-testament/23_Isaiah/Isaiah_52.md) | [Isaiah 54 >>](old-testament/23_Isaiah/Isaiah_54.md)
+[<< Isaiah 52[(/old-testament/23_Isaiah/Isaiah_52.md) | [Isaiah 54 >>[(/old-testament/23_Isaiah/Isaiah_54.md)
 
 # Isaiah 53
 

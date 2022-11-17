@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 25](book-of-mormon/08_Mosiah/Mosiah_25.md) | [Mosiah 27 >>](book-of-mormon/08_Mosiah/Mosiah_27.md)
+[<< Mosiah 25[(/book-of-mormon/08_Mosiah/Mosiah_25.md) | [Mosiah 27 >>[(/book-of-mormon/08_Mosiah/Mosiah_27.md)
 
 # Mosiah 26
 

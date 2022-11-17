@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 26](old-testament/09_1_Samuel/1_Samuel_26.md) | [1 Samuel 28 >>](old-testament/09_1_Samuel/1_Samuel_28.md)
+[<< 1 Samuel 26[(/old-testament/09_1_Samuel/1_Samuel_26.md) | [1 Samuel 28 >>[(/old-testament/09_1_Samuel/1_Samuel_28.md)
 
 # 1 Samuel 27
 

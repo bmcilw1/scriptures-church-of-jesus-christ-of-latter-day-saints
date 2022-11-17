@@ -1,6 +1,6 @@
 tags:: #source/scripture/pearl-of-great-price
 
-[<< Moses 06](pearl-of-great-price/01_Moses/Moses_06.md) | [Moses 08 >>](pearl-of-great-price/01_Moses/Moses_08.md)
+[<< Moses 06[(/pearl-of-great-price/01_Moses/Moses_06.md) | [Moses 08 >>[(/pearl-of-great-price/01_Moses/Moses_08.md)
 
 # Moses 07
 

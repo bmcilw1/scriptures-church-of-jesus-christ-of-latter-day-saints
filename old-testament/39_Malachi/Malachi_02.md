@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Malachi 01](old-testament/39_Malachi/Malachi_01.md) | [Malachi 03 >>](old-testament/39_Malachi/Malachi_03.md)
+[<< Malachi 01[(/old-testament/39_Malachi/Malachi_01.md) | [Malachi 03 >>[(/old-testament/39_Malachi/Malachi_03.md)
 
 # Malachi 02
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 27](old-testament/02_Exodus/Exodus_27.md) | [Exodus 29 >>](old-testament/02_Exodus/Exodus_29.md)
+[<< Exodus 27[(/old-testament/02_Exodus/Exodus_27.md) | [Exodus 29 >>[(/old-testament/02_Exodus/Exodus_29.md)
 
 # Exodus 28
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 17](old-testament/19_Psalms/Psalm_17.md) | [Psalm 19 >>](old-testament/19_Psalms/Psalm_19.md)
+[<< Psalm 17[(/old-testament/19_Psalms/Psalm_17.md) | [Psalm 19 >>[(/old-testament/19_Psalms/Psalm_19.md)
 
 # Psalm 18
 

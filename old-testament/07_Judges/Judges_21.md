@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Judges 20](old-testament/07_Judges/Judges_20.md) | [Ruth 01 >>](old-testament/08_Ruth/Ruth_01.md)
+[<< Judges 20[(/old-testament/07_Judges/Judges_20.md) | [Ruth 01 >>[(/old-testament/08_Ruth/Ruth_01.md)
 
 # Judges 21
 

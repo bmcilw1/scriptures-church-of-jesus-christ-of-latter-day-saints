@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 3 Nephi 17](book-of-mormon/11_3_Nephi/3_Nephi_17.md) | [3 Nephi 19 >>](book-of-mormon/11_3_Nephi/3_Nephi_19.md)
+[<< 3 Nephi 17[(/book-of-mormon/11_3_Nephi/3_Nephi_17.md) | [3 Nephi 19 >>[(/book-of-mormon/11_3_Nephi/3_Nephi_19.md)
 
 # 3 Nephi 18
 

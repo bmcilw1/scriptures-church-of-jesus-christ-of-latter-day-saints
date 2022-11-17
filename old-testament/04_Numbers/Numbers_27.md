@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Numbers 26](old-testament/04_Numbers/Numbers_26.md) | [Numbers 28 >>](old-testament/04_Numbers/Numbers_28.md)
+[<< Numbers 26[(/old-testament/04_Numbers/Numbers_26.md) | [Numbers 28 >>[(/old-testament/04_Numbers/Numbers_28.md)
 
 # Numbers 27
 

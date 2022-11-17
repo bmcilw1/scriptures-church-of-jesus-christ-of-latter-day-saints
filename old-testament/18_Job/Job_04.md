@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 03](old-testament/18_Job/Job_03.md) | [Job 05 >>](old-testament/18_Job/Job_05.md)
+[<< Job 03[(/old-testament/18_Job/Job_03.md) | [Job 05 >>[(/old-testament/18_Job/Job_05.md)
 
 # Job 04
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Jarom 01](book-of-mormon/05_The_Book_of_Jarom/Jarom_01.md) | [Words of Mormon 01 >>](book-of-mormon/07_Words_of_Mormon/Words_of_Mormon_01.md)
+[<< Jarom 01[(/book-of-mormon/05_The_Book_of_Jarom/Jarom_01.md) | [Words of Mormon 01 >>[(/book-of-mormon/07_Words_of_Mormon/Words_of_Mormon_01.md)
 
 # Omni 01
 

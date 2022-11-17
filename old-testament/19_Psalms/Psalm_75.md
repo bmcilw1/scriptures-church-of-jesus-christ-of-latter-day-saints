@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 74](old-testament/19_Psalms/Psalm_74.md) | [Psalm 76 >>](old-testament/19_Psalms/Psalm_76.md)
+[<< Psalm 74[(/old-testament/19_Psalms/Psalm_74.md) | [Psalm 76 >>[(/old-testament/19_Psalms/Psalm_76.md)
 
 # Psalm 75
 

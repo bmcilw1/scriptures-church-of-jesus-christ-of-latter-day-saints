@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joshua 16](old-testament/06_Joshua/Joshua_16.md) | [Joshua 18 >>](old-testament/06_Joshua/Joshua_18.md)
+[<< Joshua 16[(/old-testament/06_Joshua/Joshua_16.md) | [Joshua 18 >>[(/old-testament/06_Joshua/Joshua_18.md)
 
 # Joshua 17
 

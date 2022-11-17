@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 66](old-testament/19_Psalms/Psalm_66.md) | [Psalm 68 >>](old-testament/19_Psalms/Psalm_68.md)
+[<< Psalm 66[(/old-testament/19_Psalms/Psalm_66.md) | [Psalm 68 >>[(/old-testament/19_Psalms/Psalm_68.md)
 
 # Psalm 67
 

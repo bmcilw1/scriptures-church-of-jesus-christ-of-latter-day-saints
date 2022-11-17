@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 27](old-testament/18_Job/Job_27.md) | [Job 29 >>](old-testament/18_Job/Job_29.md)
+[<< Job 27[(/old-testament/18_Job/Job_27.md) | [Job 29 >>[(/old-testament/18_Job/Job_29.md)
 
 # Job 28
 

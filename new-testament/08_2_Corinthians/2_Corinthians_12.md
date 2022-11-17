@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 2 Corinthians 11](new-testament/08_2_Corinthians/2_Corinthians_11.md) | [2 Corinthians 13 >>](new-testament/08_2_Corinthians/2_Corinthians_13.md)
+[<< 2 Corinthians 11[(/new-testament/08_2_Corinthians/2_Corinthians_11.md) | [2 Corinthians 13 >>[(/new-testament/08_2_Corinthians/2_Corinthians_13.md)
 
 # 2 Corinthians 12
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Hosea 04](old-testament/28_Hosea/Hosea_04.md) | [Hosea 06 >>](old-testament/28_Hosea/Hosea_06.md)
+[<< Hosea 04[(/old-testament/28_Hosea/Hosea_04.md) | [Hosea 06 >>[(/old-testament/28_Hosea/Hosea_06.md)
 
 # Hosea 05
 

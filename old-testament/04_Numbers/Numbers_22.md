@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Numbers 21](old-testament/04_Numbers/Numbers_21.md) | [Numbers 23 >>](old-testament/04_Numbers/Numbers_23.md)
+[<< Numbers 21[(/old-testament/04_Numbers/Numbers_21.md) | [Numbers 23 >>[(/old-testament/04_Numbers/Numbers_23.md)
 
 # Numbers 22
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 57](old-testament/23_Isaiah/Isaiah_57.md) | [Isaiah 59 >>](old-testament/23_Isaiah/Isaiah_59.md)
+[<< Isaiah 57[(/old-testament/23_Isaiah/Isaiah_57.md) | [Isaiah 59 >>[(/old-testament/23_Isaiah/Isaiah_59.md)
 
 # Isaiah 58
 

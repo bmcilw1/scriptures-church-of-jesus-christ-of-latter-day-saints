@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Malachi 04](old-testament/39_Malachi/Malachi_04.md) | [Matthew 02 >>](new-testament/01_Matthew/Matthew_02.md)
+[<< Malachi 04[(/old-testament/39_Malachi/Malachi_04.md) | [Matthew 02 >>[(/new-testament/01_Matthew/Matthew_02.md)
 
 # Matthew 01
 
