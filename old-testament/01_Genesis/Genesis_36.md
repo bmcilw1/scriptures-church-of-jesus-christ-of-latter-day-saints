@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 35[(/old-testament/01_Genesis/Genesis_35.md) | [Genesis 37 >>[(/old-testament/01_Genesis/Genesis_37.md)
+[<< Genesis 35](/old-testament/01_Genesis/Genesis_35.md) | [Genesis 37 >>](/old-testament/01_Genesis/Genesis_37.md)
 
 # Genesis 36
 

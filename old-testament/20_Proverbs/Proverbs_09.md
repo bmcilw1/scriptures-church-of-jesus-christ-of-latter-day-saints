@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Proverbs 08[(/old-testament/20_Proverbs/Proverbs_08.md) | [Proverbs 10 >>[(/old-testament/20_Proverbs/Proverbs_10.md)
+[<< Proverbs 08](/old-testament/20_Proverbs/Proverbs_08.md) | [Proverbs 10 >>](/old-testament/20_Proverbs/Proverbs_10.md)
 
 # Proverbs 09
 

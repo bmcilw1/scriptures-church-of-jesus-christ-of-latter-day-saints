@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< John 11[(/new-testament/04_John/John_11.md) | [John 13 >>[(/new-testament/04_John/John_13.md)
+[<< John 11](/new-testament/04_John/John_11.md) | [John 13 >>](/new-testament/04_John/John_13.md)
 
 # John 12
 

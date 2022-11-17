@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Romans 11[(/new-testament/06_Romans/Romans_11.md) | [Romans 13 >>[(/new-testament/06_Romans/Romans_13.md)
+[<< Romans 11](/new-testament/06_Romans/Romans_11.md) | [Romans 13 >>](/new-testament/06_Romans/Romans_13.md)
 
 # Romans 12
 

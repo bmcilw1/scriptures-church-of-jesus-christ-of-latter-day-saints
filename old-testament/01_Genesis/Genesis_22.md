@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 21[(/old-testament/01_Genesis/Genesis_21.md) | [Genesis 23 >>[(/old-testament/01_Genesis/Genesis_23.md)
+[<< Genesis 21](/old-testament/01_Genesis/Genesis_21.md) | [Genesis 23 >>](/old-testament/01_Genesis/Genesis_23.md)
 
 # Genesis 22
 

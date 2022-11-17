@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 2 Nephi 31[(/book-of-mormon/02_2_Nephi/2_Nephi_31.md) | [2 Nephi 33 >>[(/book-of-mormon/02_2_Nephi/2_Nephi_33.md)
+[<< 2 Nephi 31](/book-of-mormon/02_2_Nephi/2_Nephi_31.md) | [2 Nephi 33 >>](/book-of-mormon/02_2_Nephi/2_Nephi_33.md)
 
 # 2 Nephi 32
 

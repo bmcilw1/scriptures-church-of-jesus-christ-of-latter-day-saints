@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Ephesians 06[(/new-testament/10_Ephesians/Ephesians_06.md) | [Philippians 02 >>[(/new-testament/11_Philippians/Philippians_02.md)
+[<< Ephesians 06](/new-testament/10_Ephesians/Ephesians_06.md) | [Philippians 02 >>](/new-testament/11_Philippians/Philippians_02.md)
 
 # Philippians 01
 

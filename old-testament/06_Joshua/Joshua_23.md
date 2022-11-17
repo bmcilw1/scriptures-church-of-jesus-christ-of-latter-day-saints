@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joshua 22[(/old-testament/06_Joshua/Joshua_22.md) | [Joshua 24 >>[(/old-testament/06_Joshua/Joshua_24.md)
+[<< Joshua 22](/old-testament/06_Joshua/Joshua_22.md) | [Joshua 24 >>](/old-testament/06_Joshua/Joshua_24.md)
 
 # Joshua 23
 

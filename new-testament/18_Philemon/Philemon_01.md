@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Titus 03[(/new-testament/17_Titus/Titus_03.md) | [Hebrews 01 >>[(/new-testament/19_Hebrews/Hebrews_01.md)
+[<< Titus 03](/new-testament/17_Titus/Titus_03.md) | [Hebrews 01 >>](/new-testament/19_Hebrews/Hebrews_01.md)
 
 # Philemon 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Chronicles 05[(/old-testament/13_1_Chronicles/1_Chronicles_05.md) | [1 Chronicles 07 >>[(/old-testament/13_1_Chronicles/1_Chronicles_07.md)
+[<< 1 Chronicles 05](/old-testament/13_1_Chronicles/1_Chronicles_05.md) | [1 Chronicles 07 >>](/old-testament/13_1_Chronicles/1_Chronicles_07.md)
 
 # 1 Chronicles 06
 

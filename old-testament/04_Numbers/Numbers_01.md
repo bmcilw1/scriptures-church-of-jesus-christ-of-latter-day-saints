@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Leviticus 27[(/old-testament/03_Leviticus/Leviticus_27.md) | [Numbers 02 >>[(/old-testament/04_Numbers/Numbers_02.md)
+[<< Leviticus 27](/old-testament/03_Leviticus/Leviticus_27.md) | [Numbers 02 >>](/old-testament/04_Numbers/Numbers_02.md)
 
 # Numbers 01
 

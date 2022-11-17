@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Kings 24[(/old-testament/12_2_Kings/2_Kings_24.md) | [1 Chronicles 01 >>[(/old-testament/13_1_Chronicles/1_Chronicles_01.md)
+[<< 2 Kings 24](/old-testament/12_2_Kings/2_Kings_24.md) | [1 Chronicles 01 >>](/old-testament/13_1_Chronicles/1_Chronicles_01.md)
 
 # 2 Kings 25
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 38[(/old-testament/02_Exodus/Exodus_38.md) | [Exodus 40 >>[(/old-testament/02_Exodus/Exodus_40.md)
+[<< Exodus 38](/old-testament/02_Exodus/Exodus_38.md) | [Exodus 40 >>](/old-testament/02_Exodus/Exodus_40.md)
 
 # Exodus 39
 

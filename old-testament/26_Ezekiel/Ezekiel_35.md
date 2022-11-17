@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 34[(/old-testament/26_Ezekiel/Ezekiel_34.md) | [Ezekiel 36 >>[(/old-testament/26_Ezekiel/Ezekiel_36.md)
+[<< Ezekiel 34](/old-testament/26_Ezekiel/Ezekiel_34.md) | [Ezekiel 36 >>](/old-testament/26_Ezekiel/Ezekiel_36.md)
 
 # Ezekiel 35
 

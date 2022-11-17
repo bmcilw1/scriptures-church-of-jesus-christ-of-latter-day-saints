@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 18[(/old-testament/02_Exodus/Exodus_18.md) | [Exodus 20 >>[(/old-testament/02_Exodus/Exodus_20.md)
+[<< Exodus 18](/old-testament/02_Exodus/Exodus_18.md) | [Exodus 20 >>](/old-testament/02_Exodus/Exodus_20.md)
 
 # Exodus 19
 

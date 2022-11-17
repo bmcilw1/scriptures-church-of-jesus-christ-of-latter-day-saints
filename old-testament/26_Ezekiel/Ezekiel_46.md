@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 45[(/old-testament/26_Ezekiel/Ezekiel_45.md) | [Ezekiel 47 >>[(/old-testament/26_Ezekiel/Ezekiel_47.md)
+[<< Ezekiel 45](/old-testament/26_Ezekiel/Ezekiel_45.md) | [Ezekiel 47 >>](/old-testament/26_Ezekiel/Ezekiel_47.md)
 
 # Ezekiel 46
 

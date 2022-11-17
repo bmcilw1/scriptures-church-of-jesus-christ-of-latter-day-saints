@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< James 01[(/new-testament/20_James/James_01.md) | [James 03 >>[(/new-testament/20_James/James_03.md)
+[<< James 01](/new-testament/20_James/James_01.md) | [James 03 >>](/new-testament/20_James/James_03.md)
 
 # James 02
 

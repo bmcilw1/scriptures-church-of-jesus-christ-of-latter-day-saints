@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Helaman 09[(/book-of-mormon/10_Helaman/Helaman_09.md) | [Helaman 11 >>[(/book-of-mormon/10_Helaman/Helaman_11.md)
+[<< Helaman 09](/book-of-mormon/10_Helaman/Helaman_09.md) | [Helaman 11 >>](/book-of-mormon/10_Helaman/Helaman_11.md)
 
 # Helaman 10
 

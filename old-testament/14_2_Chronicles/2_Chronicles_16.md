@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 15[(/old-testament/14_2_Chronicles/2_Chronicles_15.md) | [2 Chronicles 17 >>[(/old-testament/14_2_Chronicles/2_Chronicles_17.md)
+[<< 2 Chronicles 15](/old-testament/14_2_Chronicles/2_Chronicles_15.md) | [2 Chronicles 17 >>](/old-testament/14_2_Chronicles/2_Chronicles_17.md)
 
 # 2 Chronicles 16
 

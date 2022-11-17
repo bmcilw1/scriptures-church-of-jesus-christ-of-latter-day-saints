@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Revelation 21[(/new-testament/27_Revelation/Revelation_21.md) | [1 Nephi 01 >>[(/book-of-mormon/01_1_Nephi/1_Nephi_01.md)
+[<< Revelation 21](/new-testament/27_Revelation/Revelation_21.md) | [1 Nephi 01 >>](/book-of-mormon/01_1_Nephi/1_Nephi_01.md)
 
 # Revelation 22
 

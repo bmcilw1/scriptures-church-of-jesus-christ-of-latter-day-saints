@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 2 Peter 01[(/new-testament/22_2_Peter/2_Peter_01.md) | [2 Peter 03 >>[(/new-testament/22_2_Peter/2_Peter_03.md)
+[<< 2 Peter 01](/new-testament/22_2_Peter/2_Peter_01.md) | [2 Peter 03 >>](/new-testament/22_2_Peter/2_Peter_03.md)
 
 # 2 Peter 02
 

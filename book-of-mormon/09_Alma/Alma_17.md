@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Alma 16[(/book-of-mormon/09_Alma/Alma_16.md) | [Alma 18 >>[(/book-of-mormon/09_Alma/Alma_18.md)
+[<< Alma 16](/book-of-mormon/09_Alma/Alma_16.md) | [Alma 18 >>](/book-of-mormon/09_Alma/Alma_18.md)
 
 # Alma 17
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Daniel 12[(/old-testament/27_Daniel/Daniel_12.md) | [Hosea 02 >>[(/old-testament/28_Hosea/Hosea_02.md)
+[<< Daniel 12](/old-testament/27_Daniel/Daniel_12.md) | [Hosea 02 >>](/old-testament/28_Hosea/Hosea_02.md)
 
 # Hosea 01
 

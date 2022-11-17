@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ecclesiastes 06[(/old-testament/21_Ecclesiastes/Ecclesiastes_06.md) | [Ecclesiastes 08 >>[(/old-testament/21_Ecclesiastes/Ecclesiastes_08.md)
+[<< Ecclesiastes 06](/old-testament/21_Ecclesiastes/Ecclesiastes_06.md) | [Ecclesiastes 08 >>](/old-testament/21_Ecclesiastes/Ecclesiastes_08.md)
 
 # Ecclesiastes 07
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 15[(/book-of-mormon/08_Mosiah/Mosiah_15.md) | [Mosiah 17 >>[(/book-of-mormon/08_Mosiah/Mosiah_17.md)
+[<< Mosiah 15](/book-of-mormon/08_Mosiah/Mosiah_15.md) | [Mosiah 17 >>](/book-of-mormon/08_Mosiah/Mosiah_17.md)
 
 # Mosiah 16
 

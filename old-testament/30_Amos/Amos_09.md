@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Amos 08[(/old-testament/30_Amos/Amos_08.md) | [Obadiah 01 >>[(/old-testament/31_Obadiah/Obadiah_01.md)
+[<< Amos 08](/old-testament/30_Amos/Amos_08.md) | [Obadiah 01 >>](/old-testament/31_Obadiah/Obadiah_01.md)
 
 # Amos 09
 

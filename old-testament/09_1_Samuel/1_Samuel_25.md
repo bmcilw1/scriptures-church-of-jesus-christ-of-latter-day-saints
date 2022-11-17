@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 24[(/old-testament/09_1_Samuel/1_Samuel_24.md) | [1 Samuel 26 >>[(/old-testament/09_1_Samuel/1_Samuel_26.md)
+[<< 1 Samuel 24](/old-testament/09_1_Samuel/1_Samuel_24.md) | [1 Samuel 26 >>](/old-testament/09_1_Samuel/1_Samuel_26.md)
 
 # 1 Samuel 25
 

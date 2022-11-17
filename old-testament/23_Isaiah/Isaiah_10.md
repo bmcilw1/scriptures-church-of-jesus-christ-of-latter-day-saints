@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 09[(/old-testament/23_Isaiah/Isaiah_09.md) | [Isaiah 11 >>[(/old-testament/23_Isaiah/Isaiah_11.md)
+[<< Isaiah 09](/old-testament/23_Isaiah/Isaiah_09.md) | [Isaiah 11 >>](/old-testament/23_Isaiah/Isaiah_11.md)
 
 # Isaiah 10
 

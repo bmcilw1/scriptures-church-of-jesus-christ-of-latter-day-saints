@@ -24,7 +24,7 @@ it to my version.
 
 - [ ] Add quick links at the top of each file for easy navigation.
   - Here is one way those links have been structured: [[av/Job/Job 37|<< Job 37]] | [[av/Job|Job]] | [[av/Job/Job 39|Job 39 >>]]
-  - Here is another way I have found to structure them: [<<[(/1%20Nephi%203v17.md) | [>>[(/1%20Nephi%203v19.md) - I can use file names in the files and relative file paths in the index. -THIS LINKS ARE PREFERRED BECAUSE THEY ARE NOT OBSIDIAN SPECIFIC
+  - Here is another way I have found to structure them: [<<](/1%20Nephi%203v17.md) | [>>](/1%20Nephi%203v19.md) - I can use file names in the files and relative file paths in the index. -THIS LINKS ARE PREFERRED BECAUSE THEY ARE NOT OBSIDIAN SPECIFIC
 
 ## Referencing Verses
 
@@ -66,5 +66,5 @@ I want to use the following tags
 
 # References
 
-1. [GitHub - awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ: Markdown Files by Chapter: The Book of Mormon, The King James Version of Old Testament & New Testament, Doctrine & Covenants, and the Pearl of Great Price[(/https://github.com/awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ)
-2. [GitHub - arkholt/markdown-lds-scriptures: LDS Scriptures in Markdown format[(/https://github.com/arkholt/markdown-lds-scriptures)
+1. [GitHub - awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ: Markdown Files by Chapter: The Book of Mormon, The King James Version of Old Testament & New Testament, Doctrine & Covenants, and the Pearl of Great Price](/https://github.com/awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ)
+2. [GitHub - arkholt/markdown-lds-scriptures: LDS Scriptures in Markdown format](/https://github.com/arkholt/markdown-lds-scriptures)

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 23[(/old-testament/02_Exodus/Exodus_23.md) | [Exodus 25 >>[(/old-testament/02_Exodus/Exodus_25.md)
+[<< Exodus 23](/old-testament/02_Exodus/Exodus_23.md) | [Exodus 25 >>](/old-testament/02_Exodus/Exodus_25.md)
 
 # Exodus 24
 

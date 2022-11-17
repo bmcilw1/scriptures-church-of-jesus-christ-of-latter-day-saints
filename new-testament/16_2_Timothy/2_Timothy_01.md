@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 1 Timothy 06[(/new-testament/15_1_Timothy/1_Timothy_06.md) | [2 Timothy 02 >>[(/new-testament/16_2_Timothy/2_Timothy_02.md)
+[<< 1 Timothy 06](/new-testament/15_1_Timothy/1_Timothy_06.md) | [2 Timothy 02 >>](/new-testament/16_2_Timothy/2_Timothy_02.md)
 
 # 2 Timothy 01
 

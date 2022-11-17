@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 31[(/old-testament/19_Psalms/Psalm_31.md) | [Psalm 33 >>[(/old-testament/19_Psalms/Psalm_33.md)
+[<< Psalm 31](/old-testament/19_Psalms/Psalm_31.md) | [Psalm 33 >>](/old-testament/19_Psalms/Psalm_33.md)
 
 # Psalm 32
 

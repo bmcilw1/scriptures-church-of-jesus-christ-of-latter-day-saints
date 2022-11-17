@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 2 Nephi 12[(/book-of-mormon/02_2_Nephi/2_Nephi_12.md) | [2 Nephi 14 >>[(/book-of-mormon/02_2_Nephi/2_Nephi_14.md)
+[<< 2 Nephi 12](/book-of-mormon/02_2_Nephi/2_Nephi_12.md) | [2 Nephi 14 >>](/book-of-mormon/02_2_Nephi/2_Nephi_14.md)
 
 # 2 Nephi 13
 

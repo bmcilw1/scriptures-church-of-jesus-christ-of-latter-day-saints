@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Proverbs 31[(/old-testament/20_Proverbs/Proverbs_31.md) | [Ecclesiastes 02 >>[(/old-testament/21_Ecclesiastes/Ecclesiastes_02.md)
+[<< Proverbs 31](/old-testament/20_Proverbs/Proverbs_31.md) | [Ecclesiastes 02 >>](/old-testament/21_Ecclesiastes/Ecclesiastes_02.md)
 
 # Ecclesiastes 01
 
