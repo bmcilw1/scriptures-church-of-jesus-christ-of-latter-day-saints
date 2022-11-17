@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ecclesiastes 01](source/scripture/old-testament/21_Ecclesiastes/Ecclesiastes_01.md) | [Ecclesiastes 03 >>](source/scripture/old-testament/21_Ecclesiastes/Ecclesiastes_03.md)
+[<< Ecclesiastes 01](old-testament/21_Ecclesiastes/Ecclesiastes_01.md) | [Ecclesiastes 03 >>](old-testament/21_Ecclesiastes/Ecclesiastes_03.md)
 
 # Ecclesiastes 02
 

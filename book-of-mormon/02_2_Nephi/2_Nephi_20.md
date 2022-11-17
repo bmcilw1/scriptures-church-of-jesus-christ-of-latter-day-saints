@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 2 Nephi 19](source/scripture/book-of-mormon/02_2_Nephi/2_Nephi_19.md) | [2 Nephi 21 >>](source/scripture/book-of-mormon/02_2_Nephi/2_Nephi_21.md)
+[<< 2 Nephi 19](book-of-mormon/02_2_Nephi/2_Nephi_19.md) | [2 Nephi 21 >>](book-of-mormon/02_2_Nephi/2_Nephi_21.md)
 
 # 2 Nephi 20
 

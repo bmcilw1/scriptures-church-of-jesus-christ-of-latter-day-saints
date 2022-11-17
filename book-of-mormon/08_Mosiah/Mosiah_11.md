@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 10](source/scripture/book-of-mormon/08_Mosiah/Mosiah_10.md) | [Mosiah 12 >>](source/scripture/book-of-mormon/08_Mosiah/Mosiah_12.md)
+[<< Mosiah 10](book-of-mormon/08_Mosiah/Mosiah_10.md) | [Mosiah 12 >>](book-of-mormon/08_Mosiah/Mosiah_12.md)
 
 # Mosiah 11
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 54](source/scripture/old-testament/19_Psalms/Psalm_54.md) | [Psalm 56 >>](source/scripture/old-testament/19_Psalms/Psalm_56.md)
+[<< Psalm 54](old-testament/19_Psalms/Psalm_54.md) | [Psalm 56 >>](old-testament/19_Psalms/Psalm_56.md)
 
 # Psalm 55
 

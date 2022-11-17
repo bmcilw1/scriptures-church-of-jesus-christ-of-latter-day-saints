@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 40](source/scripture/old-testament/02_Exodus/Exodus_40.md) | [Leviticus 02 >>](source/scripture/old-testament/03_Leviticus/Leviticus_02.md)
+[<< Exodus 40](old-testament/02_Exodus/Exodus_40.md) | [Leviticus 02 >>](old-testament/03_Leviticus/Leviticus_02.md)
 
 # Leviticus 01
 

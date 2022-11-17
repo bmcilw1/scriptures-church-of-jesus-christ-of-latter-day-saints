@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 1 Thessalonians 02](source/scripture/new-testament/13_1_Thessalonians/1_Thessalonians_02.md) | [1 Thessalonians 04 >>](source/scripture/new-testament/13_1_Thessalonians/1_Thessalonians_04.md)
+[<< 1 Thessalonians 02](new-testament/13_1_Thessalonians/1_Thessalonians_02.md) | [1 Thessalonians 04 >>](new-testament/13_1_Thessalonians/1_Thessalonians_04.md)
 
 # 1 Thessalonians 03
 

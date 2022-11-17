@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Matthew 16](source/scripture/new-testament/01_Matthew/Matthew_16.md) | [Matthew 18 >>](source/scripture/new-testament/01_Matthew/Matthew_18.md)
+[<< Matthew 16](new-testament/01_Matthew/Matthew_16.md) | [Matthew 18 >>](new-testament/01_Matthew/Matthew_18.md)
 
 # Matthew 17
 

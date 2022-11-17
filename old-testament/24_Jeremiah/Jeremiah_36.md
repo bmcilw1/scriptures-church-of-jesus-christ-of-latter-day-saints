@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 35](source/scripture/old-testament/24_Jeremiah/Jeremiah_35.md) | [Jeremiah 37 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_37.md)
+[<< Jeremiah 35](old-testament/24_Jeremiah/Jeremiah_35.md) | [Jeremiah 37 >>](old-testament/24_Jeremiah/Jeremiah_37.md)
 
 # Jeremiah 36
 

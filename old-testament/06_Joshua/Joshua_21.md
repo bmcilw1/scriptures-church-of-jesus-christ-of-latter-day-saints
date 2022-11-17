@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joshua 20](source/scripture/old-testament/06_Joshua/Joshua_20.md) | [Joshua 22 >>](source/scripture/old-testament/06_Joshua/Joshua_22.md)
+[<< Joshua 20](old-testament/06_Joshua/Joshua_20.md) | [Joshua 22 >>](old-testament/06_Joshua/Joshua_22.md)
 
 # Joshua 21
 

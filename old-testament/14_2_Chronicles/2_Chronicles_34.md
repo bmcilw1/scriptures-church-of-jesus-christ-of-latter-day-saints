@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 33](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_33.md) | [2 Chronicles 35 >>](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_35.md)
+[<< 2 Chronicles 33](old-testament/14_2_Chronicles/2_Chronicles_33.md) | [2 Chronicles 35 >>](old-testament/14_2_Chronicles/2_Chronicles_35.md)
 
 # 2 Chronicles 34
 

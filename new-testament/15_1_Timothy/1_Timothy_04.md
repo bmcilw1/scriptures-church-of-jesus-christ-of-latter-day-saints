@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 1 Timothy 03](source/scripture/new-testament/15_1_Timothy/1_Timothy_03.md) | [1 Timothy 05 >>](source/scripture/new-testament/15_1_Timothy/1_Timothy_05.md)
+[<< 1 Timothy 03](new-testament/15_1_Timothy/1_Timothy_03.md) | [1 Timothy 05 >>](new-testament/15_1_Timothy/1_Timothy_05.md)
 
 # 1 Timothy 04
 

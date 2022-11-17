@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 16](source/scripture/old-testament/24_Jeremiah/Jeremiah_16.md) | [Jeremiah 18 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_18.md)
+[<< Jeremiah 16](old-testament/24_Jeremiah/Jeremiah_16.md) | [Jeremiah 18 >>](old-testament/24_Jeremiah/Jeremiah_18.md)
 
 # Jeremiah 17
 

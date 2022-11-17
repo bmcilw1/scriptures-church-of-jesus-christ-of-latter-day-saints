@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 04](source/scripture/book-of-mormon/08_Mosiah/Mosiah_04.md) | [Mosiah 06 >>](source/scripture/book-of-mormon/08_Mosiah/Mosiah_06.md)
+[<< Mosiah 04](book-of-mormon/08_Mosiah/Mosiah_04.md) | [Mosiah 06 >>](book-of-mormon/08_Mosiah/Mosiah_06.md)
 
 # Mosiah 05
 

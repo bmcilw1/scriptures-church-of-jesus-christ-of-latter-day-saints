@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Mark 10](source/scripture/new-testament/02_Mark/Mark_10.md) | [Mark 12 >>](source/scripture/new-testament/02_Mark/Mark_12.md)
+[<< Mark 10](new-testament/02_Mark/Mark_10.md) | [Mark 12 >>](new-testament/02_Mark/Mark_12.md)
 
 # Mark 11
 

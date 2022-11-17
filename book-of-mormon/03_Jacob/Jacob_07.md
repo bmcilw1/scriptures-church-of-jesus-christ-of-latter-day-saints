@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Jacob 06](source/scripture/book-of-mormon/03_Jacob/Jacob_06.md) | [Enos 01 >>](source/scripture/book-of-mormon/04_The_Book_of_Enos/Enos_01.md)
+[<< Jacob 06](book-of-mormon/03_Jacob/Jacob_06.md) | [Enos 01 >>](book-of-mormon/04_The_Book_of_Enos/Enos_01.md)
 
 # Jacob 07
 

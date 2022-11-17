@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Micah 04](source/scripture/old-testament/33_Micah/Micah_04.md) | [Micah 06 >>](source/scripture/old-testament/33_Micah/Micah_06.md)
+[<< Micah 04](old-testament/33_Micah/Micah_04.md) | [Micah 06 >>](old-testament/33_Micah/Micah_06.md)
 
 # Micah 05
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 64](source/scripture/old-testament/23_Isaiah/Isaiah_64.md) | [Isaiah 66 >>](source/scripture/old-testament/23_Isaiah/Isaiah_66.md)
+[<< Isaiah 64](old-testament/23_Isaiah/Isaiah_64.md) | [Isaiah 66 >>](old-testament/23_Isaiah/Isaiah_66.md)
 
 # Isaiah 65
 

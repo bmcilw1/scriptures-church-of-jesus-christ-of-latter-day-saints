@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 21](source/scripture/old-testament/18_Job/Job_21.md) | [Job 23 >>](source/scripture/old-testament/18_Job/Job_23.md)
+[<< Job 21](old-testament/18_Job/Job_21.md) | [Job 23 >>](old-testament/18_Job/Job_23.md)
 
 # Job 22
 

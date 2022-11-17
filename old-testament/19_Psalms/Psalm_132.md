@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 131](source/scripture/old-testament/19_Psalms/Psalm_131.md) | [Psalm 133 >>](source/scripture/old-testament/19_Psalms/Psalm_133.md)
+[<< Psalm 131](old-testament/19_Psalms/Psalm_131.md) | [Psalm 133 >>](old-testament/19_Psalms/Psalm_133.md)
 
 # Psalm 132
 

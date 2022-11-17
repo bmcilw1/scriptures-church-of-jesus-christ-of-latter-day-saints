@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 29](source/scripture/old-testament/24_Jeremiah/Jeremiah_29.md) | [Jeremiah 31 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_31.md)
+[<< Jeremiah 29](old-testament/24_Jeremiah/Jeremiah_29.md) | [Jeremiah 31 >>](old-testament/24_Jeremiah/Jeremiah_31.md)
 
 # Jeremiah 30
 

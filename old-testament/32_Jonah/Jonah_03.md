@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jonah 02](source/scripture/old-testament/32_Jonah/Jonah_02.md) | [Jonah 04 >>](source/scripture/old-testament/32_Jonah/Jonah_04.md)
+[<< Jonah 02](old-testament/32_Jonah/Jonah_02.md) | [Jonah 04 >>](old-testament/32_Jonah/Jonah_04.md)
 
 # Jonah 03
 

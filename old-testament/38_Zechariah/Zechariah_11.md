@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Zechariah 10](source/scripture/old-testament/38_Zechariah/Zechariah_10.md) | [Zechariah 12 >>](source/scripture/old-testament/38_Zechariah/Zechariah_12.md)
+[<< Zechariah 10](old-testament/38_Zechariah/Zechariah_10.md) | [Zechariah 12 >>](old-testament/38_Zechariah/Zechariah_12.md)
 
 # Zechariah 11
 

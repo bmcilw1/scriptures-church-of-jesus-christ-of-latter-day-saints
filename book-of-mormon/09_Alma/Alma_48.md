@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Alma 47](source/scripture/book-of-mormon/09_Alma/Alma_47.md) | [Alma 49 >>](source/scripture/book-of-mormon/09_Alma/Alma_49.md)
+[<< Alma 47](book-of-mormon/09_Alma/Alma_47.md) | [Alma 49 >>](book-of-mormon/09_Alma/Alma_49.md)
 
 # Alma 48
 

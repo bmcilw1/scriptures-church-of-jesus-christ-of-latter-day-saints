@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 38](source/scripture/old-testament/24_Jeremiah/Jeremiah_38.md) | [Jeremiah 40 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_40.md)
+[<< Jeremiah 38](old-testament/24_Jeremiah/Jeremiah_38.md) | [Jeremiah 40 >>](old-testament/24_Jeremiah/Jeremiah_40.md)
 
 # Jeremiah 39
 

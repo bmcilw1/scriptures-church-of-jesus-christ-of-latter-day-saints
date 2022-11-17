@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 36](source/scripture/old-testament/23_Isaiah/Isaiah_36.md) | [Isaiah 38 >>](source/scripture/old-testament/23_Isaiah/Isaiah_38.md)
+[<< Isaiah 36](old-testament/23_Isaiah/Isaiah_36.md) | [Isaiah 38 >>](old-testament/23_Isaiah/Isaiah_38.md)
 
 # Isaiah 37
 

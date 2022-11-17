@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 29](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_29.md) | [Deuteronomy 31 >>](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_31.md)
+[<< Deuteronomy 29](old-testament/05_Deuteronomy/Deuteronomy_29.md) | [Deuteronomy 31 >>](old-testament/05_Deuteronomy/Deuteronomy_31.md)
 
 # Deuteronomy 30
 

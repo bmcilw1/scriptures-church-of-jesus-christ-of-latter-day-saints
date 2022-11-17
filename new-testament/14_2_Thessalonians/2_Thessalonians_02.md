@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 2 Thessalonians 01](source/scripture/new-testament/14_2_Thessalonians/2_Thessalonians_01.md) | [2 Thessalonians 03 >>](source/scripture/new-testament/14_2_Thessalonians/2_Thessalonians_03.md)
+[<< 2 Thessalonians 01](new-testament/14_2_Thessalonians/2_Thessalonians_01.md) | [2 Thessalonians 03 >>](new-testament/14_2_Thessalonians/2_Thessalonians_03.md)
 
 # 2 Thessalonians 02
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Leviticus 18](source/scripture/old-testament/03_Leviticus/Leviticus_18.md) | [Leviticus 20 >>](source/scripture/old-testament/03_Leviticus/Leviticus_20.md)
+[<< Leviticus 18](old-testament/03_Leviticus/Leviticus_18.md) | [Leviticus 20 >>](old-testament/03_Leviticus/Leviticus_20.md)
 
 # Leviticus 19
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 07](source/scripture/old-testament/01_Genesis/Genesis_07.md) | [Genesis 09 >>](source/scripture/old-testament/01_Genesis/Genesis_09.md)
+[<< Genesis 07](old-testament/01_Genesis/Genesis_07.md) | [Genesis 09 >>](old-testament/01_Genesis/Genesis_09.md)
 
 # Genesis 08
 

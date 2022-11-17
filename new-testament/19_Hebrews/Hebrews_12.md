@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Hebrews 11](source/scripture/new-testament/19_Hebrews/Hebrews_11.md) | [Hebrews 13 >>](source/scripture/new-testament/19_Hebrews/Hebrews_13.md)
+[<< Hebrews 11](new-testament/19_Hebrews/Hebrews_11.md) | [Hebrews 13 >>](new-testament/19_Hebrews/Hebrews_13.md)
 
 # Hebrews 12
 

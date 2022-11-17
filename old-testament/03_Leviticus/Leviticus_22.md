@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Leviticus 21](source/scripture/old-testament/03_Leviticus/Leviticus_21.md) | [Leviticus 23 >>](source/scripture/old-testament/03_Leviticus/Leviticus_23.md)
+[<< Leviticus 21](old-testament/03_Leviticus/Leviticus_21.md) | [Leviticus 23 >>](old-testament/03_Leviticus/Leviticus_23.md)
 
 # Leviticus 22
 

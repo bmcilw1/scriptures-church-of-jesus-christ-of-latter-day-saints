@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 52](source/scripture/old-testament/24_Jeremiah/Jeremiah_52.md) | [Lamentations 02 >>](source/scripture/old-testament/25_Lamentations/Lamentations_02.md)
+[<< Jeremiah 52](old-testament/24_Jeremiah/Jeremiah_52.md) | [Lamentations 02 >>](old-testament/25_Lamentations/Lamentations_02.md)
 
 # Lamentations 01
 

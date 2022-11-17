@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Collosians 02](source/scripture/new-testament/12_Collosians/Collosians_02.md) | [Collosians 04 >>](source/scripture/new-testament/12_Collosians/Collosians_04.md)
+[<< Collosians 02](new-testament/12_Collosians/Collosians_02.md) | [Collosians 04 >>](new-testament/12_Collosians/Collosians_04.md)
 
 # Collosians 03
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 34](source/scripture/old-testament/18_Job/Job_34.md) | [Job 36 >>](source/scripture/old-testament/18_Job/Job_36.md)
+[<< Job 34](old-testament/18_Job/Job_34.md) | [Job 36 >>](old-testament/18_Job/Job_36.md)
 
 # Job 35
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Alma 62](source/scripture/book-of-mormon/09_Alma/Alma_62.md) | [Helaman 01 >>](source/scripture/book-of-mormon/10_Helaman/Helaman_01.md)
+[<< Alma 62](book-of-mormon/09_Alma/Alma_62.md) | [Helaman 01 >>](book-of-mormon/10_Helaman/Helaman_01.md)
 
 # Alma 63
 

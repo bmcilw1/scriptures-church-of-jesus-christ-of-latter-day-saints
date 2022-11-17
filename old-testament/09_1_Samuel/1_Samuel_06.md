@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 05](source/scripture/old-testament/09_1_Samuel/1_Samuel_05.md) | [1 Samuel 07 >>](source/scripture/old-testament/09_1_Samuel/1_Samuel_07.md)
+[<< 1 Samuel 05](old-testament/09_1_Samuel/1_Samuel_05.md) | [1 Samuel 07 >>](old-testament/09_1_Samuel/1_Samuel_07.md)
 
 # 1 Samuel 06
 

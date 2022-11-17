@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Nehemiah 02](source/scripture/old-testament/16_Nehemiah/Nehemiah_02.md) | [Nehemiah 04 >>](source/scripture/old-testament/16_Nehemiah/Nehemiah_04.md)
+[<< Nehemiah 02](old-testament/16_Nehemiah/Nehemiah_02.md) | [Nehemiah 04 >>](old-testament/16_Nehemiah/Nehemiah_04.md)
 
 # Nehemiah 03
 

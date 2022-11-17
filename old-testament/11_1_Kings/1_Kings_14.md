@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Kings 13](source/scripture/old-testament/11_1_Kings/1_Kings_13.md) | [1 Kings 15 >>](source/scripture/old-testament/11_1_Kings/1_Kings_15.md)
+[<< 1 Kings 13](old-testament/11_1_Kings/1_Kings_13.md) | [1 Kings 15 >>](old-testament/11_1_Kings/1_Kings_15.md)
 
 # 1 Kings 14
 
