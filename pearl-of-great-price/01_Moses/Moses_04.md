@@ -1,6 +1,6 @@
-tags:: #PEARL_OF_GREAT_PRICE
+tags:: #source/scripture/pearl-of-great-price
 
-[<< Moses 03](PEARL_OF_GREAT_PRICE/01_Moses/Moses_03.md) | [Moses 05 >>](PEARL_OF_GREAT_PRICE/01_Moses/Moses_05.md)
+[<< Moses 03](source/scripture/pearl-of-great-price/01_Moses/Moses_03.md) | [Moses 05 >>](source/scripture/pearl-of-great-price/01_Moses/Moses_05.md)
 
 # Moses 04
 

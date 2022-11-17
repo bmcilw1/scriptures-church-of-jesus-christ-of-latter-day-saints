@@ -49,7 +49,7 @@ I want to use the following tags
 - `SCRIPTURE` - I will put scripture on all the files so they can all be grouped together.
 - `source/scripture/book-of-mormon`
 - `DOCTRING_&_COVENANTS`
-- `PEARL_OF_GREAT_PRICE`
+- `source/scripture/pearl-of-great-price`
 - `BIBLE`
 - `source/scripture/old-testament`
 - `source/scripture/new-testament`

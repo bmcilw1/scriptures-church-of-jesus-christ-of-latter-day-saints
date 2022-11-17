@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 05 The Articles of Faith >>](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/05_The_Articles_of_Faith.md) | [Genesis 02 >>](source/scripture/old-testament/01_Genesis/Genesis_02.md)
+[<< 05 The Articles of Faith >>](source/scripture/pearl-of-great-price/03_Joseph_Smith/05_The_Articles_of_Faith.md) | [Genesis 02 >>](source/scripture/old-testament/01_Genesis/Genesis_02.md)
 
 # Genesis 01
 

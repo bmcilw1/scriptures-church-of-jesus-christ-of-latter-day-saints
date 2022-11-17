@@ -1,6 +1,6 @@
-tags:: #PEARL_OF_GREAT_PRICE
+tags:: #source/scripture/pearl-of-great-price
 
-[<< Abraham 04](PEARL_OF_GREAT_PRICE/02_Abraham/Abraham_04.md) | [03 Joseph Smith--Matthew >>](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/03_Joseph_Smith--Matthew.md)
+[<< Abraham 04](source/scripture/pearl-of-great-price/02_Abraham/Abraham_04.md) | [03 Joseph Smith--Matthew >>](source/scripture/pearl-of-great-price/03_Joseph_Smith/03_Joseph_Smith--Matthew.md)
 
 # Abraham 05
 

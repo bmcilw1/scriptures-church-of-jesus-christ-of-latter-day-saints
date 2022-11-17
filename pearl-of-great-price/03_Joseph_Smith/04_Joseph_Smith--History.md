@@ -1,6 +1,6 @@
-tags:: #PEARL_OF_GREAT_PRICE
+tags:: #source/scripture/pearl-of-great-price
 
-[<< 03 Joseph Smith--Matthew](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/03_Joseph_Smith--Matthew.md) | [05 The Articles of Faith >>](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/05_The_Articles_of_Faith.md)
+[<< 03 Joseph Smith--Matthew](source/scripture/pearl-of-great-price/03_Joseph_Smith/03_Joseph_Smith--Matthew.md) | [05 The Articles of Faith >>](source/scripture/pearl-of-great-price/03_Joseph_Smith/05_The_Articles_of_Faith.md)
 
 # 04 Joseph Smith--History
 
