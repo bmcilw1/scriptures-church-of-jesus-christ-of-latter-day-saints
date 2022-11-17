@@ -1,6 +1,6 @@
 tags:: #PEARL_OF_GREAT_PRICE
 
-[<< D&C 138](DOCTRINE_AND_COVENANTS/D&C_138.md) | [Moses 02 >>](PEARL_OF_GREAT_PRICE/01_Moses/Moses_02.md)
+[<< D&C 138](source/scripture/doctrine-and-covenants/D&C_138.md) | [Moses 02 >>](PEARL_OF_GREAT_PRICE/01_Moses/Moses_02.md)
 
 # Moses 01
 

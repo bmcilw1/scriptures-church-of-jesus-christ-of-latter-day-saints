@@ -1,7 +1,7 @@
 import os
 
 path = '/mnt/c/My Drive/Obsidian/SCRIPTURES/'
-book_to_process = 'DOCTRINE_AND_COVENANTS'
+book_to_process = 'source/scripture/doctrine-and-covenants'
 
 def file_path_list(book_name)-> str:
     file_list = []
