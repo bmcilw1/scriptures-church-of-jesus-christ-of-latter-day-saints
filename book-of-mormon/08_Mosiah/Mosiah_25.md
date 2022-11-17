@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 24](BOOK_OF_MORMON/08_Mosiah/Mosiah_24.md) | [Mosiah 26 >>](BOOK_OF_MORMON/08_Mosiah/Mosiah_26.md)
+[<< Mosiah 24](source/scripture/book-of-mormon/08_Mosiah/Mosiah_24.md) | [Mosiah 26 >>](source/scripture/book-of-mormon/08_Mosiah/Mosiah_26.md)
 
 # Mosiah 25
 

@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< Mormon 04](BOOK_OF_MORMON/13_Mormon/Mormon_04.md) | [Mormon 06 >>](BOOK_OF_MORMON/13_Mormon/Mormon_06.md)
+[<< Mormon 04](source/scripture/book-of-mormon/13_Mormon/Mormon_04.md) | [Mormon 06 >>](source/scripture/book-of-mormon/13_Mormon/Mormon_06.md)
 
 # Mormon 05
 

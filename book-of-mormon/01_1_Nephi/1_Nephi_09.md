@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< 1 Nephi 08](BOOK_OF_MORMON/01_1_Nephi/1_Nephi_08.md) | [1 Nephi 10 >>](BOOK_OF_MORMON/01_1_Nephi/1_Nephi_10.md)
+[<< 1 Nephi 08](source/scripture/book-of-mormon/01_1_Nephi/1_Nephi_08.md) | [1 Nephi 10 >>](source/scripture/book-of-mormon/01_1_Nephi/1_Nephi_10.md)
 
 # 1 Nephi 09
 

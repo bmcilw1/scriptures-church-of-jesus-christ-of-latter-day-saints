@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< 2 Nephi 27](BOOK_OF_MORMON/02_2_Nephi/2_Nephi_27.md) | [2 Nephi 29 >>](BOOK_OF_MORMON/02_2_Nephi/2_Nephi_29.md)
+[<< 2 Nephi 27](source/scripture/book-of-mormon/02_2_Nephi/2_Nephi_27.md) | [2 Nephi 29 >>](source/scripture/book-of-mormon/02_2_Nephi/2_Nephi_29.md)
 
 # 2 Nephi 28
 

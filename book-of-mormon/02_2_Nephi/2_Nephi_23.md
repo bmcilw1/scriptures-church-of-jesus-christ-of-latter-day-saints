@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< 2 Nephi 22](BOOK_OF_MORMON/02_2_Nephi/2_Nephi_22.md) | [2 Nephi 24 >>](BOOK_OF_MORMON/02_2_Nephi/2_Nephi_24.md)
+[<< 2 Nephi 22](source/scripture/book-of-mormon/02_2_Nephi/2_Nephi_22.md) | [2 Nephi 24 >>](source/scripture/book-of-mormon/02_2_Nephi/2_Nephi_24.md)
 
 # 2 Nephi 23
 

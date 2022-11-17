@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< Alma 12](BOOK_OF_MORMON/09_Alma/Alma_12.md) | [Alma 14 >>](BOOK_OF_MORMON/09_Alma/Alma_14.md)
+[<< Alma 12](source/scripture/book-of-mormon/09_Alma/Alma_12.md) | [Alma 14 >>](source/scripture/book-of-mormon/09_Alma/Alma_14.md)
 
 # Alma 13
 

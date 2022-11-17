@@ -116,4 +116,4 @@ NEW TEST HEADER
 '''
 
     
-# print(edit_file2('BOOK_OF_MORMON/15_Moroni/Moroni_08.md', multi_line_text))
+# print(edit_file2('source/scripture/book-of-mormon/15_Moroni/Moroni_08.md', multi_line_text))

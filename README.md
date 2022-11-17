@@ -47,7 +47,7 @@ or else the reference may pull in the text in a weird format. It still works but
 I want to use the following tags
 
 - `SCRIPTURE` - I will put scripture on all the files so they can all be grouped together.
-- `BOOK_OF_MORMON`
+- `source/scripture/book-of-mormon`
 - `DOCTRING_&_COVENANTS`
 - `PEARL_OF_GREAT_PRICE`
 - `BIBLE`

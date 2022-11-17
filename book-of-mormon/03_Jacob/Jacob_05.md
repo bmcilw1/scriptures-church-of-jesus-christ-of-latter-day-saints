@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< Jacob 04](BOOK_OF_MORMON/03_Jacob/Jacob_04.md) | [Jacob 06 >>](BOOK_OF_MORMON/03_Jacob/Jacob_06.md)
+[<< Jacob 04](source/scripture/book-of-mormon/03_Jacob/Jacob_04.md) | [Jacob 06 >>](source/scripture/book-of-mormon/03_Jacob/Jacob_06.md)
 
 # Jacob 05
 

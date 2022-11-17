@@ -1,6 +1,6 @@
-tags:: #BOOK_OF_MORMON
+tags:: #source/scripture/book-of-mormon
 
-[<< Alma 24](BOOK_OF_MORMON/09_Alma/Alma_24.md) | [Alma 26 >>](BOOK_OF_MORMON/09_Alma/Alma_26.md)
+[<< Alma 24](source/scripture/book-of-mormon/09_Alma/Alma_24.md) | [Alma 26 >>](source/scripture/book-of-mormon/09_Alma/Alma_26.md)
 
 # Alma 25
 
