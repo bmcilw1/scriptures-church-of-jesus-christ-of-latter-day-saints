@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< 2 Corinthians 03](NEW_TESTAMENT/08_2_Corinthians/2_Corinthians_03.md) | [2 Corinthians 05 >>](NEW_TESTAMENT/08_2_Corinthians/2_Corinthians_05.md)
+[<< 2 Corinthians 03](source/scripture/new-testament/08_2_Corinthians/2_Corinthians_03.md) | [2 Corinthians 05 >>](source/scripture/new-testament/08_2_Corinthians/2_Corinthians_05.md)
 
 # 2 Corinthians 04
 

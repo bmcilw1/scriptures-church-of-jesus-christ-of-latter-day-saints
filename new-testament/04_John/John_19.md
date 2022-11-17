@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< John 18](NEW_TESTAMENT/04_John/John_18.md) | [John 20 >>](NEW_TESTAMENT/04_John/John_20.md)
+[<< John 18](source/scripture/new-testament/04_John/John_18.md) | [John 20 >>](source/scripture/new-testament/04_John/John_20.md)
 
 # John 19
 

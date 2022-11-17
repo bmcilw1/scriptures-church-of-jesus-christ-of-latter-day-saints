@@ -52,7 +52,7 @@ I want to use the following tags
 - `PEARL_OF_GREAT_PRICE`
 - `BIBLE`
 - `OLD_TESTAMENT`
-- `NEW_TESTAMENT`
+- `source/scripture/new-testament`
 
 ## Sample Scripture Verse Structure
 

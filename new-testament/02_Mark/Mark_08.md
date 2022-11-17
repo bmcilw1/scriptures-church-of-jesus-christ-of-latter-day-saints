@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Mark 07](NEW_TESTAMENT/02_Mark/Mark_07.md) | [Mark 09 >>](NEW_TESTAMENT/02_Mark/Mark_09.md)
+[<< Mark 07](source/scripture/new-testament/02_Mark/Mark_07.md) | [Mark 09 >>](source/scripture/new-testament/02_Mark/Mark_09.md)
 
 # Mark 08
 

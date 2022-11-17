@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Galatians 04](NEW_TESTAMENT/09_Galatians/Galatians_04.md) | [Galatians 06 >>](NEW_TESTAMENT/09_Galatians/Galatians_06.md)
+[<< Galatians 04](source/scripture/new-testament/09_Galatians/Galatians_04.md) | [Galatians 06 >>](source/scripture/new-testament/09_Galatians/Galatians_06.md)
 
 # Galatians 05
 

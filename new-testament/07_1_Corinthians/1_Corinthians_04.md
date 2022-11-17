@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< 1 Corinthians 03](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_03.md) | [1 Corinthians 05 >>](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_05.md)
+[<< 1 Corinthians 03](source/scripture/new-testament/07_1_Corinthians/1_Corinthians_03.md) | [1 Corinthians 05 >>](source/scripture/new-testament/07_1_Corinthians/1_Corinthians_05.md)
 
 # 1 Corinthians 04
 

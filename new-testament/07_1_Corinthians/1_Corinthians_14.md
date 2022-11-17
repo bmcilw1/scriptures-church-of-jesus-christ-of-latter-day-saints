@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< 1 Corinthians 13](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_13.md) | [1 Corinthians 15 >>](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_15.md)
+[<< 1 Corinthians 13](source/scripture/new-testament/07_1_Corinthians/1_Corinthians_13.md) | [1 Corinthians 15 >>](source/scripture/new-testament/07_1_Corinthians/1_Corinthians_15.md)
 
 # 1 Corinthians 14
 

@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Matthew 24](NEW_TESTAMENT/01_Matthew/Matthew_24.md) | [Matthew 26 >>](NEW_TESTAMENT/01_Matthew/Matthew_26.md)
+[<< Matthew 24](source/scripture/new-testament/01_Matthew/Matthew_24.md) | [Matthew 26 >>](source/scripture/new-testament/01_Matthew/Matthew_26.md)
 
 # Matthew 25
 

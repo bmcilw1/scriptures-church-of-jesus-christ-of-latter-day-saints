@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Matthew 19](NEW_TESTAMENT/01_Matthew/Matthew_19.md) | [Matthew 21 >>](NEW_TESTAMENT/01_Matthew/Matthew_21.md)
+[<< Matthew 19](source/scripture/new-testament/01_Matthew/Matthew_19.md) | [Matthew 21 >>](source/scripture/new-testament/01_Matthew/Matthew_21.md)
 
 # Matthew 20
 

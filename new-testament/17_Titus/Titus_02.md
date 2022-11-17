@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Titus 01](NEW_TESTAMENT/17_Titus/Titus_01.md) | [Titus 03 >>](NEW_TESTAMENT/17_Titus/Titus_03.md)
+[<< Titus 01](source/scripture/new-testament/17_Titus/Titus_01.md) | [Titus 03 >>](source/scripture/new-testament/17_Titus/Titus_03.md)
 
 # Titus 02
 

@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Revelation 15](NEW_TESTAMENT/27_Revelation/Revelation_15.md) | [Revelation 17 >>](NEW_TESTAMENT/27_Revelation/Revelation_17.md)
+[<< Revelation 15](source/scripture/new-testament/27_Revelation/Revelation_15.md) | [Revelation 17 >>](source/scripture/new-testament/27_Revelation/Revelation_17.md)
 
 # Revelation 16
 

@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Acts 27](NEW_TESTAMENT/05_Acts/Acts_27.md) | [Romans 01 >>](NEW_TESTAMENT/06_Romans/Romans_01.md)
+[<< Acts 27](source/scripture/new-testament/05_Acts/Acts_27.md) | [Romans 01 >>](source/scripture/new-testament/06_Romans/Romans_01.md)
 
 # Acts 28
 

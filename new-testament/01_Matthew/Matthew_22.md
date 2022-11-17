@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Matthew 21](NEW_TESTAMENT/01_Matthew/Matthew_21.md) | [Matthew 23 >>](NEW_TESTAMENT/01_Matthew/Matthew_23.md)
+[<< Matthew 21](source/scripture/new-testament/01_Matthew/Matthew_21.md) | [Matthew 23 >>](source/scripture/new-testament/01_Matthew/Matthew_23.md)
 
 # Matthew 22
 

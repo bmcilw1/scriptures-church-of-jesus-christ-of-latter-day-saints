@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Mark 15](NEW_TESTAMENT/02_Mark/Mark_15.md) | [Luke 01 >>](NEW_TESTAMENT/03_Luke/Luke_01.md)
+[<< Mark 15](source/scripture/new-testament/02_Mark/Mark_15.md) | [Luke 01 >>](source/scripture/new-testament/03_Luke/Luke_01.md)
 
 # Mark 16
 

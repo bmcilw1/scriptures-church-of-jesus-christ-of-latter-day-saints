@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< 2 John 01](NEW_TESTAMENT/24_2_John/2_John_01.md) | [Jude 01 >>](NEW_TESTAMENT/26_Jude/Jude_01.md)
+[<< 2 John 01](source/scripture/new-testament/24_2_John/2_John_01.md) | [Jude 01 >>](source/scripture/new-testament/26_Jude/Jude_01.md)
 
 # 3 John 01
 

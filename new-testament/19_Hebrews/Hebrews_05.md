@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Hebrews 04](NEW_TESTAMENT/19_Hebrews/Hebrews_04.md) | [Hebrews 06 >>](NEW_TESTAMENT/19_Hebrews/Hebrews_06.md)
+[<< Hebrews 04](source/scripture/new-testament/19_Hebrews/Hebrews_04.md) | [Hebrews 06 >>](source/scripture/new-testament/19_Hebrews/Hebrews_06.md)
 
 # Hebrews 05
 

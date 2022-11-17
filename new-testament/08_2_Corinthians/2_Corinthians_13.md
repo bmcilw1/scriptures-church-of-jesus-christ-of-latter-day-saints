@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< 2 Corinthians 12](NEW_TESTAMENT/08_2_Corinthians/2_Corinthians_12.md) | [Galatians 01 >>](NEW_TESTAMENT/09_Galatians/Galatians_01.md)
+[<< 2 Corinthians 12](source/scripture/new-testament/08_2_Corinthians/2_Corinthians_12.md) | [Galatians 01 >>](source/scripture/new-testament/09_Galatians/Galatians_01.md)
 
 # 2 Corinthians 13
 

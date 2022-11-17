@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Matthew 05](NEW_TESTAMENT/01_Matthew/Matthew_05.md) | [Matthew 07 >>](NEW_TESTAMENT/01_Matthew/Matthew_07.md)
+[<< Matthew 05](source/scripture/new-testament/01_Matthew/Matthew_05.md) | [Matthew 07 >>](source/scripture/new-testament/01_Matthew/Matthew_07.md)
 
 # Matthew 06
 

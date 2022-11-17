@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Luke 01](NEW_TESTAMENT/03_Luke/Luke_01.md) | [Luke 03 >>](NEW_TESTAMENT/03_Luke/Luke_03.md)
+[<< Luke 01](source/scripture/new-testament/03_Luke/Luke_01.md) | [Luke 03 >>](source/scripture/new-testament/03_Luke/Luke_03.md)
 
 # Luke 02
 

@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Matthew 27](NEW_TESTAMENT/01_Matthew/Matthew_27.md) | [Mark 01 >>](NEW_TESTAMENT/02_Mark/Mark_01.md)
+[<< Matthew 27](source/scripture/new-testament/01_Matthew/Matthew_27.md) | [Mark 01 >>](source/scripture/new-testament/02_Mark/Mark_01.md)
 
 # Matthew 28
 

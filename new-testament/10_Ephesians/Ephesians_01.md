@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Galatians 06](NEW_TESTAMENT/09_Galatians/Galatians_06.md) | [Ephesians 02 >>](NEW_TESTAMENT/10_Ephesians/Ephesians_02.md)
+[<< Galatians 06](source/scripture/new-testament/09_Galatians/Galatians_06.md) | [Ephesians 02 >>](source/scripture/new-testament/10_Ephesians/Ephesians_02.md)
 
 # Ephesians 01
 

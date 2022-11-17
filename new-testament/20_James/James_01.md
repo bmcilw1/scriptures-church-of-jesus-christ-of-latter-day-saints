@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Hebrews 13](NEW_TESTAMENT/19_Hebrews/Hebrews_13.md) | [James 02 >>](NEW_TESTAMENT/20_James/James_02.md)
+[<< Hebrews 13](source/scripture/new-testament/19_Hebrews/Hebrews_13.md) | [James 02 >>](source/scripture/new-testament/20_James/James_02.md)
 
 # James 01
 

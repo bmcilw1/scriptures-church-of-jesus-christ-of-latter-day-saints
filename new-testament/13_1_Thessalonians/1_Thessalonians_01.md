@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Collosians 04](NEW_TESTAMENT/12_Collosians/Collosians_04.md) | [1 Thessalonians 02 >>](NEW_TESTAMENT/13_1_Thessalonians/1_Thessalonians_02.md)
+[<< Collosians 04](source/scripture/new-testament/12_Collosians/Collosians_04.md) | [1 Thessalonians 02 >>](source/scripture/new-testament/13_1_Thessalonians/1_Thessalonians_02.md)
 
 # 1 Thessalonians 01
 

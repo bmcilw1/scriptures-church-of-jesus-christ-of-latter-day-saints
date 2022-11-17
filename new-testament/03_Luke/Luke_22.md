@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Luke 21](NEW_TESTAMENT/03_Luke/Luke_21.md) | [Luke 23 >>](NEW_TESTAMENT/03_Luke/Luke_23.md)
+[<< Luke 21](source/scripture/new-testament/03_Luke/Luke_21.md) | [Luke 23 >>](source/scripture/new-testament/03_Luke/Luke_23.md)
 
 # Luke 22
 

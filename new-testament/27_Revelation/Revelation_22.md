@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Revelation 21](NEW_TESTAMENT/27_Revelation/Revelation_21.md) | [1 Nephi 01 >>](SCRIPTURES/source/scripture/book-of-mormon/01_1_Nephi/1_Nephi_01.md)
+[<< Revelation 21](source/scripture/new-testament/27_Revelation/Revelation_21.md) | [1 Nephi 01 >>](SCRIPTURES/source/scripture/book-of-mormon/01_1_Nephi/1_Nephi_01.md)
 
 # Revelation 22
 

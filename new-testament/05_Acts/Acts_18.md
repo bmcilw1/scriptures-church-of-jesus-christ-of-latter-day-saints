@@ -1,6 +1,6 @@
-tags:: #NEW_TESTAMENT
+tags:: #source/scripture/new-testament
 
-[<< Acts 17](NEW_TESTAMENT/05_Acts/Acts_17.md) | [Acts 19 >>](NEW_TESTAMENT/05_Acts/Acts_19.md)
+[<< Acts 17](source/scripture/new-testament/05_Acts/Acts_17.md) | [Acts 19 >>](source/scripture/new-testament/05_Acts/Acts_19.md)
 
 # Acts 18
 
