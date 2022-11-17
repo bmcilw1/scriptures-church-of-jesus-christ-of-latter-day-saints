@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Moroni 05](BOOK_OF_MORMON/15_Moroni/Moroni_05.md) | [Moroni 07 >>](BOOK_OF_MORMON/15_Moroni/Moroni_07.md)
 

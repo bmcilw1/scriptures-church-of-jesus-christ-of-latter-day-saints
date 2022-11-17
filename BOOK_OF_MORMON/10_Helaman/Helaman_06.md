@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Helaman 05](BOOK_OF_MORMON/10_Helaman/Helaman_05.md) | [Helaman 07 >>](BOOK_OF_MORMON/10_Helaman/Helaman_07.md)
 

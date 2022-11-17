@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Hebrews 05](NEW_TESTAMENT/19_Hebrews/Hebrews_05.md) | [Hebrews 07 >>](NEW_TESTAMENT/19_Hebrews/Hebrews_07.md)
 

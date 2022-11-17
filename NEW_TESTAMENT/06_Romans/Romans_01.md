@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Acts 28](NEW_TESTAMENT/05_Acts/Acts_28.md) | [Romans 02 >>](NEW_TESTAMENT/06_Romans/Romans_02.md)
 

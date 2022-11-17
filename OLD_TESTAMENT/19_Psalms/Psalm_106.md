@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 105](OLD_TESTAMENT/19_Psalms/Psalm_105.md) | [Psalm 107 >>](OLD_TESTAMENT/19_Psalms/Psalm_107.md)
 

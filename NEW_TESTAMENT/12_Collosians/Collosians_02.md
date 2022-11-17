@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Collosians 01](NEW_TESTAMENT/12_Collosians/Collosians_01.md) | [Collosians 03 >>](NEW_TESTAMENT/12_Collosians/Collosians_03.md)
 

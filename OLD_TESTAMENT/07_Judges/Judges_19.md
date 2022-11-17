@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Judges 18](OLD_TESTAMENT/07_Judges/Judges_18.md) | [Judges 20 >>](OLD_TESTAMENT/07_Judges/Judges_20.md)
 

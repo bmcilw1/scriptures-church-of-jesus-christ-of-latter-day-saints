@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Mosiah 27](BOOK_OF_MORMON/08_Mosiah/Mosiah_27.md) | [Mosiah 29 >>](BOOK_OF_MORMON/08_Mosiah/Mosiah_29.md)
 

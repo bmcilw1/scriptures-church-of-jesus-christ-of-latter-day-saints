@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Isaiah 30](OLD_TESTAMENT/23_Isaiah/Isaiah_30.md) | [Isaiah 32 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_32.md)
 

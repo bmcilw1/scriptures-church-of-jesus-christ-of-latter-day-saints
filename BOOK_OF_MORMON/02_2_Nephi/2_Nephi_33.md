@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< 2 Nephi 32](BOOK_OF_MORMON/02_2_Nephi/2_Nephi_32.md) | [Jacob 01 >>](BOOK_OF_MORMON/03_Jacob/Jacob_01.md)
 

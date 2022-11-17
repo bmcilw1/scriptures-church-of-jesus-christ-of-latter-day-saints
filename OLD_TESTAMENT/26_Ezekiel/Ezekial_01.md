@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Lamentations 05](OLD_TESTAMENT/25_Lamentations/Lamentations_05.md) | [Ezekiel 02 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_02.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Revelation 18](NEW_TESTAMENT/27_Revelation/Revelation_18.md) | [Revelation 20 >>](NEW_TESTAMENT/27_Revelation/Revelation_20.md)
 

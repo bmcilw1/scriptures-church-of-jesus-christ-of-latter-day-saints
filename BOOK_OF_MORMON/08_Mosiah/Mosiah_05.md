@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Mosiah 04](BOOK_OF_MORMON/08_Mosiah/Mosiah_04.md) | [Mosiah 06 >>](BOOK_OF_MORMON/08_Mosiah/Mosiah_06.md)
 

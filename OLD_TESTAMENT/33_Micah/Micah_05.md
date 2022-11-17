@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Micah 04](OLD_TESTAMENT/33_Micah/Micah_04.md) | [Micah 06 >>](OLD_TESTAMENT/33_Micah/Micah_06.md)
 

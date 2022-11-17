@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Chronicles 35](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_35.md) | [Ezra 01 >>](OLD_TESTAMENT/15_Ezra/Ezra_01.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Exodus 15](OLD_TESTAMENT/02_Exodus/Exodus_15.md) | [Exodus 17 >>](OLD_TESTAMENT/02_Exodus/Exodus_17.md)
 

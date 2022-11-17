@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Luke 24](NEW_TESTAMENT/03_Luke/Luke_24.md) | [John 02 >>](NEW_TESTAMENT/04_John/John_02.md)
 

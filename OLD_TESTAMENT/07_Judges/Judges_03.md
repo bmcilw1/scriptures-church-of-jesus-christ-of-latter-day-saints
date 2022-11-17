@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Judges 02](OLD_TESTAMENT/07_Judges/Judges_02.md) | [Judges 04 >>](OLD_TESTAMENT/07_Judges/Judges_04.md)
 

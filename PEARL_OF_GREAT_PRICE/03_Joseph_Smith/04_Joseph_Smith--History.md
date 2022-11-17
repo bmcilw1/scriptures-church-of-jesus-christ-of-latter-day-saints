@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, PEARL_OF_GREAT_PRICE
----
+tags:: #PEARL_OF_GREAT_PRICE
 
 [<< 03 Joseph Smith--Matthew](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/03_Joseph_Smith--Matthew.md) | [05 The Articles of Faith >>](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/05_The_Articles_of_Faith.md)
 

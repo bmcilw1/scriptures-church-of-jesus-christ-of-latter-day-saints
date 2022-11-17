@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< John 21](NEW_TESTAMENT/04_John/John_21.md) | [Acts 02 >>](NEW_TESTAMENT/05_Acts/Acts_02.md)
 

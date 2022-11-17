@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 1 Kings 21](OLD_TESTAMENT/11_1_Kings/1_Kings_21.md) | [2 Kings 01 >>](OLD_TESTAMENT/12_2_Kings/2_Kings_01.md)
 

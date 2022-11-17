@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Zephaniah 02](OLD_TESTAMENT/36_Zephaniah/Zephaniah_02.md) | [Haggai 01 >>](OLD_TESTAMENT/37_Haggai/Haggai_01.md)
 

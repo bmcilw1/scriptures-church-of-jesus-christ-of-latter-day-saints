@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Amos 08](OLD_TESTAMENT/30_Amos/Amos_08.md) | [Obadiah 01 >>](OLD_TESTAMENT/31_Obadiah/Obadiah_01.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 05 The Articles of Faith >>](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/05_The_Articles_of_Faith.md) | [Genesis 02 >>](OLD_TESTAMENT/01_Genesis/Genesis_02.md)
 

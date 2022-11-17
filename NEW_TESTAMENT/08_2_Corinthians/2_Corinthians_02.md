@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 2 Corinthians 01](NEW_TESTAMENT/08_2_Corinthians/2_Corinthians_01.md) | [2 Corinthians 03 >>](NEW_TESTAMENT/08_2_Corinthians/2_Corinthians_03.md)
 

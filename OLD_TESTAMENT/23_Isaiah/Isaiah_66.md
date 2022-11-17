@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Isaiah 65](OLD_TESTAMENT/23_Isaiah/Isaiah_65.md) | [Jeremiah 01 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_01.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Kings 24](OLD_TESTAMENT/12_2_Kings/2_Kings_24.md) | [1 Chronicles 01 >>](OLD_TESTAMENT/13_1_Chronicles/1_Chronicles_01.md)
 

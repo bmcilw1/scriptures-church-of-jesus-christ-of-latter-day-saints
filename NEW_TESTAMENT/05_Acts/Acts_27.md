@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Acts 26](NEW_TESTAMENT/05_Acts/Acts_26.md) | [Acts 28 >>](NEW_TESTAMENT/05_Acts/Acts_28.md)
 

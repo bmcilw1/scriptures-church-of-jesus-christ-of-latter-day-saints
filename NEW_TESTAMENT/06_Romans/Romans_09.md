@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Romans 08](NEW_TESTAMENT/06_Romans/Romans_08.md) | [Romans 10 >>](NEW_TESTAMENT/06_Romans/Romans_10.md)
 

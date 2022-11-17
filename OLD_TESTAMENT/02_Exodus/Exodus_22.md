@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Exodus 21](OLD_TESTAMENT/02_Exodus/Exodus_21.md) | [Exodus 23 >>](OLD_TESTAMENT/02_Exodus/Exodus_23.md)
 

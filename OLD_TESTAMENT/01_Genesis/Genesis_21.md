@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Genesis 20](OLD_TESTAMENT/01_Genesis/Genesis_20.md) | [Genesis 22 >>](OLD_TESTAMENT/01_Genesis/Genesis_22.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 2 Peter 01](NEW_TESTAMENT/22_2_Peter/2_Peter_01.md) | [2 Peter 03 >>](NEW_TESTAMENT/22_2_Peter/2_Peter_03.md)
 

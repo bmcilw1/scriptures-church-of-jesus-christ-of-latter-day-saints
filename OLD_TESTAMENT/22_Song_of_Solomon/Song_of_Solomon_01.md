@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ecclesiastes 12](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_12.md) | [Song of Solomon 02 >>](OLD_TESTAMENT/22_Song_of_Solomon/Song_of_Solomon_02.md)
 

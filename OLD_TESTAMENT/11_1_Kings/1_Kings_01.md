@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Samuel 24](OLD_TESTAMENT/10_2_Samuel/2_Samuel_24.md) | [1 Kings 02 >>](OLD_TESTAMENT/11_1_Kings/1_Kings_02.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Alma 40](BOOK_OF_MORMON/09_Alma/Alma_40.md) | [Alma 42 >>](BOOK_OF_MORMON/09_Alma/Alma_42.md)
 

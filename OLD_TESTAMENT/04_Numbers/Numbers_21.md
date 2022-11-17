@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Numbers 20](OLD_TESTAMENT/04_Numbers/Numbers_20.md) | [Numbers 22 >>](OLD_TESTAMENT/04_Numbers/Numbers_22.md)
 

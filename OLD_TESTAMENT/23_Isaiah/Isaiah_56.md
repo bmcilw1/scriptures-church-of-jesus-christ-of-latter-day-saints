@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Isaiah 55](OLD_TESTAMENT/23_Isaiah/Isaiah_55.md) | [Isaiah 57 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_57.md)
 

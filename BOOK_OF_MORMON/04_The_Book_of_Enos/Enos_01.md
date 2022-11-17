@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Jacob 07](BOOK_OF_MORMON/03_Jacob/Jacob_07.md) | [Jarom 01 >>](BOOK_OF_MORMON/05_The_Book_of_Jarom/Jarom_01.md)
 

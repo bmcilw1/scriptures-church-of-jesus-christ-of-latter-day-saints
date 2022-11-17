@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Matthew 19](NEW_TESTAMENT/01_Matthew/Matthew_19.md) | [Matthew 21 >>](NEW_TESTAMENT/01_Matthew/Matthew_21.md)
 

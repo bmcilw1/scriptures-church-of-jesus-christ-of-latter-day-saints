@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Deuteronomy 07](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_07.md) | [Deuteronomy 09 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_09.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Hebrews 13](NEW_TESTAMENT/19_Hebrews/Hebrews_13.md) | [James 02 >>](NEW_TESTAMENT/20_James/James_02.md)
 

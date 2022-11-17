@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Isaiah 44](OLD_TESTAMENT/23_Isaiah/Isaiah_44.md) | [Isaiah 46 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_46.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, PEARL_OF_GREAT_PRICE
----
+tags:: #PEARL_OF_GREAT_PRICE
 
 [<< Moses 03](PEARL_OF_GREAT_PRICE/01_Moses/Moses_03.md) | [Moses 05 >>](PEARL_OF_GREAT_PRICE/01_Moses/Moses_05.md)
 

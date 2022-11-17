@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Chronicles 22](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_22.md) | [2 Chronicles 24 >>](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_24.md)
 

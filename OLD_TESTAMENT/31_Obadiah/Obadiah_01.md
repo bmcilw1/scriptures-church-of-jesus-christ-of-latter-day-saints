@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Amos 09](OLD_TESTAMENT/30_Amos/Amos_09.md) | [Jonah 01 >>](OLD_TESTAMENT/32_Jonah/Jonah_01.md)
 

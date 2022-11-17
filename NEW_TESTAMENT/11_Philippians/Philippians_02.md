@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Philippians 01](NEW_TESTAMENT/11_Philippians/Philippians_01.md) | [Philippians 03 >>](NEW_TESTAMENT/11_Philippians/Philippians_03.md)
 

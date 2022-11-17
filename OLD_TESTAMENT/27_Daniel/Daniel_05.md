@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Daniel 04](OLD_TESTAMENT/27_Daniel/Daniel_04.md) | [Daniel 06 >>](OLD_TESTAMENT/27_Daniel/Daniel_06.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 1 Samuel 13](OLD_TESTAMENT/09_1_Samuel/1_Samuel_13.md) | [1 Samuel 15 >>](OLD_TESTAMENT/09_1_Samuel/1_Samuel_15.md)
 

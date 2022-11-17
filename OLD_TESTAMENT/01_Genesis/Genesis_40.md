@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Genesis 39](OLD_TESTAMENT/01_Genesis/Genesis_39.md) | [Genesis 41 >>](OLD_TESTAMENT/01_Genesis/Genesis_41.md)
 

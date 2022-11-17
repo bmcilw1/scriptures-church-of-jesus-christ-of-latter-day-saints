@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ezekiel 32](OLD_TESTAMENT/26_Ezekiel/Ezekiel_32.md) | [Ezekiel 34 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_34.md)
 

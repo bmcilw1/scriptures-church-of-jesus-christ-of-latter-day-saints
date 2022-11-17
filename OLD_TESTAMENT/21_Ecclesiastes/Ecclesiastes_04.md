@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ecclesiastes 03](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_03.md) | [Ecclesiastes 05 >>](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_05.md)
 

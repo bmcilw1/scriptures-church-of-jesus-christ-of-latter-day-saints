@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Zechariah 14](OLD_TESTAMENT/38_Zechariah/Zechariah_14.md) | [Malachi 02 >>](OLD_TESTAMENT/39_Malachi/Malachi_02.md)
 

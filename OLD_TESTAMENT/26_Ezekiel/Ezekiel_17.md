@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ezekiel 16](OLD_TESTAMENT/26_Ezekiel/Ezekiel_16.md) | [Ezekiel 18 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_18.md)
 

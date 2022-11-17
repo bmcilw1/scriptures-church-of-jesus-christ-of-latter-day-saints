@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 91](OLD_TESTAMENT/19_Psalms/Psalm_91.md) | [Psalm 93 >>](OLD_TESTAMENT/19_Psalms/Psalm_93.md)
 

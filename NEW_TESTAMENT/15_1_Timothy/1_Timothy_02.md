@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 1 Timothy 01](NEW_TESTAMENT/15_1_Timothy/1_Timothy_01.md) | [1 Timothy 03 >>](NEW_TESTAMENT/15_1_Timothy/1_Timothy_03.md)
 

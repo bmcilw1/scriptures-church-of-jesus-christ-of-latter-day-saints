@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Deuteronomy 14](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_14.md) | [Deuteronomy 16 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_16.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 14](OLD_TESTAMENT/24_Jeremiah/Jeremiah_14.md) | [Jeremiah 16 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_16.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Ephesians 06](NEW_TESTAMENT/10_Ephesians/Ephesians_06.md) | [Philippians 02 >>](NEW_TESTAMENT/11_Philippians/Philippians_02.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Lamentations 02](OLD_TESTAMENT/25_Lamentations/Lamentations_02.md) | [Lamentations 04 >>](OLD_TESTAMENT/25_Lamentations/Lamentations_04.md)
 

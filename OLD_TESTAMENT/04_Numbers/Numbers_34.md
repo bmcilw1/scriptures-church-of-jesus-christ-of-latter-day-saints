@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Numbers 33](OLD_TESTAMENT/04_Numbers/Numbers_33.md) | [Numbers 35 >>](OLD_TESTAMENT/04_Numbers/Numbers_35.md)
 

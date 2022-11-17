@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Matthew 05](NEW_TESTAMENT/01_Matthew/Matthew_05.md) | [Matthew 07 >>](NEW_TESTAMENT/01_Matthew/Matthew_07.md)
 

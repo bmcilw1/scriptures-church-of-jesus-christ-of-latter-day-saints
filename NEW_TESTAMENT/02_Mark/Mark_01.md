@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Matthew 28](NEW_TESTAMENT/01_Matthew/Matthew_28.md) | [Mark 02 >>](NEW_TESTAMENT/02_Mark/Mark_02.md)
 

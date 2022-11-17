@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 64](OLD_TESTAMENT/19_Psalms/Psalm_64.md) | [Psalm 66 >>](OLD_TESTAMENT/19_Psalms/Psalm_66.md)
 

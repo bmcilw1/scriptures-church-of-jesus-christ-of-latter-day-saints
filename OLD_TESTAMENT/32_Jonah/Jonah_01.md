@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Obadiah 01](OLD_TESTAMENT/31_Obadiah/Obadiah_01.md) | [Jonah 02 >>](OLD_TESTAMENT/32_Jonah/Jonah_02.md)
 

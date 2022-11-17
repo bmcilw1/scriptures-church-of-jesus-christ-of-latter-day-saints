@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Leviticus 06](OLD_TESTAMENT/03_Leviticus/Leviticus_06.md) | [Leviticus 08 >>](OLD_TESTAMENT/03_Leviticus/Leviticus_08.md)
 

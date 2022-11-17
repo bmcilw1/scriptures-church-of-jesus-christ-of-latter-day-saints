@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 121](OLD_TESTAMENT/19_Psalms/Psalm_121.md) | [Psalm 123 >>](OLD_TESTAMENT/19_Psalms/Psalm_123.md)
 

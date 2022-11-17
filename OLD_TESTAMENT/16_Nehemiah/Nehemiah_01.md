@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ezra 10](OLD_TESTAMENT/15_Ezra/Ezra_10.md) | [Nehemiah 02 >>](OLD_TESTAMENT/16_Nehemiah/Nehemiah_02.md)
 

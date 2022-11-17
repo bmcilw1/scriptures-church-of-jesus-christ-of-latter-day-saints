@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Leviticus 26](OLD_TESTAMENT/03_Leviticus/Leviticus_26.md) | [Numbers 01 >>](OLD_TESTAMENT/04_Numbers/Numbers_01.md)
 

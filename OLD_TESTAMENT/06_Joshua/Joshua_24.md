@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Joshua 23](OLD_TESTAMENT/06_Joshua/Joshua_23.md) | [Judges 01 >>](OLD_TESTAMENT/07_Judges/Judges_01.md)
 

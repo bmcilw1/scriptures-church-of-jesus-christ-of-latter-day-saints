@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 27](OLD_TESTAMENT/24_Jeremiah/Jeremiah_27.md) | [Jeremiah 29 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_29.md)
 

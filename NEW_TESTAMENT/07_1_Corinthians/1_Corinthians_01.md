@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Romans 16](NEW_TESTAMENT/06_Romans/Romans_16.md) | [1 Corinthians 02 >>](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_02.md)
 

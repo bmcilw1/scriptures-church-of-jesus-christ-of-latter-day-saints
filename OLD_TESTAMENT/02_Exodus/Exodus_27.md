@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Exodus 26](OLD_TESTAMENT/02_Exodus/Exodus_26.md) | [Exodus 28 >>](OLD_TESTAMENT/02_Exodus/Exodus_28.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Micah 07](OLD_TESTAMENT/33_Micah/Micah_07.md) | [Nahum 02 >>](OLD_TESTAMENT/34_Nahum/Nahum_02.md)
 

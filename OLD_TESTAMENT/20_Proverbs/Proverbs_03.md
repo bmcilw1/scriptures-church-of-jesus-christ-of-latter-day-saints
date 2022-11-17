@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Proverbs 02](OLD_TESTAMENT/20_Proverbs/Proverbs_02.md) | [Proverbs 04 >>](OLD_TESTAMENT/20_Proverbs/Proverbs_04.md)
 

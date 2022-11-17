@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Numbers 35](OLD_TESTAMENT/04_Numbers/Numbers_35.md) | [Deuteronomy 01 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_01.md)
 

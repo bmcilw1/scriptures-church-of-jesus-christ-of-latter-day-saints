@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 96](OLD_TESTAMENT/19_Psalms/Psalm_96.md) | [Psalm 98 >>](OLD_TESTAMENT/19_Psalms/Psalm_98.md)
 

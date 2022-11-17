@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 1 Corinthians 05](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_05.md) | [1 Corinthians 07 >>](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_07.md)
 

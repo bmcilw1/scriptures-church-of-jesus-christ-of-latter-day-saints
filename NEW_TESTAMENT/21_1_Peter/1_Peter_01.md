@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< James 05](NEW_TESTAMENT/20_James/James_05.md) | [1 Peter 02 >>](NEW_TESTAMENT/21_1_Peter/1_Peter_02.md)
 

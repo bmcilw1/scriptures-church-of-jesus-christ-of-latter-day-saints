@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 1 Samuel 09](OLD_TESTAMENT/09_1_Samuel/1_Samuel_09.md) | [1 Samuel 11 >>](OLD_TESTAMENT/09_1_Samuel/1_Samuel_11.md)
 

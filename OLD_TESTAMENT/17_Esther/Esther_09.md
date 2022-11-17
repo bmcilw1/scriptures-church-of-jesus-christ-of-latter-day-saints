@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Esther 08](OLD_TESTAMENT/17_Esther/Esther_08.md) | [Esther 10 >>](OLD_TESTAMENT/17_Esther/Esther_10.md)
 

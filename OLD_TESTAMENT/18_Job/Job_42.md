@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Job 41](OLD_TESTAMENT/18_Job/Job_41.md) | [Psalm 01 >>](OLD_TESTAMENT/19_Psalms/Psalm_01.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Genesis 09](OLD_TESTAMENT/01_Genesis/Genesis_09.md) | [Genesis 11 >>](OLD_TESTAMENT/01_Genesis/Genesis_11.md)
 

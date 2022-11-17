@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Leviticus 25](OLD_TESTAMENT/03_Leviticus/Leviticus_25.md) | [Leviticus 27 >>](OLD_TESTAMENT/03_Leviticus/Leviticus_27.md)
 

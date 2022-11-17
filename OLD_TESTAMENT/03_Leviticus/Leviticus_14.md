@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Leviticus 13](OLD_TESTAMENT/03_Leviticus/Leviticus_13.md) | [Leviticus 15 >>](OLD_TESTAMENT/03_Leviticus/Leviticus_15.md)
 

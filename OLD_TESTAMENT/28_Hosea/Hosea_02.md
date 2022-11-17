@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Hosea 01](OLD_TESTAMENT/28_Hosea/Hosea_01.md) | [Hosea 03 >>](OLD_TESTAMENT/28_Hosea/Hosea_03.md)
 

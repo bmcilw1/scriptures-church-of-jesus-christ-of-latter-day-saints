@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< John 15](NEW_TESTAMENT/04_John/John_15.md) | [John 17 >>](NEW_TESTAMENT/04_John/John_17.md)
 

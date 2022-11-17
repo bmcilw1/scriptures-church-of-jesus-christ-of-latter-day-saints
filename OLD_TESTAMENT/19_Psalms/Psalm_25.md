@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 24](OLD_TESTAMENT/19_Psalms/Psalm_24.md) | [Psalm 26 >>](OLD_TESTAMENT/19_Psalms/Psalm_26.md)
 

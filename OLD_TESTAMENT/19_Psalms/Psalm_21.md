@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 20](OLD_TESTAMENT/19_Psalms/Psalm_20.md) | [Psalm 22 >>](OLD_TESTAMENT/19_Psalms/Psalm_22.md)
 

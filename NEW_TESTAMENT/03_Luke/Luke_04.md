@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Luke 03](NEW_TESTAMENT/03_Luke/Luke_03.md) | [Luke 05 >>](NEW_TESTAMENT/03_Luke/Luke_05.md)
 

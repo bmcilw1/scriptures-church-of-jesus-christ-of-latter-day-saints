@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Samuel 21](OLD_TESTAMENT/10_2_Samuel/2_Samuel_21.md) | [2 Samuel 23 >>](OLD_TESTAMENT/10_2_Samuel/2_Samuel_23.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Song of Solomon 07](OLD_TESTAMENT/22_Song_of_Solomon/Song_of_Solomon_07.md) | [Isaiah 01 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_01.md)
 

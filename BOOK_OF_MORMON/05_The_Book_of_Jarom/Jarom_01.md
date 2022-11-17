@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Enos 01](BOOK_OF_MORMON/04_The_Book_of_Enos/Enos_01.md) | [Omni 01 >>](BOOK_OF_MORMON/06_The_Book_of_Omni/Omni_01.md)
 

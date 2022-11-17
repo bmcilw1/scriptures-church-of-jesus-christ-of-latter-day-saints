@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Philemon 01](NEW_TESTAMENT/18_Philemon/Philemon_01.md) | [Hebrews 02 >>](NEW_TESTAMENT/19_Hebrews/Hebrews_02.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Omni 01](BOOK_OF_MORMON/06_The_Book_of_Omni/Omni_01.md) | [Mosiah 01 >>](BOOK_OF_MORMON/08_Mosiah/Mosiah_01.md)
 

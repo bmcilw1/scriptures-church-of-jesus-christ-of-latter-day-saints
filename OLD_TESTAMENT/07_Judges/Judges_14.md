@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Judges 13](OLD_TESTAMENT/07_Judges/Judges_13.md) | [Judges 15 >>](OLD_TESTAMENT/07_Judges/Judges_15.md)
 

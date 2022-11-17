@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Amos 03](OLD_TESTAMENT/30_Amos/Amos_03.md) | [Amos 05 >>](OLD_TESTAMENT/30_Amos/Amos_05.md)
 

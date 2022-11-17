@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ezekiel 09](OLD_TESTAMENT/26_Ezekiel/Ezekiel_09.md) | [Ezekiel 11 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_11.md)
 

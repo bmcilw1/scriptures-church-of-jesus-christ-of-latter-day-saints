@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Nahum 03](OLD_TESTAMENT/34_Nahum/Nahum_03.md) | [Habakkuk 02 >>](OLD_TESTAMENT/35_Habakkuk/Habakkuk_02.md)
 

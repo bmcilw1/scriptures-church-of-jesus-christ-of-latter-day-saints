@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Nehemiah 10](OLD_TESTAMENT/16_Nehemiah/Nehemiah_10.md) | [Nehemiah 12 >>](OLD_TESTAMENT/16_Nehemiah/Nehemiah_12.md)
 

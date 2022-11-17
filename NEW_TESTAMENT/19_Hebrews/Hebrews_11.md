@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Hebrews 10](NEW_TESTAMENT/19_Hebrews/Hebrews_10.md) | [Hebrews 12 >>](NEW_TESTAMENT/19_Hebrews/Hebrews_12.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Genesis 50](OLD_TESTAMENT/01_Genesis/Genesis_50.md) | [Exodus 02 >>](OLD_TESTAMENT/02_Exodus/Exodus_02.md)
 

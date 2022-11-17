@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Deuteronomy 21](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_21.md) | [Deuteronomy 23 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_23.md)
 

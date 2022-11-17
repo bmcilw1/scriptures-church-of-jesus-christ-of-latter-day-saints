@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Luke 19](NEW_TESTAMENT/03_Luke/Luke_19.md) | [Luke 21 >>](NEW_TESTAMENT/03_Luke/Luke_21.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Zechariah 06](OLD_TESTAMENT/38_Zechariah/Zechariah_06.md) | [Zechariah 08 >>](OLD_TESTAMENT/38_Zechariah/Zechariah_08.md)
 

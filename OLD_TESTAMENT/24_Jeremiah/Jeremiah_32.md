@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 31](OLD_TESTAMENT/24_Jeremiah/Jeremiah_31.md) | [Jeremiah 33 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_33.md)
 

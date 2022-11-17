@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 1 John 01](NEW_TESTAMENT/23_1_John/1_John_01.md) | [1 John 03 >>](NEW_TESTAMENT/23_1_John/1_John_03.md)
 

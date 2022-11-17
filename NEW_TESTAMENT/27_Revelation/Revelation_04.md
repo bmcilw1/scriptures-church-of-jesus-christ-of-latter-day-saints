@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Revelation 03](NEW_TESTAMENT/27_Revelation/Revelation_03.md) | [Revelation 05 >>](NEW_TESTAMENT/27_Revelation/Revelation_05.md)
 

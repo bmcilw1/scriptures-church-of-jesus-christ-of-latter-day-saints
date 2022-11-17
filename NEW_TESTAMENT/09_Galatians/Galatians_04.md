@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Galatians 03](NEW_TESTAMENT/09_Galatians/Galatians_03.md) | [Galatians 05 >>](NEW_TESTAMENT/09_Galatians/Galatians_05.md)
 

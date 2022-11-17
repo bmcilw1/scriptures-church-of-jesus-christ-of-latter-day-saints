@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 06](OLD_TESTAMENT/24_Jeremiah/Jeremiah_06.md) | [Jeremiah 08 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_08.md)
 

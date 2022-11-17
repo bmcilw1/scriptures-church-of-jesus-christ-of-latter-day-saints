@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Isaiah 49](OLD_TESTAMENT/23_Isaiah/Isaiah_49.md) | [Isaiah 51 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_51.md)
 

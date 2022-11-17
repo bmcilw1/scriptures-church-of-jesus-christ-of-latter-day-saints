@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ruth 01](OLD_TESTAMENT/08_Ruth/Ruth_01.md) | [Ruth 03 >>](OLD_TESTAMENT/08_Ruth/Ruth_03.md)
 

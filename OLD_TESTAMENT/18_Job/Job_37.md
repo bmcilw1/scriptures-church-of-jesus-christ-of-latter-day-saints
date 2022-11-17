@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Job 36](OLD_TESTAMENT/18_Job/Job_36.md) | [Job 38 >>](OLD_TESTAMENT/18_Job/Job_38.md)
 

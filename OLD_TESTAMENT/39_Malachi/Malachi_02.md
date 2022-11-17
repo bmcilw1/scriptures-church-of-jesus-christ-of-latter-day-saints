@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Malachi 01](OLD_TESTAMENT/39_Malachi/Malachi_01.md) | [Malachi 03 >>](OLD_TESTAMENT/39_Malachi/Malachi_03.md)
 

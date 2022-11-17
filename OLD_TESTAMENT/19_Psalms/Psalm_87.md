@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 86](OLD_TESTAMENT/19_Psalms/Psalm_86.md) | [Psalm 88 >>](OLD_TESTAMENT/19_Psalms/Psalm_88.md)
 

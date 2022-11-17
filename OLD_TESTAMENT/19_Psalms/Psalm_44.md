@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 43](OLD_TESTAMENT/19_Psalms/Psalm_43.md) | [Psalm 45 >>](OLD_TESTAMENT/19_Psalms/Psalm_45.md)
 

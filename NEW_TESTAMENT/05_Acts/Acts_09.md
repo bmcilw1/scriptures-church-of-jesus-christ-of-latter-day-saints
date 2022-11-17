@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Acts 08](NEW_TESTAMENT/05_Acts/Acts_08.md) | [Acts 10 >>](NEW_TESTAMENT/05_Acts/Acts_10.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Revelation 22](NEW_TESTAMENT/27_Revelation/Revelation_22.md) | [1 Nephi 02 >>](SCRIPTURES/Book_of_Mormon/01_1_Nephi/1_Nephi_02.md)
 

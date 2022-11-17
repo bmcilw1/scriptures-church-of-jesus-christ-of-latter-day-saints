@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Genesis 42](OLD_TESTAMENT/01_Genesis/Genesis_42.md) | [Genesis 44 >>](OLD_TESTAMENT/01_Genesis/Genesis_44.md)
 

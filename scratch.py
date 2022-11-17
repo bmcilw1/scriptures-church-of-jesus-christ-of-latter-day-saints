@@ -30,9 +30,7 @@ def create_header(chapter_path, prev_chapter_path, next_chapter_path):
     next_items = next_chapter_path.split('/')
     next_chapter = next_items[-1].replace('.md', '').replace('_', ' ') # Used to be 2
     
-    header = f'''---
-Tags: SCRIPTURE, {book_name}
----
+    header = f'''tags:: #{book_name}
 
 [<< {prev_chapter}]({prev_chapter_path}) | [{next_chapter} >>]({next_chapter_path})
 

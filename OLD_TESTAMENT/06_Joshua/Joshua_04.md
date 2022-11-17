@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Joshua 03](OLD_TESTAMENT/06_Joshua/Joshua_03.md) | [Joshua 05 >>](OLD_TESTAMENT/06_Joshua/Joshua_05.md)
 

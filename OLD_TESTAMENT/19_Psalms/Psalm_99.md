@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 98](OLD_TESTAMENT/19_Psalms/Psalm_98.md) | [Proverbs 01 >>](OLD_TESTAMENT/20_Proverbs/Proverbs_01.md)
 

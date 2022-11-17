@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Matthew 22](NEW_TESTAMENT/01_Matthew/Matthew_22.md) | [Matthew 24 >>](NEW_TESTAMENT/01_Matthew/Matthew_24.md)
 

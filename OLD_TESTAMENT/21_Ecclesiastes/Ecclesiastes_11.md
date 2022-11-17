@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ecclesiastes 10](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_10.md) | [Ecclesiastes 12 >>](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_12.md)
 

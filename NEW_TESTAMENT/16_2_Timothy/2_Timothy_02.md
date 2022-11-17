@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 2 Timothy 01](NEW_TESTAMENT/16_2_Timothy/2_Timothy_01.md) | [2 Timothy 03 >>](NEW_TESTAMENT/16_2_Timothy/2_Timothy_03.md)
 

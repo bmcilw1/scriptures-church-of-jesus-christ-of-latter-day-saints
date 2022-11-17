@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Exodus 40](OLD_TESTAMENT/02_Exodus/Exodus_40.md) | [Leviticus 02 >>](OLD_TESTAMENT/03_Leviticus/Leviticus_02.md)
 

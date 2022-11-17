@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Malachi 04](OLD_TESTAMENT/39_Malachi/Malachi_04.md) | [Matthew 02 >>](NEW_TESTAMENT/01_Matthew/Matthew_02.md)
 

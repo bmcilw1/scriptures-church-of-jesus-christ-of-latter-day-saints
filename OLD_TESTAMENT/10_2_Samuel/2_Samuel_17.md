@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Samuel 16](OLD_TESTAMENT/10_2_Samuel/2_Samuel_16.md) | [2 Samuel 18 >>](OLD_TESTAMENT/10_2_Samuel/2_Samuel_18.md)
 

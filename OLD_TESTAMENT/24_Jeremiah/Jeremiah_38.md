@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 37](OLD_TESTAMENT/24_Jeremiah/Jeremiah_37.md) | [Jeremiah 39 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_39.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Kings 12](OLD_TESTAMENT/12_2_Kings/2_Kings_12.md) | [2 Kings 14 >>](OLD_TESTAMENT/12_2_Kings/2_Kings_14.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, PEARL_OF_GREAT_PRICE
----
+tags:: #PEARL_OF_GREAT_PRICE
 
 [<< 04 Joseph Smith--History](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/04_Joseph_Smith--History.md) | [Genesis 01 >>](OLD_TESTAMENT/01_Genesis/Genesis_01.md)
 

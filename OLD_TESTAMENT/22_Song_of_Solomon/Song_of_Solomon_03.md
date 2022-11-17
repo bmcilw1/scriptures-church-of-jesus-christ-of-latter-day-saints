@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Song of Solomon 02](OLD_TESTAMENT/22_Song_of_Solomon/Song_of_Solomon_02.md) | [Song of Solomon 04 >>](OLD_TESTAMENT/22_Song_of_Solomon/Song_of_Solomon_04.md)
 

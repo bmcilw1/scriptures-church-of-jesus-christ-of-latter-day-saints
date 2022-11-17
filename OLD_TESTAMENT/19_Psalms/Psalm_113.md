@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 112](OLD_TESTAMENT/19_Psalms/Psalm_112.md) | [Psalm 114 >>](OLD_TESTAMENT/19_Psalms/Psalm_114.md)
 

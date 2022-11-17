@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Ether 14](BOOK_OF_MORMON/14_Ether/Ether_14.md) | [Moroni 01 >>](BOOK_OF_MORMON/15_Moroni/Moroni_01.md)
 

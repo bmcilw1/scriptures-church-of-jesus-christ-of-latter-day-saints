@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Nehemiah 13](OLD_TESTAMENT/16_Nehemiah/Nehemiah_13.md) | [Esther 02 >>](OLD_TESTAMENT/17_Esther/Esther_02.md)
 

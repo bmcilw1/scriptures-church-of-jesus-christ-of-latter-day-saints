@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 1 Corinthians 12](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_12.md) | [1 Corinthians 14 >>](NEW_TESTAMENT/07_1_Corinthians/1_Corinthians_14.md)
 

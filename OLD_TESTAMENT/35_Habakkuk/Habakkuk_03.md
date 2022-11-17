@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Habakkuk 02](OLD_TESTAMENT/35_Habakkuk/Habakkuk_02.md) | [Zephaniah 01 >>](OLD_TESTAMENT/36_Zephaniah/Zephaniah_01.md)
 

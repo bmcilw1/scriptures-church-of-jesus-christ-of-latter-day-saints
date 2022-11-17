@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 27](OLD_TESTAMENT/19_Psalms/Psalm_27.md) | [Psalm 29 >>](OLD_TESTAMENT/19_Psalms/Psalm_29.md)
 

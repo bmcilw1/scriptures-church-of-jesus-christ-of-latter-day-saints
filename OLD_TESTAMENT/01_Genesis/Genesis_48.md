@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Genesis 47](OLD_TESTAMENT/01_Genesis/Genesis_47.md) | [Genesis 49 >>](OLD_TESTAMENT/01_Genesis/Genesis_49.md)
 

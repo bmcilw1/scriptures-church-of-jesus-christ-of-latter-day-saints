@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Jude 01](NEW_TESTAMENT/26_Jude/Jude_01.md) | [Revelation 02 >>](NEW_TESTAMENT/27_Revelation/Revelation_02.md)
 

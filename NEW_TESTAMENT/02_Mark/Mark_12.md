@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Mark 11](NEW_TESTAMENT/02_Mark/Mark_11.md) | [Mark 13 >>](NEW_TESTAMENT/02_Mark/Mark_13.md)
 

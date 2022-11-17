@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Proverbs 30](OLD_TESTAMENT/20_Proverbs/Proverbs_30.md) | [Ecclesiastes 01 >>](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_01.md)
 

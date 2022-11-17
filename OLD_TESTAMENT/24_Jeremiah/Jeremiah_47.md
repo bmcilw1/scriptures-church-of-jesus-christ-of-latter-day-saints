@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 46](OLD_TESTAMENT/24_Jeremiah/Jeremiah_46.md) | [Jeremiah 48 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_48.md)
 

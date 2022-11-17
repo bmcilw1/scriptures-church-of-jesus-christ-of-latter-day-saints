@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Judges 21](OLD_TESTAMENT/07_Judges/Judges_21.md) | [Ruth 02 >>](OLD_TESTAMENT/08_Ruth/Ruth_02.md)
 

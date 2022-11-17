@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Jacob 02](BOOK_OF_MORMON/03_Jacob/Jacob_02.md) | [Jacob 04 >>](BOOK_OF_MORMON/03_Jacob/Jacob_04.md)
 

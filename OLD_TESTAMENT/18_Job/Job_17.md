@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Job 16](OLD_TESTAMENT/18_Job/Job_16.md) | [Job 18 >>](OLD_TESTAMENT/18_Job/Job_18.md)
 

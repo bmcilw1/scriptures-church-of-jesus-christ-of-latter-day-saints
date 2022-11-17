@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ezekiel 48](OLD_TESTAMENT/26_Ezekiel/Ezekiel_48.md) | [Daniel 02 >>](OLD_TESTAMENT/27_Daniel/Daniel_02.md)
 

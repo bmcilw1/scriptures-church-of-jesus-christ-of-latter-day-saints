@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 20](OLD_TESTAMENT/24_Jeremiah/Jeremiah_20.md) | [Jeremiah 22 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_22.md)
 

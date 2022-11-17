@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Exodus 38](OLD_TESTAMENT/02_Exodus/Exodus_38.md) | [Exodus 40 >>](OLD_TESTAMENT/02_Exodus/Exodus_40.md)
 

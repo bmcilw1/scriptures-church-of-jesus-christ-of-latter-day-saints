@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Esther 09](OLD_TESTAMENT/17_Esther/Esther_09.md) | [Job 01 >>](OLD_TESTAMENT/18_Job/Job_01.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Ezra 06](OLD_TESTAMENT/15_Ezra/Ezra_06.md) | [Ezra 08 >>](OLD_TESTAMENT/15_Ezra/Ezra_08.md)
 

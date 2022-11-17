@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 2 John 01](NEW_TESTAMENT/24_2_John/2_John_01.md) | [Jude 01 >>](NEW_TESTAMENT/26_Jude/Jude_01.md)
 

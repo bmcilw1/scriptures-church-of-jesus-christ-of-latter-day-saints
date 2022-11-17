@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Joel 03](OLD_TESTAMENT/29_Joel/Joel_03.md) | [Amos 02 >>](OLD_TESTAMENT/30_Amos/Amos_02.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 1 Thessalonians 05](NEW_TESTAMENT/13_1_Thessalonians/1_Thessalonians_05.md) | [2 Thessalonians 02 >>](NEW_TESTAMENT/14_2_Thessalonians/2_Thessalonians_02.md)
 

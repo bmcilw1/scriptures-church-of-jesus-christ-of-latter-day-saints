@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Jeremiah 51](OLD_TESTAMENT/24_Jeremiah/Jeremiah_51.md) | [Lamentations 01 >>](OLD_TESTAMENT/25_Lamentations/Lamentations_01.md)
 

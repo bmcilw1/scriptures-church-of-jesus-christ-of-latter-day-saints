@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< 2 Nephi 19](BOOK_OF_MORMON/02_2_Nephi/2_Nephi_19.md) | [2 Nephi 21 >>](BOOK_OF_MORMON/02_2_Nephi/2_Nephi_21.md)
 

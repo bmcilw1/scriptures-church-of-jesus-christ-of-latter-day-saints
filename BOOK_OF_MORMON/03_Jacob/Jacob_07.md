@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, BOOK_OF_MORMON
----
+tags:: #BOOK_OF_MORMON
 
 [<< Jacob 06](BOOK_OF_MORMON/03_Jacob/Jacob_06.md) | [Enos 01 >>](BOOK_OF_MORMON/04_The_Book_of_Enos/Enos_01.md)
 

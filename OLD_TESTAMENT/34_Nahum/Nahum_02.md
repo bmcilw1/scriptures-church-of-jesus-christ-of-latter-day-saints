@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Nahum 01](OLD_TESTAMENT/34_Nahum/Nahum_01.md) | [Nahum 03 >>](OLD_TESTAMENT/34_Nahum/Nahum_03.md)
 

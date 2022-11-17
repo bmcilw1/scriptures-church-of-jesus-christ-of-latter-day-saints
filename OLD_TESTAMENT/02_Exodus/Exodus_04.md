@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Exodus 03](OLD_TESTAMENT/02_Exodus/Exodus_03.md) | [Exodus 05 >>](OLD_TESTAMENT/02_Exodus/Exodus_05.md)
 

@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Matthew 12](NEW_TESTAMENT/01_Matthew/Matthew_12.md) | [Matthew 14 >>](NEW_TESTAMENT/01_Matthew/Matthew_14.md)
 

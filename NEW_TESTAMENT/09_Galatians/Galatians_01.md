@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< 2 Corinthians 13](NEW_TESTAMENT/08_2_Corinthians/2_Corinthians_13.md) | [Galatians 02 >>](NEW_TESTAMENT/09_Galatians/Galatians_02.md)
 

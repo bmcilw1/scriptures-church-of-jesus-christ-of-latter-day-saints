@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, PEARL_OF_GREAT_PRICE
----
+tags:: #PEARL_OF_GREAT_PRICE
 
 [<< Abraham 04](PEARL_OF_GREAT_PRICE/02_Abraham/Abraham_04.md) | [03 Joseph Smith--Matthew >>](PEARL_OF_GREAT_PRICE/03_Joseph_Smith/03_Joseph_Smith--Matthew.md)
 

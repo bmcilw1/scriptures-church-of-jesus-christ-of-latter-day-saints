@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Psalm 140](OLD_TESTAMENT/19_Psalms/Psalm_140.md) | [Psalm 142 >>](OLD_TESTAMENT/19_Psalms/Psalm_142.md)
 

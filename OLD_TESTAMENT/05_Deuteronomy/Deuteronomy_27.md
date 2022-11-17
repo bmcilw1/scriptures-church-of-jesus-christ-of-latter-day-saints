@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Deuteronomy 26](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_26.md) | [Deuteronomy 28 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_28.md)
 

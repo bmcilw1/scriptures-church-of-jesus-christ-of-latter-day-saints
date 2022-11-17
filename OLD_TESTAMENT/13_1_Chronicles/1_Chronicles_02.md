@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 1 Chronicles 01](OLD_TESTAMENT/13_1_Chronicles/1_Chronicles_01.md) | [1 Chronicles 03 >>](OLD_TESTAMENT/13_1_Chronicles/1_Chronicles_03.md)
 

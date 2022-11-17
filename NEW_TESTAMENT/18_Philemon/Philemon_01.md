@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Titus 03](NEW_TESTAMENT/17_Titus/Titus_03.md) | [Hebrews 01 >>](NEW_TESTAMENT/19_Hebrews/Hebrews_01.md)
 

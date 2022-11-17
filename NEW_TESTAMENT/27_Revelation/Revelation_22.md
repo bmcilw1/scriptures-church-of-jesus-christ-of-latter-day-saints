@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, NEW_TESTAMENT
----
+tags:: #NEW_TESTAMENT
 
 [<< Revelation 21](NEW_TESTAMENT/27_Revelation/Revelation_21.md) | [1 Nephi 01 >>](SCRIPTURES/Book_of_Mormon/01_1_Nephi/1_Nephi_01.md)
 

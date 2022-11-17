@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Deuteronomy 10](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_10.md) | [Deuteronomy 12 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_12.md)
 

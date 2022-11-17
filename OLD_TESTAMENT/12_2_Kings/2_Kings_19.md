@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Kings 18](OLD_TESTAMENT/12_2_Kings/2_Kings_18.md) | [2 Kings 20 >>](OLD_TESTAMENT/12_2_Kings/2_Kings_20.md)
 

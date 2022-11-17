@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Deuteronomy 33](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_33.md) | [Joshua 01 >>](OLD_TESTAMENT/06_Joshua/Joshua_01.md)
 

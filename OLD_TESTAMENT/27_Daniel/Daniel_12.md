@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Daniel 11](OLD_TESTAMENT/27_Daniel/Daniel_11.md) | [Hosea 01 >>](OLD_TESTAMENT/28_Hosea/Hosea_01.md)
 

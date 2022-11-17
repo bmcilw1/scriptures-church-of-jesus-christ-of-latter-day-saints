@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Joshua 18](OLD_TESTAMENT/06_Joshua/Joshua_18.md) | [Joshua 20 >>](OLD_TESTAMENT/06_Joshua/Joshua_20.md)
 

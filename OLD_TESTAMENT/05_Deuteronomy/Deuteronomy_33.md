@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Deuteronomy 32](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_32.md) | [Deuteronomy 34 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_34.md)
 

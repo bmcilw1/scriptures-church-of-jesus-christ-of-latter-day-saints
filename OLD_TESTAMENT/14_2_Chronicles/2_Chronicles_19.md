@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< 2 Chronicles 18](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_18.md) | [2 Chronicles 20 >>](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_20.md)
 

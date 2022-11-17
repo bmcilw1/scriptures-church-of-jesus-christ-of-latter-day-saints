@@ -1,6 +1,4 @@
----
-Tags: SCRIPTURE, OLD_TESTAMENT
----
+tags:: #OLD_TESTAMENT
 
 [<< Habakkuk 01](OLD_TESTAMENT/35_Habakkuk/Habakkuk_01.md) | [Habakkuk 03 >>](OLD_TESTAMENT/35_Habakkuk/Habakkuk_03.md)
 
