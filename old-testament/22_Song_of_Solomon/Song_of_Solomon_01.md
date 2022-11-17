@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Ecclesiastes 12](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_12.md) | [Song of Solomon 02 >>](OLD_TESTAMENT/22_Song_of_Solomon/Song_of_Solomon_02.md)
+[<< Ecclesiastes 12](source/scripture/old-testament/21_Ecclesiastes/Ecclesiastes_12.md) | [Song of Solomon 02 >>](source/scripture/old-testament/22_Song_of_Solomon/Song_of_Solomon_02.md)
 
 # Song of Solomon 01
 

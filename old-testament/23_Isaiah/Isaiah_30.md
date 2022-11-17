@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Isaiah 29](OLD_TESTAMENT/23_Isaiah/Isaiah_29.md) | [Isaiah 31 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_31.md)
+[<< Isaiah 29](source/scripture/old-testament/23_Isaiah/Isaiah_29.md) | [Isaiah 31 >>](source/scripture/old-testament/23_Isaiah/Isaiah_31.md)
 
 # Isaiah 30
 

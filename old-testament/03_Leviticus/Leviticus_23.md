@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Leviticus 22](OLD_TESTAMENT/03_Leviticus/Leviticus_22.md) | [Leviticus 24 >>](OLD_TESTAMENT/03_Leviticus/Leviticus_24.md)
+[<< Leviticus 22](source/scripture/old-testament/03_Leviticus/Leviticus_22.md) | [Leviticus 24 >>](source/scripture/old-testament/03_Leviticus/Leviticus_24.md)
 
 # Leviticus 23
 

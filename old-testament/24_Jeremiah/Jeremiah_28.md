@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Jeremiah 27](OLD_TESTAMENT/24_Jeremiah/Jeremiah_27.md) | [Jeremiah 29 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_29.md)
+[<< Jeremiah 27](source/scripture/old-testament/24_Jeremiah/Jeremiah_27.md) | [Jeremiah 29 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_29.md)
 
 # Jeremiah 28
 

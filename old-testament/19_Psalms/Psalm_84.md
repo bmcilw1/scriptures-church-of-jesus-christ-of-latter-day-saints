@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 83](OLD_TESTAMENT/19_Psalms/Psalm_83.md) | [Psalm 85 >>](OLD_TESTAMENT/19_Psalms/Psalm_85.md)
+[<< Psalm 83](source/scripture/old-testament/19_Psalms/Psalm_83.md) | [Psalm 85 >>](source/scripture/old-testament/19_Psalms/Psalm_85.md)
 
 # Psalm 84
 

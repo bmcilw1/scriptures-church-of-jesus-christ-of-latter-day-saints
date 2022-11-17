@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 01](OLD_TESTAMENT/19_Psalms/Psalm_01.md) | [Psalm 03 >>](OLD_TESTAMENT/19_Psalms/Psalm_03.md)
+[<< Psalm 01](source/scripture/old-testament/19_Psalms/Psalm_01.md) | [Psalm 03 >>](source/scripture/old-testament/19_Psalms/Psalm_03.md)
 
 # Psalm 02
 

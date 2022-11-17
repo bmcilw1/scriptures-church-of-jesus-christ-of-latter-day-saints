@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 27](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_27.md) | [2 Chronicles 29 >>](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_29.md)
+[<< 2 Chronicles 27](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_27.md) | [2 Chronicles 29 >>](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_29.md)
 
 # 2 Chronicles 28
 

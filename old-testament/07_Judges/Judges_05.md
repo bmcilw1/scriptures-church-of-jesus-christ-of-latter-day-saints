@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Judges 04](OLD_TESTAMENT/07_Judges/Judges_04.md) | [Judges 06 >>](OLD_TESTAMENT/07_Judges/Judges_06.md)
+[<< Judges 04](source/scripture/old-testament/07_Judges/Judges_04.md) | [Judges 06 >>](source/scripture/old-testament/07_Judges/Judges_06.md)
 
 # Judges 05
 

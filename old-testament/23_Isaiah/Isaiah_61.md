@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Isaiah 60](OLD_TESTAMENT/23_Isaiah/Isaiah_60.md) | [Isaiah 62 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_62.md)
+[<< Isaiah 60](source/scripture/old-testament/23_Isaiah/Isaiah_60.md) | [Isaiah 62 >>](source/scripture/old-testament/23_Isaiah/Isaiah_62.md)
 
 # Isaiah 61
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 45](OLD_TESTAMENT/19_Psalms/Psalm_45.md) | [Psalm 47 >>](OLD_TESTAMENT/19_Psalms/Psalm_47.md)
+[<< Psalm 45](source/scripture/old-testament/19_Psalms/Psalm_45.md) | [Psalm 47 >>](source/scripture/old-testament/19_Psalms/Psalm_47.md)
 
 # Psalm 46
 

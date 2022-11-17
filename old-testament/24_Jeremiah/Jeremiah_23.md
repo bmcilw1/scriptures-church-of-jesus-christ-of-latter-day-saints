@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Jeremiah 22](OLD_TESTAMENT/24_Jeremiah/Jeremiah_22.md) | [Jeremiah 24 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_24.md)
+[<< Jeremiah 22](source/scripture/old-testament/24_Jeremiah/Jeremiah_22.md) | [Jeremiah 24 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_24.md)
 
 # Jeremiah 23
 

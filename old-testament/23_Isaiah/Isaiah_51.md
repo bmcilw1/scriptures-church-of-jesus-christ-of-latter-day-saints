@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Isaiah 50](OLD_TESTAMENT/23_Isaiah/Isaiah_50.md) | [Isaiah 52 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_52.md)
+[<< Isaiah 50](source/scripture/old-testament/23_Isaiah/Isaiah_50.md) | [Isaiah 52 >>](source/scripture/old-testament/23_Isaiah/Isaiah_52.md)
 
 # Isaiah 51
 

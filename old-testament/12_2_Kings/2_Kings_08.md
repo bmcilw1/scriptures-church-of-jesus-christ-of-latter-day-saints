@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 2 Kings 07](OLD_TESTAMENT/12_2_Kings/2_Kings_07.md) | [2 Kings 09 >>](OLD_TESTAMENT/12_2_Kings/2_Kings_09.md)
+[<< 2 Kings 07](source/scripture/old-testament/12_2_Kings/2_Kings_07.md) | [2 Kings 09 >>](source/scripture/old-testament/12_2_Kings/2_Kings_09.md)
 
 # 2 Kings 08
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Jeremiah 48](OLD_TESTAMENT/24_Jeremiah/Jeremiah_48.md) | [Jeremiah 50 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_50.md)
+[<< Jeremiah 48](source/scripture/old-testament/24_Jeremiah/Jeremiah_48.md) | [Jeremiah 50 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_50.md)
 
 # Jeremiah 49
 

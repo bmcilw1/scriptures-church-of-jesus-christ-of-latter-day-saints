@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Judges 11](OLD_TESTAMENT/07_Judges/Judges_11.md) | [Judges 13 >>](OLD_TESTAMENT/07_Judges/Judges_13.md)
+[<< Judges 11](source/scripture/old-testament/07_Judges/Judges_11.md) | [Judges 13 >>](source/scripture/old-testament/07_Judges/Judges_13.md)
 
 # Judges 12
 

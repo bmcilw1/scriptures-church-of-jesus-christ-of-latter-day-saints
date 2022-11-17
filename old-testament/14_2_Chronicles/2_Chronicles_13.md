@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 12](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_12.md) | [2 Chronicles 14 >>](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_14.md)
+[<< 2 Chronicles 12](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_12.md) | [2 Chronicles 14 >>](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_14.md)
 
 # 2 Chronicles 13
 

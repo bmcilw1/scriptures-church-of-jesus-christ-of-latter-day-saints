@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Exodus 26](OLD_TESTAMENT/02_Exodus/Exodus_26.md) | [Exodus 28 >>](OLD_TESTAMENT/02_Exodus/Exodus_28.md)
+[<< Exodus 26](source/scripture/old-testament/02_Exodus/Exodus_26.md) | [Exodus 28 >>](source/scripture/old-testament/02_Exodus/Exodus_28.md)
 
 # Exodus 27
 

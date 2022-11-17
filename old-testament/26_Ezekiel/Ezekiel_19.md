@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Ezekiel 18](OLD_TESTAMENT/26_Ezekiel/Ezekiel_18.md) | [Ezekiel 20 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_20.md)
+[<< Ezekiel 18](source/scripture/old-testament/26_Ezekiel/Ezekiel_18.md) | [Ezekiel 20 >>](source/scripture/old-testament/26_Ezekiel/Ezekiel_20.md)
 
 # Ezekiel 19
 

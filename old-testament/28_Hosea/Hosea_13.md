@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Hosea 12](OLD_TESTAMENT/28_Hosea/Hosea_12.md) | [Hosea 14 >>](OLD_TESTAMENT/28_Hosea/Hosea_14.md)
+[<< Hosea 12](source/scripture/old-testament/28_Hosea/Hosea_12.md) | [Hosea 14 >>](source/scripture/old-testament/28_Hosea/Hosea_14.md)
 
 # Hosea 13
 

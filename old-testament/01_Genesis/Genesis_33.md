@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Genesis 32](OLD_TESTAMENT/01_Genesis/Genesis_32.md) | [Genesis 34 >>](OLD_TESTAMENT/01_Genesis/Genesis_34.md)
+[<< Genesis 32](source/scripture/old-testament/01_Genesis/Genesis_32.md) | [Genesis 34 >>](source/scripture/old-testament/01_Genesis/Genesis_34.md)
 
 # Genesis 33
 

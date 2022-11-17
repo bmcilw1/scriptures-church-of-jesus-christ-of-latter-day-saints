@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Numbers 36](OLD_TESTAMENT/04_Numbers/Numbers_36.md) | [Deuteronomy 02 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_02.md)
+[<< Numbers 36](source/scripture/old-testament/04_Numbers/Numbers_36.md) | [Deuteronomy 02 >>](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_02.md)
 
 # Deuteronomy 01
 

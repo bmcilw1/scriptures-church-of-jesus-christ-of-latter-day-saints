@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 64](OLD_TESTAMENT/19_Psalms/Psalm_64.md) | [Psalm 66 >>](OLD_TESTAMENT/19_Psalms/Psalm_66.md)
+[<< Psalm 64](source/scripture/old-testament/19_Psalms/Psalm_64.md) | [Psalm 66 >>](source/scripture/old-testament/19_Psalms/Psalm_66.md)
 
 # Psalm 65
 

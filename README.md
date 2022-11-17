@@ -51,7 +51,7 @@ I want to use the following tags
 - `DOCTRING_&_COVENANTS`
 - `PEARL_OF_GREAT_PRICE`
 - `BIBLE`
-- `OLD_TESTAMENT`
+- `source/scripture/old-testament`
 - `source/scripture/new-testament`
 
 ## Sample Scripture Verse Structure

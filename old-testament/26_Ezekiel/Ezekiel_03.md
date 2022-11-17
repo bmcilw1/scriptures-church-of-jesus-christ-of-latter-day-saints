@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Ezekiel 02](OLD_TESTAMENT/26_Ezekiel/Ezekiel_02.md) | [Ezekiel 04 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_04.md)
+[<< Ezekiel 02](source/scripture/old-testament/26_Ezekiel/Ezekiel_02.md) | [Ezekiel 04 >>](source/scripture/old-testament/26_Ezekiel/Ezekiel_04.md)
 
 # Ezekiel 03
 

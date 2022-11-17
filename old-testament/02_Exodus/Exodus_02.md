@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Exodus 01](OLD_TESTAMENT/02_Exodus/Exodus_01.md) | [Exodus 03 >>](OLD_TESTAMENT/02_Exodus/Exodus_03.md)
+[<< Exodus 01](source/scripture/old-testament/02_Exodus/Exodus_01.md) | [Exodus 03 >>](source/scripture/old-testament/02_Exodus/Exodus_03.md)
 
 # Exodus 02
 

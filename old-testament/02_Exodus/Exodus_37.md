@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Exodus 36](OLD_TESTAMENT/02_Exodus/Exodus_36.md) | [Exodus 38 >>](OLD_TESTAMENT/02_Exodus/Exodus_38.md)
+[<< Exodus 36](source/scripture/old-testament/02_Exodus/Exodus_36.md) | [Exodus 38 >>](source/scripture/old-testament/02_Exodus/Exodus_38.md)
 
 # Exodus 37
 

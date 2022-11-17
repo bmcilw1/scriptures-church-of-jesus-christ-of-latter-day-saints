@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 17](OLD_TESTAMENT/09_1_Samuel/1_Samuel_17.md) | [1 Samuel 19 >>](OLD_TESTAMENT/09_1_Samuel/1_Samuel_19.md)
+[<< 1 Samuel 17](source/scripture/old-testament/09_1_Samuel/1_Samuel_17.md) | [1 Samuel 19 >>](source/scripture/old-testament/09_1_Samuel/1_Samuel_19.md)
 
 # 1 Samuel 18
 

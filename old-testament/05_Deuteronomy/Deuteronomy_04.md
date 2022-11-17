@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 03](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_03.md) | [Deuteronomy 05 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_05.md)
+[<< Deuteronomy 03](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_03.md) | [Deuteronomy 05 >>](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_05.md)
 
 # Deuteronomy 04
 

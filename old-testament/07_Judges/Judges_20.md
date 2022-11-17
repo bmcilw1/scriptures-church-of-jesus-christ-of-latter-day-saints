@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Judges 19](OLD_TESTAMENT/07_Judges/Judges_19.md) | [Judges 21 >>](OLD_TESTAMENT/07_Judges/Judges_21.md)
+[<< Judges 19](source/scripture/old-testament/07_Judges/Judges_19.md) | [Judges 21 >>](source/scripture/old-testament/07_Judges/Judges_21.md)
 
 # Judges 20
 

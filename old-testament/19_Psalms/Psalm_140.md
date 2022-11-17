@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 14](OLD_TESTAMENT/19_Psalms/Psalm_14.md) | [Psalm 141 >>](OLD_TESTAMENT/19_Psalms/Psalm_141.md)
+[<< Psalm 14](source/scripture/old-testament/19_Psalms/Psalm_14.md) | [Psalm 141 >>](source/scripture/old-testament/19_Psalms/Psalm_141.md)
 
 # Psalm 140
 

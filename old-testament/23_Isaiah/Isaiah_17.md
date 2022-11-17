@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Isaiah 16](OLD_TESTAMENT/23_Isaiah/Isaiah_16.md) | [Isaiah 18 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_18.md)
+[<< Isaiah 16](source/scripture/old-testament/23_Isaiah/Isaiah_16.md) | [Isaiah 18 >>](source/scripture/old-testament/23_Isaiah/Isaiah_18.md)
 
 # Isaiah 17
 

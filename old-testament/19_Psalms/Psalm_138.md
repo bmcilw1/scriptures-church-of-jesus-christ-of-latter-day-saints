@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 137](OLD_TESTAMENT/19_Psalms/Psalm_137.md) | [Psalm 139 >>](OLD_TESTAMENT/19_Psalms/Psalm_139.md)
+[<< Psalm 137](source/scripture/old-testament/19_Psalms/Psalm_137.md) | [Psalm 139 >>](source/scripture/old-testament/19_Psalms/Psalm_139.md)
 
 # Psalm 138
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 2 Samuel 15](OLD_TESTAMENT/10_2_Samuel/2_Samuel_15.md) | [2 Samuel 17 >>](OLD_TESTAMENT/10_2_Samuel/2_Samuel_17.md)
+[<< 2 Samuel 15](source/scripture/old-testament/10_2_Samuel/2_Samuel_15.md) | [2 Samuel 17 >>](source/scripture/old-testament/10_2_Samuel/2_Samuel_17.md)
 
 # 2 Samuel 16
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Lamentations 04](OLD_TESTAMENT/25_Lamentations/Lamentations_04.md) | [Ezekial 01 >>](OLD_TESTAMENT/26_Ezekiel/Ezekial_01.md)
+[<< Lamentations 04](source/scripture/old-testament/25_Lamentations/Lamentations_04.md) | [Ezekial 01 >>](source/scripture/old-testament/26_Ezekiel/Ezekial_01.md)
 
 # Lamentations 05
 

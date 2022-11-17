@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Ezekiel 07](OLD_TESTAMENT/26_Ezekiel/Ezekiel_07.md) | [Ezekiel 09 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_09.md)
+[<< Ezekiel 07](source/scripture/old-testament/26_Ezekiel/Ezekiel_07.md) | [Ezekiel 09 >>](source/scripture/old-testament/26_Ezekiel/Ezekiel_09.md)
 
 # Ezekiel 08
 

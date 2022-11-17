@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Proverbs 30](OLD_TESTAMENT/20_Proverbs/Proverbs_30.md) | [Ecclesiastes 01 >>](OLD_TESTAMENT/21_Ecclesiastes/Ecclesiastes_01.md)
+[<< Proverbs 30](source/scripture/old-testament/20_Proverbs/Proverbs_30.md) | [Ecclesiastes 01 >>](source/scripture/old-testament/21_Ecclesiastes/Ecclesiastes_01.md)
 
 # Proverbs 31
 

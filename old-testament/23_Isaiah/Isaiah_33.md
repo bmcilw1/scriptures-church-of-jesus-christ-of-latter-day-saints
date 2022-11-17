@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Isaiah 32](OLD_TESTAMENT/23_Isaiah/Isaiah_32.md) | [Isaiah 34 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_34.md)
+[<< Isaiah 32](source/scripture/old-testament/23_Isaiah/Isaiah_32.md) | [Isaiah 34 >>](source/scripture/old-testament/23_Isaiah/Isaiah_34.md)
 
 # Isaiah 33
 

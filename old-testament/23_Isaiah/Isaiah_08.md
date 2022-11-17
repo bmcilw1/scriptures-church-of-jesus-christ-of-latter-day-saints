@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Isaiah 07](OLD_TESTAMENT/23_Isaiah/Isaiah_07.md) | [Isaiah 09 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_09.md)
+[<< Isaiah 07](source/scripture/old-testament/23_Isaiah/Isaiah_07.md) | [Isaiah 09 >>](source/scripture/old-testament/23_Isaiah/Isaiah_09.md)
 
 # Isaiah 08
 

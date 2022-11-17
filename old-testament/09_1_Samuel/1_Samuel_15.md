@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 14](OLD_TESTAMENT/09_1_Samuel/1_Samuel_14.md) | [1 Samuel 16 >>](OLD_TESTAMENT/09_1_Samuel/1_Samuel_16.md)
+[<< 1 Samuel 14](source/scripture/old-testament/09_1_Samuel/1_Samuel_14.md) | [1 Samuel 16 >>](source/scripture/old-testament/09_1_Samuel/1_Samuel_16.md)
 
 # 1 Samuel 15
 

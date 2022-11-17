@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Job 41](OLD_TESTAMENT/18_Job/Job_41.md) | [Psalm 01 >>](OLD_TESTAMENT/19_Psalms/Psalm_01.md)
+[<< Job 41](source/scripture/old-testament/18_Job/Job_41.md) | [Psalm 01 >>](source/scripture/old-testament/19_Psalms/Psalm_01.md)
 
 # Job 42
 

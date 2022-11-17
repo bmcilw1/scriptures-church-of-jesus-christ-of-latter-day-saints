@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 35](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_35.md) | [Ezra 01 >>](OLD_TESTAMENT/15_Ezra/Ezra_01.md)
+[<< 2 Chronicles 35](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_35.md) | [Ezra 01 >>](source/scripture/old-testament/15_Ezra/Ezra_01.md)
 
 # 2 Chronicles 36
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Ezekiel 15](OLD_TESTAMENT/26_Ezekiel/Ezekiel_15.md) | [Ezekiel 17 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_17.md)
+[<< Ezekiel 15](source/scripture/old-testament/26_Ezekiel/Ezekiel_15.md) | [Ezekiel 17 >>](source/scripture/old-testament/26_Ezekiel/Ezekiel_17.md)
 
 # Ezekiel 16
 

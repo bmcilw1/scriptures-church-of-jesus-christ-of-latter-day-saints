@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 2 Samuel 20](OLD_TESTAMENT/10_2_Samuel/2_Samuel_20.md) | [2 Samuel 22 >>](OLD_TESTAMENT/10_2_Samuel/2_Samuel_22.md)
+[<< 2 Samuel 20](source/scripture/old-testament/10_2_Samuel/2_Samuel_20.md) | [2 Samuel 22 >>](source/scripture/old-testament/10_2_Samuel/2_Samuel_22.md)
 
 # 2 Samuel 21
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 09](OLD_TESTAMENT/09_1_Samuel/1_Samuel_09.md) | [1 Samuel 11 >>](OLD_TESTAMENT/09_1_Samuel/1_Samuel_11.md)
+[<< 1 Samuel 09](source/scripture/old-testament/09_1_Samuel/1_Samuel_09.md) | [1 Samuel 11 >>](source/scripture/old-testament/09_1_Samuel/1_Samuel_11.md)
 
 # 1 Samuel 10
 

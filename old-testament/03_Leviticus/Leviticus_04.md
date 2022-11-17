@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Leviticus 03](OLD_TESTAMENT/03_Leviticus/Leviticus_03.md) | [Leviticus 05 >>](OLD_TESTAMENT/03_Leviticus/Leviticus_05.md)
+[<< Leviticus 03](source/scripture/old-testament/03_Leviticus/Leviticus_03.md) | [Leviticus 05 >>](source/scripture/old-testament/03_Leviticus/Leviticus_05.md)
 
 # Leviticus 04
 

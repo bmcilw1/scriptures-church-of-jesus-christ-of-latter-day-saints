@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 24](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_24.md) | [Deuteronomy 26 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_26.md)
+[<< Deuteronomy 24](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_24.md) | [Deuteronomy 26 >>](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_26.md)
 
 # Deuteronomy 25
 

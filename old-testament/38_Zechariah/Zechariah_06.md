@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Zechariah 05](OLD_TESTAMENT/38_Zechariah/Zechariah_05.md) | [Zechariah 07 >>](OLD_TESTAMENT/38_Zechariah/Zechariah_07.md)
+[<< Zechariah 05](source/scripture/old-testament/38_Zechariah/Zechariah_05.md) | [Zechariah 07 >>](source/scripture/old-testament/38_Zechariah/Zechariah_07.md)
 
 # Zechariah 06
 

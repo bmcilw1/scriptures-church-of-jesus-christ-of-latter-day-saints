@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 27](OLD_TESTAMENT/19_Psalms/Psalm_27.md) | [Psalm 29 >>](OLD_TESTAMENT/19_Psalms/Psalm_29.md)
+[<< Psalm 27](source/scripture/old-testament/19_Psalms/Psalm_27.md) | [Psalm 29 >>](source/scripture/old-testament/19_Psalms/Psalm_29.md)
 
 # Psalm 28
 

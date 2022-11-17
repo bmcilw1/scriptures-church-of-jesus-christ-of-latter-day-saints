@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Jeremiah 08](OLD_TESTAMENT/24_Jeremiah/Jeremiah_08.md) | [Jeremiah 10 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_10.md)
+[<< Jeremiah 08](source/scripture/old-testament/24_Jeremiah/Jeremiah_08.md) | [Jeremiah 10 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_10.md)
 
 # Jeremiah 09
 

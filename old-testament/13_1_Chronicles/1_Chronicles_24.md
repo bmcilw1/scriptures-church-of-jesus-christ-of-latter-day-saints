@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 1 Chronicles 23](OLD_TESTAMENT/13_1_Chronicles/1_Chronicles_23.md) | [1 Chronicles 25 >>](OLD_TESTAMENT/13_1_Chronicles/1_Chronicles_25.md)
+[<< 1 Chronicles 23](source/scripture/old-testament/13_1_Chronicles/1_Chronicles_23.md) | [1 Chronicles 25 >>](source/scripture/old-testament/13_1_Chronicles/1_Chronicles_25.md)
 
 # 1 Chronicles 24
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Ezra 05](OLD_TESTAMENT/15_Ezra/Ezra_05.md) | [Ezra 07 >>](OLD_TESTAMENT/15_Ezra/Ezra_07.md)
+[<< Ezra 05](source/scripture/old-testament/15_Ezra/Ezra_05.md) | [Ezra 07 >>](source/scripture/old-testament/15_Ezra/Ezra_07.md)
 
 # Ezra 06
 

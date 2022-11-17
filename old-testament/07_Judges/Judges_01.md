@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Joshua 24](OLD_TESTAMENT/06_Joshua/Joshua_24.md) | [Judges 02 >>](OLD_TESTAMENT/07_Judges/Judges_02.md)
+[<< Joshua 24](source/scripture/old-testament/06_Joshua/Joshua_24.md) | [Judges 02 >>](source/scripture/old-testament/07_Judges/Judges_02.md)
 
 # Judges 01
 

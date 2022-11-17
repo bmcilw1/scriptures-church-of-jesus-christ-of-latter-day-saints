@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 68](OLD_TESTAMENT/19_Psalms/Psalm_68.md) | [Psalm 70 >>](OLD_TESTAMENT/19_Psalms/Psalm_70.md)
+[<< Psalm 68](source/scripture/old-testament/19_Psalms/Psalm_68.md) | [Psalm 70 >>](source/scripture/old-testament/19_Psalms/Psalm_70.md)
 
 # Psalm 69
 

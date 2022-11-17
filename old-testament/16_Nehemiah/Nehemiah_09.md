@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Nehemiah 08](OLD_TESTAMENT/16_Nehemiah/Nehemiah_08.md) | [Nehemiah 10 >>](OLD_TESTAMENT/16_Nehemiah/Nehemiah_10.md)
+[<< Nehemiah 08](source/scripture/old-testament/16_Nehemiah/Nehemiah_08.md) | [Nehemiah 10 >>](source/scripture/old-testament/16_Nehemiah/Nehemiah_10.md)
 
 # Nehemiah 09
 

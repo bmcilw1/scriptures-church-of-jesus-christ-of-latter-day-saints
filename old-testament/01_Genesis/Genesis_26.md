@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Genesis 25](OLD_TESTAMENT/01_Genesis/Genesis_25.md) | [Genesis 27 >>](OLD_TESTAMENT/01_Genesis/Genesis_27.md)
+[<< Genesis 25](source/scripture/old-testament/01_Genesis/Genesis_25.md) | [Genesis 27 >>](source/scripture/old-testament/01_Genesis/Genesis_27.md)
 
 # Genesis 26
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Zechariah 14](OLD_TESTAMENT/38_Zechariah/Zechariah_14.md) | [Malachi 02 >>](OLD_TESTAMENT/39_Malachi/Malachi_02.md)
+[<< Zechariah 14](source/scripture/old-testament/38_Zechariah/Zechariah_14.md) | [Malachi 02 >>](source/scripture/old-testament/39_Malachi/Malachi_02.md)
 
 # Malachi 01
 

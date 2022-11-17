@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 39](OLD_TESTAMENT/19_Psalms/Psalm_39.md) | [Psalm 41 >>](OLD_TESTAMENT/19_Psalms/Psalm_41.md)
+[<< Psalm 39](source/scripture/old-testament/19_Psalms/Psalm_39.md) | [Psalm 41 >>](source/scripture/old-testament/19_Psalms/Psalm_41.md)
 
 # Psalm 40
 

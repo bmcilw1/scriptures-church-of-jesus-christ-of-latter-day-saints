@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 126](OLD_TESTAMENT/19_Psalms/Psalm_126.md) | [Psalm 128 >>](OLD_TESTAMENT/19_Psalms/Psalm_128.md)
+[<< Psalm 126](source/scripture/old-testament/19_Psalms/Psalm_126.md) | [Psalm 128 >>](source/scripture/old-testament/19_Psalms/Psalm_128.md)
 
 # Psalm 127
 

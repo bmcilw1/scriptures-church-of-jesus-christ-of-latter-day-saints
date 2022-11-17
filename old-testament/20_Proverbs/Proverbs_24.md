@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Proverbs 23](OLD_TESTAMENT/20_Proverbs/Proverbs_23.md) | [Proverbs 25 >>](OLD_TESTAMENT/20_Proverbs/Proverbs_25.md)
+[<< Proverbs 23](source/scripture/old-testament/20_Proverbs/Proverbs_23.md) | [Proverbs 25 >>](source/scripture/old-testament/20_Proverbs/Proverbs_25.md)
 
 # Proverbs 24
 

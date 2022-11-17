@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Leviticus 27](OLD_TESTAMENT/03_Leviticus/Leviticus_27.md) | [Numbers 02 >>](OLD_TESTAMENT/04_Numbers/Numbers_02.md)
+[<< Leviticus 27](source/scripture/old-testament/03_Leviticus/Leviticus_27.md) | [Numbers 02 >>](source/scripture/old-testament/04_Numbers/Numbers_02.md)
 
 # Numbers 01
 

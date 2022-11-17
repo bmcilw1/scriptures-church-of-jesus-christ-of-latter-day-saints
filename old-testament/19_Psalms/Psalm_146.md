@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Psalm 145](OLD_TESTAMENT/19_Psalms/Psalm_145.md) | [Psalm 147 >>](OLD_TESTAMENT/19_Psalms/Psalm_147.md)
+[<< Psalm 145](source/scripture/old-testament/19_Psalms/Psalm_145.md) | [Psalm 147 >>](source/scripture/old-testament/19_Psalms/Psalm_147.md)
 
 # Psalm 146
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Leviticus 09](OLD_TESTAMENT/03_Leviticus/Leviticus_09.md) | [Leviticus 11 >>](OLD_TESTAMENT/03_Leviticus/Leviticus_11.md)
+[<< Leviticus 09](source/scripture/old-testament/03_Leviticus/Leviticus_09.md) | [Leviticus 11 >>](source/scripture/old-testament/03_Leviticus/Leviticus_11.md)
 
 # Leviticus 10
 

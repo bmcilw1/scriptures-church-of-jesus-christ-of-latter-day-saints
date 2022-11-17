@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Hosea 09](OLD_TESTAMENT/28_Hosea/Hosea_09.md) | [Hosea 11 >>](OLD_TESTAMENT/28_Hosea/Hosea_11.md)
+[<< Hosea 09](source/scripture/old-testament/28_Hosea/Hosea_09.md) | [Hosea 11 >>](source/scripture/old-testament/28_Hosea/Hosea_11.md)
 
 # Hosea 10
 

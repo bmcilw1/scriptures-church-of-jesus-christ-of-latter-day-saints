@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Genesis 39](OLD_TESTAMENT/01_Genesis/Genesis_39.md) | [Genesis 41 >>](OLD_TESTAMENT/01_Genesis/Genesis_41.md)
+[<< Genesis 39](source/scripture/old-testament/01_Genesis/Genesis_39.md) | [Genesis 41 >>](source/scripture/old-testament/01_Genesis/Genesis_41.md)
 
 # Genesis 40
 

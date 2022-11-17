@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 17](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_17.md) | [2 Chronicles 19 >>](OLD_TESTAMENT/14_2_Chronicles/2_Chronicles_19.md)
+[<< 2 Chronicles 17](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_17.md) | [2 Chronicles 19 >>](source/scripture/old-testament/14_2_Chronicles/2_Chronicles_19.md)
 
 # 2 Chronicles 18
 

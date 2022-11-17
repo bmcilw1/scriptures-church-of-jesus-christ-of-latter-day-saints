@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Isaiah 12](OLD_TESTAMENT/23_Isaiah/Isaiah_12.md) | [Isaiah 14 >>](OLD_TESTAMENT/23_Isaiah/Isaiah_14.md)
+[<< Isaiah 12](source/scripture/old-testament/23_Isaiah/Isaiah_12.md) | [Isaiah 14 >>](source/scripture/old-testament/23_Isaiah/Isaiah_14.md)
 
 # Isaiah 13
 

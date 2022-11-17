@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Genesis 12](OLD_TESTAMENT/01_Genesis/Genesis_12.md) | [Genesis 14 >>](OLD_TESTAMENT/01_Genesis/Genesis_14.md)
+[<< Genesis 12](source/scripture/old-testament/01_Genesis/Genesis_12.md) | [Genesis 14 >>](source/scripture/old-testament/01_Genesis/Genesis_14.md)
 
 # Genesis 13
 

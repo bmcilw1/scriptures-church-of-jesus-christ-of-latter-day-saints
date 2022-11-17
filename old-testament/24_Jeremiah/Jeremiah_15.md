@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Jeremiah 14](OLD_TESTAMENT/24_Jeremiah/Jeremiah_14.md) | [Jeremiah 16 >>](OLD_TESTAMENT/24_Jeremiah/Jeremiah_16.md)
+[<< Jeremiah 14](source/scripture/old-testament/24_Jeremiah/Jeremiah_14.md) | [Jeremiah 16 >>](source/scripture/old-testament/24_Jeremiah/Jeremiah_16.md)
 
 # Jeremiah 15
 

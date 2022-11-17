@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Daniel 03](OLD_TESTAMENT/27_Daniel/Daniel_03.md) | [Daniel 05 >>](OLD_TESTAMENT/27_Daniel/Daniel_05.md)
+[<< Daniel 03](source/scripture/old-testament/27_Daniel/Daniel_03.md) | [Daniel 05 >>](source/scripture/old-testament/27_Daniel/Daniel_05.md)
 
 # Daniel 04
 

@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Numbers 34](OLD_TESTAMENT/04_Numbers/Numbers_34.md) | [Numbers 36 >>](OLD_TESTAMENT/04_Numbers/Numbers_36.md)
+[<< Numbers 34](source/scripture/old-testament/04_Numbers/Numbers_34.md) | [Numbers 36 >>](source/scripture/old-testament/04_Numbers/Numbers_36.md)
 
 # Numbers 35
 

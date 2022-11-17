@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Esther 10](OLD_TESTAMENT/17_Esther/Esther_10.md) | [Job 02 >>](OLD_TESTAMENT/18_Job/Job_02.md)
+[<< Esther 10](source/scripture/old-testament/17_Esther/Esther_10.md) | [Job 02 >>](source/scripture/old-testament/18_Job/Job_02.md)
 
 # Job 01
 

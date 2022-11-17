@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 22](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_22.md) | [Deuteronomy 24 >>](OLD_TESTAMENT/05_Deuteronomy/Deuteronomy_24.md)
+[<< Deuteronomy 22](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_22.md) | [Deuteronomy 24 >>](source/scripture/old-testament/05_Deuteronomy/Deuteronomy_24.md)
 
 # Deuteronomy 23
 

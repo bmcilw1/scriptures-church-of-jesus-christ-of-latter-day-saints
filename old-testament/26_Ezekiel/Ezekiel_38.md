@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Ezekiel 37](OLD_TESTAMENT/26_Ezekiel/Ezekiel_37.md) | [Ezekiel 39 >>](OLD_TESTAMENT/26_Ezekiel/Ezekiel_39.md)
+[<< Ezekiel 37](source/scripture/old-testament/26_Ezekiel/Ezekiel_37.md) | [Ezekiel 39 >>](source/scripture/old-testament/26_Ezekiel/Ezekiel_39.md)
 
 # Ezekiel 38
 

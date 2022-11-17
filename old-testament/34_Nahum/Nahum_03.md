@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Nahum 02](OLD_TESTAMENT/34_Nahum/Nahum_02.md) | [Habakkuk 01 >>](OLD_TESTAMENT/35_Habakkuk/Habakkuk_01.md)
+[<< Nahum 02](source/scripture/old-testament/34_Nahum/Nahum_02.md) | [Habakkuk 01 >>](source/scripture/old-testament/35_Habakkuk/Habakkuk_01.md)
 
 # Nahum 03
 

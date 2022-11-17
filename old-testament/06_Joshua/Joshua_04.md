@@ -1,6 +1,6 @@
-tags:: #OLD_TESTAMENT
+tags:: #source/scripture/old-testament
 
-[<< Joshua 03](OLD_TESTAMENT/06_Joshua/Joshua_03.md) | [Joshua 05 >>](OLD_TESTAMENT/06_Joshua/Joshua_05.md)
+[<< Joshua 03](source/scripture/old-testament/06_Joshua/Joshua_03.md) | [Joshua 05 >>](source/scripture/old-testament/06_Joshua/Joshua_05.md)
 
 # Joshua 04
 
