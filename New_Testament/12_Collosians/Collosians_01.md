@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Philippians 04](/new-testament/11_Philippians/Philippians_04.md) | [Collosians 02 >>](/new-testament/12_Collosians/Collosians_02.md)
+[<< Philippians 04](/New_Testament/11_Philippians/Philippians_04.md) | [Collosians 02 >>](/New_Testament/12_Collosians/Collosians_02.md)
 
 # Collosians 01
 

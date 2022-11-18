@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Matthew 11](/new-testament/01_Matthew/Matthew_11.md) | [Matthew 13 >>](/new-testament/01_Matthew/Matthew_13.md)
+[<< Matthew 11](/New_Testament/01_Matthew/Matthew_11.md) | [Matthew 13 >>](/New_Testament/01_Matthew/Matthew_13.md)
 
 # Matthew 12
 

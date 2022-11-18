@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 3 John 01](/new-testament/25_3_John/3_John_01.md) | [Revelation 01 >>](/new-testament/27_Revelation/Revelation_01.md)
+[<< 3 John 01](/New_Testament/25_3_John/3_John_01.md) | [Revelation 01 >>](/New_Testament/27_Revelation/Revelation_01.md)
 
 # Jude 01
 

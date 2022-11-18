@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Revelation 17](/new-testament/27_Revelation/Revelation_17.md) | [Revelation 19 >>](/new-testament/27_Revelation/Revelation_19.md)
+[<< Revelation 17](/New_Testament/27_Revelation/Revelation_17.md) | [Revelation 19 >>](/New_Testament/27_Revelation/Revelation_19.md)
 
 # Revelation 18
 

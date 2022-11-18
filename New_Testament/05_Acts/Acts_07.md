@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Acts 06](/new-testament/05_Acts/Acts_06.md) | [Acts 08 >>](/new-testament/05_Acts/Acts_08.md)
+[<< Acts 06](/New_Testament/05_Acts/Acts_06.md) | [Acts 08 >>](/New_Testament/05_Acts/Acts_08.md)
 
 # Acts 07
 

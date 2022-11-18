@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Mark 02](/new-testament/02_Mark/Mark_02.md) | [Mark 04 >>](/new-testament/02_Mark/Mark_04.md)
+[<< Mark 02](/New_Testament/02_Mark/Mark_02.md) | [Mark 04 >>](/New_Testament/02_Mark/Mark_04.md)
 
 # Mark 03
 

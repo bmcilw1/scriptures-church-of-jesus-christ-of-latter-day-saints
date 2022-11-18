@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Acts 26](/new-testament/05_Acts/Acts_26.md) | [Acts 28 >>](/new-testament/05_Acts/Acts_28.md)
+[<< Acts 26](/New_Testament/05_Acts/Acts_26.md) | [Acts 28 >>](/New_Testament/05_Acts/Acts_28.md)
 
 # Acts 27
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Romans 16](/new-testament/06_Romans/Romans_16.md) | [1 Corinthians 02 >>](/new-testament/07_1_Corinthians/1_Corinthians_02.md)
+[<< Romans 16](/New_Testament/06_Romans/Romans_16.md) | [1 Corinthians 02 >>](/New_Testament/07_1_Corinthians/1_Corinthians_02.md)
 
 # 1 Corinthians 01
 
