@@ -2,7 +2,7 @@
 
 > Forked from [LDS-SCRIPTURES](https://github.com/michael-huber2772/LDS-SCRIPTURES)
 
-This contains the main cannon of scripture for the [Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/). It is intended to be used in link-based study applications such as [Obsidian](https://obsidian.md/).
+This contains the main canon of scripture for the [Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/). It is intended to be used in link-based study applications such as [Obsidian](https://obsidian.md/).
 
 - See [here](https://www.youtube.com/watch?v=QgbLb6QCK88) for an introduction to the Obsidian app.
 - See [here](https://www.youtube.com/watch?v=vxc6YbmpMNQ) for an in-depth look into how one student of scripture set up his bible study in Obsidian.
