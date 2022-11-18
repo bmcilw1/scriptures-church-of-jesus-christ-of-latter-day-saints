@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 33](/old-testament/19_Psalms/Psalm_33.md) | [Psalm 35 >>](/old-testament/19_Psalms/Psalm_35.md)
+[<< Psalm 33](/Old_Testament/19_Psalms/Psalm_33.md) | [Psalm 35 >>](/Old_Testament/19_Psalms/Psalm_35.md)
 
 # Psalm 34
 

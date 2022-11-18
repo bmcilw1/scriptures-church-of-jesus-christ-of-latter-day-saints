@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Zephaniah 01](/old-testament/36_Zephaniah/Zephaniah_01.md) | [Zephaniah 03 >>](/old-testament/36_Zephaniah/Zephaniah_03.md)
+[<< Zephaniah 01](/Old_Testament/36_Zephaniah/Zephaniah_01.md) | [Zephaniah 03 >>](/Old_Testament/36_Zephaniah/Zephaniah_03.md)
 
 # Zephaniah 02
 

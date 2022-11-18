@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 42](/old-testament/18_Job/Job_42.md) | [Psalm 02 >>](/old-testament/19_Psalms/Psalm_02.md)
+[<< Job 42](/Old_Testament/18_Job/Job_42.md) | [Psalm 02 >>](/Old_Testament/19_Psalms/Psalm_02.md)
 
 # Psalm 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Samuel 11](/old-testament/10_2_Samuel/2_Samuel_11.md) | [2 Samuel 13 >>](/old-testament/10_2_Samuel/2_Samuel_13.md)
+[<< 2 Samuel 11](/Old_Testament/10_2_Samuel/2_Samuel_11.md) | [2 Samuel 13 >>](/Old_Testament/10_2_Samuel/2_Samuel_13.md)
 
 # 2 Samuel 12
 

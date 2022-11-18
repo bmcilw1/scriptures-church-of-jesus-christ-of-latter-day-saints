@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 80](/old-testament/19_Psalms/Psalm_80.md) | [Psalm 82 >>](/old-testament/19_Psalms/Psalm_82.md)
+[<< Psalm 80](/Old_Testament/19_Psalms/Psalm_80.md) | [Psalm 82 >>](/Old_Testament/19_Psalms/Psalm_82.md)
 
 # Psalm 81
 

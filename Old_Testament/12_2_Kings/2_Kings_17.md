@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Kings 16](/old-testament/12_2_Kings/2_Kings_16.md) | [2 Kings 18 >>](/old-testament/12_2_Kings/2_Kings_18.md)
+[<< 2 Kings 16](/Old_Testament/12_2_Kings/2_Kings_16.md) | [2 Kings 18 >>](/Old_Testament/12_2_Kings/2_Kings_18.md)
 
 # 2 Kings 17
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 22](/old-testament/23_Isaiah/Isaiah_22.md) | [Isaiah 24 >>](/old-testament/23_Isaiah/Isaiah_24.md)
+[<< Isaiah 22](/Old_Testament/23_Isaiah/Isaiah_22.md) | [Isaiah 24 >>](/Old_Testament/23_Isaiah/Isaiah_24.md)
 
 # Isaiah 23
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 41](/old-testament/26_Ezekiel/Ezekiel_41.md) | [Ezekiel 43 >>](/old-testament/26_Ezekiel/Ezekiel_43.md)
+[<< Ezekiel 41](/Old_Testament/26_Ezekiel/Ezekiel_41.md) | [Ezekiel 43 >>](/Old_Testament/26_Ezekiel/Ezekiel_43.md)
 
 # Ezekiel 42
 

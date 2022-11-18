@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekial 01](/old-testament/26_Ezekiel/Ezekial_01.md) | [Ezekiel 03 >>](/old-testament/26_Ezekiel/Ezekiel_03.md)
+[<< Ezekial 01](/Old_Testament/26_Ezekiel/Ezekial_01.md) | [Ezekiel 03 >>](/Old_Testament/26_Ezekiel/Ezekiel_03.md)
 
 # Ezekiel 02
 

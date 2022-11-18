@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Zechariah 13](/old-testament/38_Zechariah/Zechariah_13.md) | [Malachi 01 >>](/old-testament/39_Malachi/Malachi_01.md)
+[<< Zechariah 13](/Old_Testament/38_Zechariah/Zechariah_13.md) | [Malachi 01 >>](/Old_Testament/39_Malachi/Malachi_01.md)
 
 # Zechariah 14
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 51](/old-testament/19_Psalms/Psalm_51.md) | [Psalm 53 >>](/old-testament/19_Psalms/Psalm_53.md)
+[<< Psalm 51](/Old_Testament/19_Psalms/Psalm_51.md) | [Psalm 53 >>](/Old_Testament/19_Psalms/Psalm_53.md)
 
 # Psalm 52
 

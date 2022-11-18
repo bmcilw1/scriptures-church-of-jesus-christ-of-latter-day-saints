@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Samuel 17](/old-testament/10_2_Samuel/2_Samuel_17.md) | [2 Samuel 19 >>](/old-testament/10_2_Samuel/2_Samuel_19.md)
+[<< 2 Samuel 17](/Old_Testament/10_2_Samuel/2_Samuel_17.md) | [2 Samuel 19 >>](/Old_Testament/10_2_Samuel/2_Samuel_19.md)
 
 # 2 Samuel 18
 

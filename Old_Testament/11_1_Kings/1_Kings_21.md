@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Kings 20](/old-testament/11_1_Kings/1_Kings_20.md) | [1 Kings 22 >>](/old-testament/11_1_Kings/1_Kings_22.md)
+[<< 1 Kings 20](/Old_Testament/11_1_Kings/1_Kings_20.md) | [1 Kings 22 >>](/Old_Testament/11_1_Kings/1_Kings_22.md)
 
 # 1 Kings 21
 

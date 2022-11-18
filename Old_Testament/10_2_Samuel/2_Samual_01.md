@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 31](/old-testament/09_1_Samuel/1_Samuel_31.md) | [2 Samuel 02 >>](/old-testament/10_2_Samuel/2_Samuel_02.md)
+[<< 1 Samuel 31](/Old_Testament/09_1_Samuel/1_Samuel_31.md) | [2 Samuel 02 >>](/Old_Testament/10_2_Samuel/2_Samuel_02.md)
 
 # 2 Samual 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 27](/old-testament/26_Ezekiel/Ezekiel_27.md) | [Ezekiel 29 >>](/old-testament/26_Ezekiel/Ezekiel_29.md)
+[<< Ezekiel 27](/Old_Testament/26_Ezekiel/Ezekiel_27.md) | [Ezekiel 29 >>](/Old_Testament/26_Ezekiel/Ezekiel_29.md)
 
 # Ezekiel 28
 

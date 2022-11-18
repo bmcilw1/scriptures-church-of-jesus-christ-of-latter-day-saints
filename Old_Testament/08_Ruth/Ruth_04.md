@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ruth 03](/old-testament/08_Ruth/Ruth_03.md) | [1 Samuel 01 >>](/old-testament/09_1_Samuel/1_Samuel_01.md)
+[<< Ruth 03](/Old_Testament/08_Ruth/Ruth_03.md) | [1 Samuel 01 >>](/Old_Testament/09_1_Samuel/1_Samuel_01.md)
 
 # Ruth 04
 
