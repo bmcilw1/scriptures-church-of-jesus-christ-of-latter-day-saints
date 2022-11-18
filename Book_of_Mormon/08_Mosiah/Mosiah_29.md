@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 28](/book-of-mormon/08_Mosiah/Mosiah_28.md) | [Alma 01 >>](/book-of-mormon/09_Alma/Alma_01.md)
+[<< Mosiah 28](/Book_of_Mormon/08_Mosiah/Mosiah_28.md) | [Alma 01 >>](/Book_of_Mormon/09_Alma/Alma_01.md)
 
 # Mosiah 29
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mormon 01](/book-of-mormon/13_Mormon/Mormon_01.md) | [Mormon 03 >>](/book-of-mormon/13_Mormon/Mormon_03.md)
+[<< Mormon 01](/Book_of_Mormon/13_Mormon/Mormon_01.md) | [Mormon 03 >>](/Book_of_Mormon/13_Mormon/Mormon_03.md)
 
 # Mormon 02
 

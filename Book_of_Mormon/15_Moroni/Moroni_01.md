@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Ether 15](/book-of-mormon/14_Ether/Ether_15.md) | [Moroni 02 >>](/book-of-mormon/15_Moroni/Moroni_02.md)
+[<< Ether 15](/Book_of_Mormon/14_Ether/Ether_15.md) | [Moroni 02 >>](/Book_of_Mormon/15_Moroni/Moroni_02.md)
 
 # Moroni 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 3 Nephi 30](/book-of-mormon/11_3_Nephi/3_Nephi_30.md) | [Mormon 01 >>](/book-of-mormon/13_Mormon/Mormon_01.md)
+[<< 3 Nephi 30](/Book_of_Mormon/11_3_Nephi/3_Nephi_30.md) | [Mormon 01 >>](/Book_of_Mormon/13_Mormon/Mormon_01.md)
 
 # 4 Nephi 01
 

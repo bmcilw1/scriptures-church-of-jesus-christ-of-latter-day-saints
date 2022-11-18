@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Alma 36](/book-of-mormon/09_Alma/Alma_36.md) | [Alma 38 >>](/book-of-mormon/09_Alma/Alma_38.md)
+[<< Alma 36](/Book_of_Mormon/09_Alma/Alma_36.md) | [Alma 38 >>](/Book_of_Mormon/09_Alma/Alma_38.md)
 
 # Alma 37
 
