@@ -17,5 +17,5 @@ This contains the main canon of scripture for the [Church of Jesus Christ of Lat
 
 # References
 
-1. [GitHub - awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ: Markdown Files by Chapter: The Book of Mormon, The King James Version of Old Testament & New Testament, Doctrine & Covenants, and the Pearl of Great Price](/https://github.com/awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ)
-2. [GitHub - arkholt/markdown-lds-scriptures: LDS Scriptures in Markdown format](/https://github.com/arkholt/markdown-lds-scriptures)
+1. [GitHub - awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ: Markdown Files by Chapter: The Book of Mormon, The King James Version of Old Testament & New Testament, Doctrine & Covenants, and the Pearl of Great Price](https://github.com/awerkamp/markdown-scriptures-standard-works-church-of-jesus-christ)
+2. [GitHub - arkholt/markdown-lds-scriptures: LDS Scriptures in Markdown format](https://github.com/arkholt/markdown-lds-scriptures)
