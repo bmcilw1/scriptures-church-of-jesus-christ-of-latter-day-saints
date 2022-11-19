@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 57](/Old_Testament/19_Psalms/Psalm_57.md) | [Psalm 59 >>](/Old_Testament/19_Psalms/Psalm_59.md)
+[[Psalm_57|<< Psalm 57]] | [[Psalm_59|Psalm 59 >>]]
 
 # Psalm 58
 

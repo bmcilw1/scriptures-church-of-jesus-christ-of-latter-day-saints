@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Kings 15](/Old_Testament/12_2_Kings/2_Kings_15.md) | [2 Kings 17 >>](/Old_Testament/12_2_Kings/2_Kings_17.md)
+[[2_Kings_15|<< 2 Kings 15]] | [[2_Kings_17|2 Kings 17 >>]]
 
 # 2 Kings 16
 

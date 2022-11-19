@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 25](/Old_Testament/24_Jeremiah/Jeremiah_25.md) | [Jeremiah 27 >>](/Old_Testament/24_Jeremiah/Jeremiah_27.md)
+[[Jeremiah_25|<< Jeremiah 25]] | [[Jeremiah_27|Jeremiah 27 >>]]
 
 # Jeremiah 26
 

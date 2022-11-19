@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Revelation 09](/New_Testament/27_Revelation/Revelation_09.md) | [Revelation 11 >>](/New_Testament/27_Revelation/Revelation_11.md)
+[[Revelation_09|<< Revelation 09]] | [[Revelation_11|Revelation 11 >>]]
 
 # Revelation 10
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Habakkuk 03](/Old_Testament/35_Habakkuk/Habakkuk_03.md) | [Zephaniah 02 >>](/Old_Testament/36_Zephaniah/Zephaniah_02.md)
+[[Habakkuk_03|<< Habakkuk 03]] | [[Zephaniah_02|Zephaniah 02 >>]]
 
 # Zephaniah 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joshua 12](/Old_Testament/06_Joshua/Joshua_12.md) | [Joshua 14 >>](/Old_Testament/06_Joshua/Joshua_14.md)
+[[Joshua_12|<< Joshua 12]] | [[Joshua_14|Joshua 14 >>]]
 
 # Joshua 13
 

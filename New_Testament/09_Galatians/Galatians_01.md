@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 2 Corinthians 13](/New_Testament/08_2_Corinthians/2_Corinthians_13.md) | [Galatians 02 >>](/New_Testament/09_Galatians/Galatians_02.md)
+[[2_Corinthians_13|<< 2 Corinthians 13]] | [[Galatians_02|Galatians 02 >>]]
 
 # Galatians 01
 

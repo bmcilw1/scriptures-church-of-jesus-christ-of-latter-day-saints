@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Ether 10](/Book_of_Mormon/14_Ether/Ether_10.md) | [Ether 12 >>](/Book_of_Mormon/14_Ether/Ether_12.md)
+[[Ether_10|<< Ether 10]] | [[Ether_12|Ether 12 >>]]
 
 # Ether 11
 

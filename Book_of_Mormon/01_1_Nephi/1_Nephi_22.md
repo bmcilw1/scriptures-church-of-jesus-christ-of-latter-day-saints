@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<<1 Nephi 21](/Book_of_Mormon/01_1_Nephi/1_Nephi_21.md)| [2 Nephi 01 >>](/Book_of_Mormon/02_2_Nephi/2_Nephi_01.md)
+[[1_Nephi_21|<<1 Nephi 21]]| [[2_Nephi_01|2 Nephi 01 >>]]
 
 # 1 Nephi 22
 

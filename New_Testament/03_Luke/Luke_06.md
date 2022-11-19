@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Luke 05](/New_Testament/03_Luke/Luke_05.md) | [Luke 07 >>](/New_Testament/03_Luke/Luke_07.md)
+[[Luke_05|<< Luke 05]] | [[Luke_07|Luke 07 >>]]
 
 # Luke 06
 

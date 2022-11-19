@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 15](/Old_Testament/18_Job/Job_15.md) | [Job 17 >>](/Old_Testament/18_Job/Job_17.md)
+[[Job_15|<< Job 15]] | [[Job_17|Job 17 >>]]
 
 # Job 16
 

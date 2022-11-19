@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ecclesiastes 11](/Old_Testament/21_Ecclesiastes/Ecclesiastes_11.md) | [Song of Solomon 01 >>](/Old_Testament/22_Song_of_Solomon/Song_of_Solomon_01.md)
+[[Ecclesiastes_11|<< Ecclesiastes 11]] | [[Song_of_Solomon_01|Song of Solomon 01 >>]]
 
 # Ecclesiastes 12
 

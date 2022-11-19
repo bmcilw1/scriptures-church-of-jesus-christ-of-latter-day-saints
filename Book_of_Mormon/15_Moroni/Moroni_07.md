@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Moroni 06](/Book_of_Mormon/15_Moroni/Moroni_06.md) | [Moroni 08 >>](/Book_of_Mormon/15_Moroni/Moroni_08.md)
+[[Moroni_06|<< Moroni 06]] | [[Moroni_08|Moroni 08 >>]]
 
 # Moroni 07
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< John 03](/New_Testament/04_John/John_03.md) | [John 05 >>](/New_Testament/04_John/John_05.md)
+[[John_03|<< John 03]] | [[John_05|John 05 >>]]
 
 # John 04
 

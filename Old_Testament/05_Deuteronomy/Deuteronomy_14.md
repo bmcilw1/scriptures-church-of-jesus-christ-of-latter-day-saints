@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 13](/Old_Testament/05_Deuteronomy/Deuteronomy_13.md) | [Deuteronomy 15 >>](/Old_Testament/05_Deuteronomy/Deuteronomy_15.md)
+[[Deuteronomy_13|<< Deuteronomy 13]] | [[Deuteronomy_15|Deuteronomy 15 >>]]
 
 # Deuteronomy 14
 

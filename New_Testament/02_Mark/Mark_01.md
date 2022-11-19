@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Matthew 28](/New_Testament/01_Matthew/Matthew_28.md) | [Mark 02 >>](/New_Testament/02_Mark/Mark_02.md)
+[[Matthew_28|<< Matthew 28]] | [[Mark_02|Mark 02 >>]]
 
 # Mark 01
 

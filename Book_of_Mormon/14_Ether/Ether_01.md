@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mormon 09](/Book_of_Mormon/13_Mormon/Mormon_09.md) | [Ether 02 >>](/Book_of_Mormon/14_Ether/Ether_02.md)
+[[Mormon_09|<< Mormon 09]] | [[Ether_02|Ether 02 >>]]
 
 # Ether 01
 

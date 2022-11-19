@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 33](/Old_Testament/02_Exodus/Exodus_33.md) | [Exodus 35 >>](/Old_Testament/02_Exodus/Exodus_35.md)
+[[Exodus_33|<< Exodus 33]] | [[Exodus_35|Exodus 35 >>]]
 
 # Exodus 34
 

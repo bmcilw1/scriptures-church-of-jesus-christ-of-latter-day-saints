@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joel 02](/Old_Testament/29_Joel/Joel_02.md) | [Amos 01 >>](/Old_Testament/30_Amos/Amos_01.md)
+[[Joel_02|<< Joel 02]] | [[Amos_01|Amos 01 >>]]
 
 # Joel 03
 

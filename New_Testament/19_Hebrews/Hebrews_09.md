@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Hebrews 08](/New_Testament/19_Hebrews/Hebrews_08.md) | [Hebrews 10 >>](/New_Testament/19_Hebrews/Hebrews_10.md)
+[[Hebrews_08|<< Hebrews 08]] | [[Hebrews_10|Hebrews 10 >>]]
 
 # Hebrews 09
 

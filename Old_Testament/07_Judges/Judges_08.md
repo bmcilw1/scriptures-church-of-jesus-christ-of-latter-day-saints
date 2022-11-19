@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Judges 07](/Old_Testament/07_Judges/Judges_07.md) | [Judges 09 >>](/Old_Testament/07_Judges/Judges_09.md)
+[[Judges_07|<< Judges 07]] | [[Judges_09|Judges 09 >>]]
 
 # Judges 08
 

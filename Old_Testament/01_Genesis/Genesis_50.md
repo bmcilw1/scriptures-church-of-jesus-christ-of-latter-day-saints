@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 49](/Old_Testament/01_Genesis/Genesis_49.md) | [Exodus 01 >>](/Old_Testament/02_Exodus/Exodus_01.md)
+[[Genesis_49|<< Genesis 49]] | [[Exodus_01|Exodus 01 >>]]
 
 # Genesis 50
 

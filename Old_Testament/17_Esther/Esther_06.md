@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Esther 05](/Old_Testament/17_Esther/Esther_05.md) | [Esther 07 >>](/Old_Testament/17_Esther/Esther_07.md)
+[[Esther_05|<< Esther 05]] | [[Esther_07|Esther 07 >>]]
 
 # Esther 06
 

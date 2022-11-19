@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Kings 22](/Old_Testament/11_1_Kings/1_Kings_22.md) | [2 Kings 02 >>](/Old_Testament/12_2_Kings/2_Kings_02.md)
+[[1_Kings_22|<< 1 Kings 22]] | [[2_Kings_02|2 Kings 02 >>]]
 
 # 2 Kings 01
 

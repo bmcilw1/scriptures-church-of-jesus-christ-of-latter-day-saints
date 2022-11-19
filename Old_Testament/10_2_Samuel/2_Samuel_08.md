@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Samuel 07](/Old_Testament/10_2_Samuel/2_Samuel_07.md) | [2 Samuel 09 >>](/Old_Testament/10_2_Samuel/2_Samuel_09.md)
+[[2_Samuel_07|<< 2 Samuel 07]] | [[2_Samuel_09|2 Samuel 09 >>]]
 
 # 2 Samuel 08
 

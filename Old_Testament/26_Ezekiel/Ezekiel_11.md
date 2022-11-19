@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 10](/Old_Testament/26_Ezekiel/Ezekiel_10.md) | [Ezekiel 12 >>](/Old_Testament/26_Ezekiel/Ezekiel_12.md)
+[[Ezekiel_10|<< Ezekiel 10]] | [[Ezekiel_12|Ezekiel 12 >>]]
 
 # Ezekiel 11
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 19](/Old_Testament/05_Deuteronomy/Deuteronomy_19.md) | [Deuteronomy 21 >>](/Old_Testament/05_Deuteronomy/Deuteronomy_21.md)
+[[Deuteronomy_19|<< Deuteronomy 19]] | [[Deuteronomy_21|Deuteronomy 21 >>]]
 
 # Deuteronomy 20
 

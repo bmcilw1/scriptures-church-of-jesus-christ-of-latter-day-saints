@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Helaman 11](/Book_of_Mormon/10_Helaman/Helaman_11.md) | [Helaman 13 >>](/Book_of_Mormon/10_Helaman/Helaman_13.md)
+[[Helaman_11|<< Helaman 11]] | [[Helaman_13|Helaman 13 >>]]
 
 # Helaman 12
 

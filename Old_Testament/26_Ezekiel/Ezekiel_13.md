@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 12](/Old_Testament/26_Ezekiel/Ezekiel_12.md) | [Ezekiel 14 >>](/Old_Testament/26_Ezekiel/Ezekiel_14.md)
+[[Ezekiel_12|<< Ezekiel 12]] | [[Ezekiel_14|Ezekiel 14 >>]]
 
 # Ezekiel 13
 

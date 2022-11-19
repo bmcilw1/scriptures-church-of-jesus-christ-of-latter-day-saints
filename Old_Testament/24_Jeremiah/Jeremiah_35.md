@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 34](/Old_Testament/24_Jeremiah/Jeremiah_34.md) | [Jeremiah 36 >>](/Old_Testament/24_Jeremiah/Jeremiah_36.md)
+[[Jeremiah_34|<< Jeremiah 34]] | [[Jeremiah_36|Jeremiah 36 >>]]
 
 # Jeremiah 35
 

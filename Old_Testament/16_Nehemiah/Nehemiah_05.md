@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Nehemiah 04](/Old_Testament/16_Nehemiah/Nehemiah_04.md) | [Nehemiah 06 >>](/Old_Testament/16_Nehemiah/Nehemiah_06.md)
+[[Nehemiah_04|<< Nehemiah 04]] | [[Nehemiah_06|Nehemiah 06 >>]]
 
 # Nehemiah 05
 

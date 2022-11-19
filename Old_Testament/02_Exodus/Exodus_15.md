@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 14](/Old_Testament/02_Exodus/Exodus_14.md) | [Exodus 16 >>](/Old_Testament/02_Exodus/Exodus_16.md)
+[[Exodus_14|<< Exodus 14]] | [[Exodus_16|Exodus 16 >>]]
 
 # Exodus 15
 

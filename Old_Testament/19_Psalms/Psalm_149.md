@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 148](/Old_Testament/19_Psalms/Psalm_148.md) | [Psalm 15 >>](/Old_Testament/19_Psalms/Psalm_15.md)
+[[Psalm_148|<< Psalm 148]] | [[Psalm_15|Psalm 15 >>]]
 
 # Psalm 149
 

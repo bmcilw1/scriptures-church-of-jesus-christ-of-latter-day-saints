@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 2 Nephi 33](/Book_of_Mormon/02_2_Nephi/2_Nephi_33.md) | [Jacob 02 >>](/Book_of_Mormon/03_Jacob/Jacob_02.md)
+[[2_Nephi_33|<< 2 Nephi 33]] | [[Jacob_02|Jacob 02 >>]]
 
 # Jacob 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Omni 01](/Book_of_Mormon/06_The_Book_of_Omni/Omni_01.md) | [Mosiah 01 >>](/Book_of_Mormon/08_Mosiah/Mosiah_01.md)
+[[Omni_01|<< Omni 01]] | [[Mosiah_01|Mosiah 01 >>]]
 
 # Words of Mormon 01
 

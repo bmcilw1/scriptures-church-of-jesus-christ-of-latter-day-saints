@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Leviticus 25](/Old_Testament/03_Leviticus/Leviticus_25.md) | [Leviticus 27 >>](/Old_Testament/03_Leviticus/Leviticus_27.md)
+[[Leviticus_25|<< Leviticus 25]] | [[Leviticus_27|Leviticus 27 >>]]
 
 # Leviticus 26
 

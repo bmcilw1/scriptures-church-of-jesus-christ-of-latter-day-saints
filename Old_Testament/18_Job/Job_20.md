@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 19](/Old_Testament/18_Job/Job_19.md) | [Job 21 >>](/Old_Testament/18_Job/Job_21.md)
+[[Job_19|<< Job 19]] | [[Job_21|Job 21 >>]]
 
 # Job 20
 

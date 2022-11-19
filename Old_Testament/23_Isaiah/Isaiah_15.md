@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 14](/Old_Testament/23_Isaiah/Isaiah_14.md) | [Isaiah 16 >>](/Old_Testament/23_Isaiah/Isaiah_16.md)
+[[Isaiah_14|<< Isaiah 14]] | [[Isaiah_16|Isaiah 16 >>]]
 
 # Isaiah 15
 

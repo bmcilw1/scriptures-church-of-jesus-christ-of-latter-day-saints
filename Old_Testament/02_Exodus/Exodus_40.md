@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 39](/Old_Testament/02_Exodus/Exodus_39.md) | [Leviticus 01 >>](/Old_Testament/03_Leviticus/Leviticus_01.md)
+[[Exodus_39|<< Exodus 39]] | [[Leviticus_01|Leviticus 01 >>]]
 
 # Exodus 40
 

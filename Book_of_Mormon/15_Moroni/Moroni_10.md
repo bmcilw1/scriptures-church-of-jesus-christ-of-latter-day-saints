@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Moroni 09](/Book_of_Mormon/15_Moroni/Moroni_09.md) | [D&C 001 >>](/Doctrine_and_Covenants/D&C_001.md)
+[[Moroni_09|<< Moroni 09]] | [D&C 001 >>](/Doctrine_and_Covenants/D&C_001.md)
 
 # Moroni 10
 

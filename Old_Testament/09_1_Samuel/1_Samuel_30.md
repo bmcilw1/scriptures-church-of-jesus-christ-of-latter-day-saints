@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 29](/Old_Testament/09_1_Samuel/1_Samuel_29.md) | [1 Samuel 31 >>](/Old_Testament/09_1_Samuel/1_Samuel_31.md)
+[[1_Samuel_29|<< 1 Samuel 29]] | [[1_Samuel_31|1 Samuel 31 >>]]
 
 # 1 Samuel 30
 

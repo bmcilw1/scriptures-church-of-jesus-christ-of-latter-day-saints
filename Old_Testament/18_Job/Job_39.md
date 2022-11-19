@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 38](/Old_Testament/18_Job/Job_38.md) | [Job 40 >>](/Old_Testament/18_Job/Job_40.md)
+[[Job_38|<< Job 38]] | [[Job_40|Job 40 >>]]
 
 # Job 39
 

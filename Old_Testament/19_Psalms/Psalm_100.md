@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 10](/Old_Testament/19_Psalms/Psalm_10.md) | [Psalm 101 >>](/Old_Testament/19_Psalms/Psalm_101.md)
+[[Psalm_10|<< Psalm 10]] | [[Psalm_101|Psalm 101 >>]]
 
 # Psalm 100
 

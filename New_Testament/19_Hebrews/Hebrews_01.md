@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Philemon 01](/New_Testament/18_Philemon/Philemon_01.md) | [Hebrews 02 >>](/New_Testament/19_Hebrews/Hebrews_02.md)
+[[Philemon_01|<< Philemon 01]] | [[Hebrews_02|Hebrews 02 >>]]
 
 # Hebrews 01
 

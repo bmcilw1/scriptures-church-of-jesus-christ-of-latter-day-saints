@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Romans 08](/New_Testament/06_Romans/Romans_08.md) | [Romans 10 >>](/New_Testament/06_Romans/Romans_10.md)
+[[Romans_08|<< Romans 08]] | [[Romans_10|Romans 10 >>]]
 
 # Romans 09
 

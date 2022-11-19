@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joshua 01](/Old_Testament/06_Joshua/Joshua_01.md) | [Joshua 03 >>](/Old_Testament/06_Joshua/Joshua_03.md)
+[[Joshua_01|<< Joshua 01]] | [[Joshua_03|Joshua 03 >>]]
 
 # Joshua 02
 

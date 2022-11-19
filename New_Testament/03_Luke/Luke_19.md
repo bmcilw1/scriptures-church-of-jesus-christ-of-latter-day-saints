@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Luke 18](/New_Testament/03_Luke/Luke_18.md) | [Luke 20 >>](/New_Testament/03_Luke/Luke_20.md)
+[[Luke_18|<< Luke 18]] | [[Luke_20|Luke 20 >>]]
 
 # Luke 19
 

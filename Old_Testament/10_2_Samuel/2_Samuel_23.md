@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Samuel 22](/Old_Testament/10_2_Samuel/2_Samuel_22.md) | [2 Samuel 24 >>](/Old_Testament/10_2_Samuel/2_Samuel_24.md)
+[[2_Samuel_22|<< 2 Samuel 22]] | [[2_Samuel_24|2 Samuel 24 >>]]
 
 # 2 Samuel 23
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/pearl-of-great-price
 
-[<< 04 Joseph Smith--History](/Pearl_of_Great_Price/03_Joseph_Smith/04_Joseph_Smith--History.md) | [Genesis 01 >>](/Old_Testament/01_Genesis/Genesis_01.md)
+[[04_Joseph_Smith--History|<< 04 Joseph Smith--History]] | [[Genesis_01|Genesis 01 >>]]
 
 # 05 The Articles of Faith
 

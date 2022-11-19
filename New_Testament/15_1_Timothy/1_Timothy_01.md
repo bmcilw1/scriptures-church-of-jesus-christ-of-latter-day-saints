@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 2 Thessalonians 03](/New_Testament/14_2_Thessalonians/2_Thessalonians_03.md) | [1 Timothy 02 >>](/New_Testament/15_1_Timothy/1_Timothy_02.md)
+[[2_Thessalonians_03|<< 2 Thessalonians 03]] | [[1_Timothy_02|1 Timothy 02 >>]]
 
 # 1 Timothy 01
 

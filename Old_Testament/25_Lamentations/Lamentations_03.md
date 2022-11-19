@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Lamentations 02](/Old_Testament/25_Lamentations/Lamentations_02.md) | [Lamentations 04 >>](/Old_Testament/25_Lamentations/Lamentations_04.md)
+[[Lamentations_02|<< Lamentations 02]] | [[Lamentations_04|Lamentations 04 >>]]
 
 # Lamentations 03
 

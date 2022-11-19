@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Matthew 14](/New_Testament/01_Matthew/Matthew_14.md) | [Matthew 16 >>](/New_Testament/01_Matthew/Matthew_16.md)
+[[Matthew_14|<< Matthew 14]] | [[Matthew_16|Matthew 16 >>]]
 
 # Matthew 15
 

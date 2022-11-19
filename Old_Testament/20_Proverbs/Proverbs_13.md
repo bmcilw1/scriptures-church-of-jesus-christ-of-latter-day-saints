@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Proverbs 12](/Old_Testament/20_Proverbs/Proverbs_12.md) | [Proverbs 14 >>](/Old_Testament/20_Proverbs/Proverbs_14.md)
+[[Proverbs_12|<< Proverbs 12]] | [[Proverbs_14|Proverbs 14 >>]]
 
 # Proverbs 13
 

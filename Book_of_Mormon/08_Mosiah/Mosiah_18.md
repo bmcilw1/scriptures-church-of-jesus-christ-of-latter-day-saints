@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 17](/Book_of_Mormon/08_Mosiah/Mosiah_17.md) | [Mosiah 19 >>](/Book_of_Mormon/08_Mosiah/Mosiah_19.md)
+[[Mosiah_17|<< Mosiah 17]] | [[Mosiah_19|Mosiah 19 >>]]
 
 # Mosiah 18
 

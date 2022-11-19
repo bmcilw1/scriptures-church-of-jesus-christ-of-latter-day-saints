@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 39](/Old_Testament/23_Isaiah/Isaiah_39.md) | [Isaiah 41 >>](/Old_Testament/23_Isaiah/Isaiah_41.md)
+[[Isaiah_39|<< Isaiah 39]] | [[Isaiah_41|Isaiah 41 >>]]
 
 # Isaiah 40
 

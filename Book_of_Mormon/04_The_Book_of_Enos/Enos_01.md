@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Jacob 07](/Book_of_Mormon/03_Jacob/Jacob_07.md) | [Jarom 01 >>](/Book_of_Mormon/05_The_Book_of_Jarom/Jarom_01.md)
+[[Jacob_07|<< Jacob 07]] | [[Jarom_01|Jarom 01 >>]]
 
 # Enos 01
 

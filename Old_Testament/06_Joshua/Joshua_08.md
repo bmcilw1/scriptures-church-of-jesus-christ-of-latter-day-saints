@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joshua 07](/Old_Testament/06_Joshua/Joshua_07.md) | [Joshua 09 >>](/Old_Testament/06_Joshua/Joshua_09.md)
+[[Joshua_07|<< Joshua 07]] | [[Joshua_09|Joshua 09 >>]]
 
 # Joshua 08
 

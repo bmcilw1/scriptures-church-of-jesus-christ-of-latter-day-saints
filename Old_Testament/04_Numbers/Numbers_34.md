@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Numbers 33](/Old_Testament/04_Numbers/Numbers_33.md) | [Numbers 35 >>](/Old_Testament/04_Numbers/Numbers_35.md)
+[[Numbers_33|<< Numbers 33]] | [[Numbers_35|Numbers 35 >>]]
 
 # Numbers 34
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Zechariah 03](/Old_Testament/38_Zechariah/Zechariah_03.md) | [Zechariah 05 >>](/Old_Testament/38_Zechariah/Zechariah_05.md)
+[[Zechariah_03|<< Zechariah 03]] | [[Zechariah_05|Zechariah 05 >>]]
 
 # Zechariah 04
 

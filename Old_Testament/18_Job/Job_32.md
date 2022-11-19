@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 31](/Old_Testament/18_Job/Job_31.md) | [Job 33 >>](/Old_Testament/18_Job/Job_33.md)
+[[Job_31|<< Job 31]] | [[Job_33|Job 33 >>]]
 
 # Job 32
 

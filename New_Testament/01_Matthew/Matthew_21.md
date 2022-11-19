@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Matthew 20](/New_Testament/01_Matthew/Matthew_20.md) | [Matthew 22 >>](/New_Testament/01_Matthew/Matthew_22.md)
+[[Matthew_20|<< Matthew 20]] | [[Matthew_22|Matthew 22 >>]]
 
 # Matthew 21
 

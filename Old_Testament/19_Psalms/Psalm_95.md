@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 94](/Old_Testament/19_Psalms/Psalm_94.md) | [Psalm 96 >>](/Old_Testament/19_Psalms/Psalm_96.md)
+[[Psalm_94|<< Psalm 94]] | [[Psalm_96|Psalm 96 >>]]
 
 # Psalm 95
 

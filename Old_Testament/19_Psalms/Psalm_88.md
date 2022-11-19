@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 87](/Old_Testament/19_Psalms/Psalm_87.md) | [Psalm 89 >>](/Old_Testament/19_Psalms/Psalm_89.md)
+[[Psalm_87|<< Psalm 87]] | [[Psalm_89|Psalm 89 >>]]
 
 # Psalm 88
 

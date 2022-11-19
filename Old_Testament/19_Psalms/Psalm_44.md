@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 43](/Old_Testament/19_Psalms/Psalm_43.md) | [Psalm 45 >>](/Old_Testament/19_Psalms/Psalm_45.md)
+[[Psalm_43|<< Psalm 43]] | [[Psalm_45|Psalm 45 >>]]
 
 # Psalm 44
 

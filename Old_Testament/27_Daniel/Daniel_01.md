@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 48](/Old_Testament/26_Ezekiel/Ezekiel_48.md) | [Daniel 02 >>](/Old_Testament/27_Daniel/Daniel_02.md)
+[[Ezekiel_48|<< Ezekiel 48]] | [[Daniel_02|Daniel 02 >>]]
 
 # Daniel 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 43](/Old_Testament/24_Jeremiah/Jeremiah_43.md) | [Jeremiah 45 >>](/Old_Testament/24_Jeremiah/Jeremiah_45.md)
+[[Jeremiah_43|<< Jeremiah 43]] | [[Jeremiah_45|Jeremiah 45 >>]]
 
 # Jeremiah 44
 

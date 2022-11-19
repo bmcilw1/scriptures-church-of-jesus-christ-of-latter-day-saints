@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 03](/Old_Testament/23_Isaiah/Isaiah_03.md) | [Isaiah 05 >>](/Old_Testament/23_Isaiah/Isaiah_05.md)
+[[Isaiah_03|<< Isaiah 03]] | [[Isaiah_05|Isaiah 05 >>]]
 
 # Isaiah 04
 

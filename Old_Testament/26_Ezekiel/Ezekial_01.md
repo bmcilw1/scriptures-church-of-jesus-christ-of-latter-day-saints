@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Lamentations 05](/Old_Testament/25_Lamentations/Lamentations_05.md) | [Ezekiel 02 >>](/Old_Testament/26_Ezekiel/Ezekiel_02.md)
+[[Lamentations_05|<< Lamentations 05]] | [[Ezekiel_02|Ezekiel 02 >>]]
 
 # Ezekial 01
 

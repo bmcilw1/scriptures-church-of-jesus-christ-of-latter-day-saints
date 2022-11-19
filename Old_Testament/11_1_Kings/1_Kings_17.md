@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Kings 16](/Old_Testament/11_1_Kings/1_Kings_16.md) | [1 Kings 18 >>](/Old_Testament/11_1_Kings/1_Kings_18.md)
+[[1_Kings_16|<< 1 Kings 16]] | [[1_Kings_18|1 Kings 18 >>]]
 
 # 1 Kings 17
 

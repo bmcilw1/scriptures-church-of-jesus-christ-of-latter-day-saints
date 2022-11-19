@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 15](/Old_Testament/01_Genesis/Genesis_15.md) | [Genesis 17 >>](/Old_Testament/01_Genesis/Genesis_17.md)
+[[Genesis_15|<< Genesis 15]] | [[Genesis_17|Genesis 17 >>]]
 
 # Genesis 16
 

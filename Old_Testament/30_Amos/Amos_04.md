@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Amos 03](/Old_Testament/30_Amos/Amos_03.md) | [Amos 05 >>](/Old_Testament/30_Amos/Amos_05.md)
+[[Amos_03|<< Amos 03]] | [[Amos_05|Amos 05 >>]]
 
 # Amos 04
 

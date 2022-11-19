@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Leviticus 06](/Old_Testament/03_Leviticus/Leviticus_06.md) | [Leviticus 08 >>](/Old_Testament/03_Leviticus/Leviticus_08.md)
+[[Leviticus_06|<< Leviticus 06]] | [[Leviticus_08|Leviticus 08 >>]]
 
 # Leviticus 07
 

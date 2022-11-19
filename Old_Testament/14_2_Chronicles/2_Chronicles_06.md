@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 05](/Old_Testament/14_2_Chronicles/2_Chronicles_05.md) | [2 Chronicles 07 >>](/Old_Testament/14_2_Chronicles/2_Chronicles_07.md)
+[[2_Chronicles_05|<< 2 Chronicles 05]] | [[2_Chronicles_07|2 Chronicles 07 >>]]
 
 # 2 Chronicles 06
 

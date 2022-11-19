@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Mosiah 19](/Book_of_Mormon/08_Mosiah/Mosiah_19.md) | [Mosiah 21 >>](/Book_of_Mormon/08_Mosiah/Mosiah_21.md)
+[[Mosiah_19|<< Mosiah 19]] | [[Mosiah_21|Mosiah 21 >>]]
 
 # Mosiah 20
 

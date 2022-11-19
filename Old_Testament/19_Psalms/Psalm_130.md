@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 13](/Old_Testament/19_Psalms/Psalm_13.md) | [Psalm 131 >>](/Old_Testament/19_Psalms/Psalm_131.md)
+[[Psalm_13|<< Psalm 13]] | [[Psalm_131|Psalm 131 >>]]
 
 # Psalm 130
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/pearl-of-great-price
 
-[<< Abraham 02](/Pearl_of_Great_Price/02_Abraham/Abraham_02.md) | [Abraham 04 >>](/Pearl_of_Great_Price/02_Abraham/Abraham_04.md)
+[[Abraham_02|<< Abraham 02]] | [[Abraham_04|Abraham 04 >>]]
 
 # Abraham 03
 

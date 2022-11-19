@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Job 23](/Old_Testament/18_Job/Job_23.md) | [Job 25 >>](/Old_Testament/18_Job/Job_25.md)
+[[Job_23|<< Job 23]] | [[Job_25|Job 25 >>]]
 
 # Job 24
 

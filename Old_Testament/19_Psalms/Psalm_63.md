@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 62](/Old_Testament/19_Psalms/Psalm_62.md) | [Psalm 64 >>](/Old_Testament/19_Psalms/Psalm_64.md)
+[[Psalm_62|<< Psalm 62]] | [[Psalm_64|Psalm 64 >>]]
 
 # Psalm 63
 

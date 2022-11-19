@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 120](/Old_Testament/19_Psalms/Psalm_120.md) | [Psalm 122 >>](/Old_Testament/19_Psalms/Psalm_122.md)
+[[Psalm_120|<< Psalm 120]] | [[Psalm_122|Psalm 122 >>]]
 
 # Psalm 121
 

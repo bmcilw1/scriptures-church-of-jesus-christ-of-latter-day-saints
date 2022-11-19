@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 08](/Old_Testament/02_Exodus/Exodus_08.md) | [Exodus 10 >>](/Old_Testament/02_Exodus/Exodus_10.md)
+[[Exodus_08|<< Exodus 08]] | [[Exodus_10|Exodus 10 >>]]
 
 # Exodus 09
 

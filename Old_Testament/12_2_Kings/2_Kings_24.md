@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Kings 23](/Old_Testament/12_2_Kings/2_Kings_23.md) | [2 Kings 25 >>](/Old_Testament/12_2_Kings/2_Kings_25.md)
+[[2_Kings_23|<< 2 Kings 23]] | [[2_Kings_25|2 Kings 25 >>]]
 
 # 2 Kings 24
 

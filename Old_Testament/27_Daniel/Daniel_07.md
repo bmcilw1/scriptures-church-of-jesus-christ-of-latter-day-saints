@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Daniel 06](/Old_Testament/27_Daniel/Daniel_06.md) | [Daniel 08 >>](/Old_Testament/27_Daniel/Daniel_08.md)
+[[Daniel_06|<< Daniel 06]] | [[Daniel_08|Daniel 08 >>]]
 
 # Daniel 07
 

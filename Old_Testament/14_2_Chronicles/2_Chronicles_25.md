@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 24](/Old_Testament/14_2_Chronicles/2_Chronicles_24.md) | [2 Chronicles 26 >>](/Old_Testament/14_2_Chronicles/2_Chronicles_26.md)
+[[2_Chronicles_24|<< 2 Chronicles 24]] | [[2_Chronicles_26|2 Chronicles 26 >>]]
 
 # 2 Chronicles 25
 

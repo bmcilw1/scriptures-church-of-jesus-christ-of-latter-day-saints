@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 3 Nephi 05](/Book_of_Mormon/11_3_Nephi/3_Nephi_05.md) | [3 Nephi 07 >>](/Book_of_Mormon/11_3_Nephi/3_Nephi_07.md)
+[[3_Nephi_05|<< 3 Nephi 05]] | [[3_Nephi_07|3 Nephi 07 >>]]
 
 # 3 Nephi 06
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Obadiah 01](/Old_Testament/31_Obadiah/Obadiah_01.md) | [Jonah 02 >>](/Old_Testament/32_Jonah/Jonah_02.md)
+[[Obadiah_01|<< Obadiah 01]] | [[Jonah_02|Jonah 02 >>]]
 
 # Jonah 01
 

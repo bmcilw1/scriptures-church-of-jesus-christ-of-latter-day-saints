@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Song of Solomon 07](/Old_Testament/22_Song_of_Solomon/Song_of_Solomon_07.md) | [Isaiah 01 >>](/Old_Testament/23_Isaiah/Isaiah_01.md)
+[[Song_of_Solomon_07|<< Song of Solomon 07]] | [[Isaiah_01|Isaiah 01 >>]]
 
 # Song of Solomon 08
 

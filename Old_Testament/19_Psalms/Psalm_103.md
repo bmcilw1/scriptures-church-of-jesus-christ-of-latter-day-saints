@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 102](/Old_Testament/19_Psalms/Psalm_102.md) | [Psalm 104 >>](/Old_Testament/19_Psalms/Psalm_104.md)
+[[Psalm_102|<< Psalm 102]] | [[Psalm_104|Psalm 104 >>]]
 
 # Psalm 103
 

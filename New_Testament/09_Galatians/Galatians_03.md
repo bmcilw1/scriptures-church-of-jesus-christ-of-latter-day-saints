@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Galatians 02](/New_Testament/09_Galatians/Galatians_02.md) | [Galatians 04 >>](/New_Testament/09_Galatians/Galatians_04.md)
+[[Galatians_02|<< Galatians 02]] | [[Galatians_04|Galatians 04 >>]]
 
 # Galatians 03
 

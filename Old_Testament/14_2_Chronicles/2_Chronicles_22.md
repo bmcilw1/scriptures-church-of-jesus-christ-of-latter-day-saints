@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 21](/Old_Testament/14_2_Chronicles/2_Chronicles_21.md) | [2 Chronicles 23 >>](/Old_Testament/14_2_Chronicles/2_Chronicles_23.md)
+[[2_Chronicles_21|<< 2 Chronicles 21]] | [[2_Chronicles_23|2 Chronicles 23 >>]]
 
 # 2 Chronicles 22
 

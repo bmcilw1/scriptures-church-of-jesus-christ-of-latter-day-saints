@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Judges 14](/Old_Testament/07_Judges/Judges_14.md) | [Judges 16 >>](/Old_Testament/07_Judges/Judges_16.md)
+[[Judges_14|<< Judges 14]] | [[Judges_16|Judges 16 >>]]
 
 # Judges 15
 

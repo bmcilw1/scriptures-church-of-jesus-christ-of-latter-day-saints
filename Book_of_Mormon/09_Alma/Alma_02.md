@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Alma 01](/Book_of_Mormon/09_Alma/Alma_01.md) | [Alma 03 >>](/Book_of_Mormon/09_Alma/Alma_03.md)
+[[Alma_01|<< Alma 01]] | [[Alma_03|Alma 03 >>]]
 
 # Alma 02
 

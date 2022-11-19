@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Samuel 02](/Old_Testament/10_2_Samuel/2_Samuel_02.md) | [2 Samuel 04 >>](/Old_Testament/10_2_Samuel/2_Samuel_04.md)
+[[2_Samuel_02|<< 2 Samuel 02]] | [[2_Samuel_04|2 Samuel 04 >>]]
 
 # 2 Samuel 03
 

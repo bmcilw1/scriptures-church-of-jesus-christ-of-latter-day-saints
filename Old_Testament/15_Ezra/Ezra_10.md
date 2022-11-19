@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezra 09](/Old_Testament/15_Ezra/Ezra_09.md) | [Nehemiah 01 >>](/Old_Testament/16_Nehemiah/Nehemiah_01.md)
+[[Ezra_09|<< Ezra 09]] | [[Nehemiah_01|Nehemiah 01 >>]]
 
 # Ezra 10
 

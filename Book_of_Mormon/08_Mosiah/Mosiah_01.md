@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Words of Mormon 01](/Book_of_Mormon/07_Words_of_Mormon/Words_of_Mormon_01.md) | [Mosiah 02 >>](/Book_of_Mormon/08_Mosiah/Mosiah_02.md)
+[[Words_of_Mormon_01|<< Words of Mormon 01]] | [[Mosiah_02|Mosiah 02 >>]]
 
 # Mosiah 01
 

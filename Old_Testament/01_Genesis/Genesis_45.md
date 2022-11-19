@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Genesis 44](/Old_Testament/01_Genesis/Genesis_44.md) | [Genesis 46 >>](/Old_Testament/01_Genesis/Genesis_46.md)
+[[Genesis_44|<< Genesis 44]] | [[Genesis_46|Genesis 46 >>]]
 
 # Genesis 45
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 11](/Old_Testament/02_Exodus/Exodus_11.md) | [Exodus 13 >>](/Old_Testament/02_Exodus/Exodus_13.md)
+[[Exodus_11|<< Exodus 11]] | [[Exodus_13|Exodus 13 >>]]
 
 # Exodus 12
 

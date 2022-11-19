@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Revelation 20](/New_Testament/27_Revelation/Revelation_20.md) | [Revelation 22 >>](/New_Testament/27_Revelation/Revelation_22.md)
+[[Revelation_20|<< Revelation 20]] | [[Revelation_22|Revelation 22 >>]]
 
 # Revelation 21
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Matthew 02](/New_Testament/01_Matthew/Matthew_02.md) | [Matthew 04 >>](/New_Testament/01_Matthew/Matthew_04.md)
+[[Matthew_02|<< Matthew 02]] | [[Matthew_04|Matthew 04 >>]]
 
 # Matthew 03
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 135](/Old_Testament/19_Psalms/Psalm_135.md) | [Psalm 137 >>](/Old_Testament/19_Psalms/Psalm_137.md)
+[[Psalm_135|<< Psalm 135]] | [[Psalm_137|Psalm 137 >>]]
 
 # Psalm 136
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Ephesians 01](/New_Testament/10_Ephesians/Ephesians_01.md) | [Ephesians 03 >>](/New_Testament/10_Ephesians/Ephesians_03.md)
+[[Ephesians_01|<< Ephesians 01]] | [[Ephesians_03|Ephesians 03 >>]]
 
 # Ephesians 02
 

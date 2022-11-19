@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Helaman 15](/Book_of_Mormon/10_Helaman/Helaman_15.md) | [3 Nephi 01 >>](/Book_of_Mormon/11_3_Nephi/3_Nephi_01.md)
+[[Helaman_15|<< Helaman 15]] | [[3_Nephi_01|3 Nephi 01 >>]]
 
 # Helaman 16
 

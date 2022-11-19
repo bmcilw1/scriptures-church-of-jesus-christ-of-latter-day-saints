@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Hosea 14](/Old_Testament/28_Hosea/Hosea_14.md) | [Joel 02 >>](/Old_Testament/29_Joel/Joel_02.md)
+[[Hosea_14|<< Hosea 14]] | [[Joel_02|Joel 02 >>]]
 
 # Joel 01
 

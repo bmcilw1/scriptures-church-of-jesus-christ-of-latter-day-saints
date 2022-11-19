@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Luke 24](/New_Testament/03_Luke/Luke_24.md) | [John 02 >>](/New_Testament/04_John/John_02.md)
+[[Luke_24|<< Luke 24]] | [[John_02|John 02 >>]]
 
 # John 01
 

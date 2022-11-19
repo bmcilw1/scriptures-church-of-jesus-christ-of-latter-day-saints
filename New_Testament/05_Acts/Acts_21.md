@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Acts 20](/New_Testament/05_Acts/Acts_20.md) | [Acts 22 >>](/New_Testament/05_Acts/Acts_22.md)
+[[Acts_20|<< Acts 20]] | [[Acts_22|Acts 22 >>]]
 
 # Acts 21
 

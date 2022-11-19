@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Nehemiah 12](/Old_Testament/16_Nehemiah/Nehemiah_12.md) | [Esther 01 >>](/Old_Testament/17_Esther/Esther_01.md)
+[[Nehemiah_12|<< Nehemiah 12]] | [[Esther_01|Esther 01 >>]]
 
 # Nehemiah 13
 

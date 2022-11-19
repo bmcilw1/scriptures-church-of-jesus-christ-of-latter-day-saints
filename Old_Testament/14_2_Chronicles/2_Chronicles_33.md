@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 32](/Old_Testament/14_2_Chronicles/2_Chronicles_32.md) | [2 Chronicles 34 >>](/Old_Testament/14_2_Chronicles/2_Chronicles_34.md)
+[[2_Chronicles_32|<< 2 Chronicles 32]] | [[2_Chronicles_34|2 Chronicles 34 >>]]
 
 # 2 Chronicles 33
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 115](/Old_Testament/19_Psalms/Psalm_115.md) | [Psalm 117 >>](/Old_Testament/19_Psalms/Psalm_117.md)
+[[Psalm_115|<< Psalm 115]] | [[Psalm_117|Psalm 117 >>]]
 
 # Psalm 116
 

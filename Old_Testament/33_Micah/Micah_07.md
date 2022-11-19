@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Micah 06](/Old_Testament/33_Micah/Micah_06.md) | [Nahum 01 >>](/Old_Testament/34_Nahum/Nahum_01.md)
+[[Micah_06|<< Micah 06]] | [[Nahum_01|Nahum 01 >>]]
 
 # Micah 07
 

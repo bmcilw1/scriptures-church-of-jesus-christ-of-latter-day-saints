@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ecclesiastes 08](/Old_Testament/21_Ecclesiastes/Ecclesiastes_08.md) | [Ecclesiastes 10 >>](/Old_Testament/21_Ecclesiastes/Ecclesiastes_10.md)
+[[Ecclesiastes_08|<< Ecclesiastes 08]] | [[Ecclesiastes_10|Ecclesiastes 10 >>]]
 
 # Ecclesiastes 09
 

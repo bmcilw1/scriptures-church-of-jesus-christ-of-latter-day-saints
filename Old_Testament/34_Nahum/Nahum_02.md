@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Nahum 01](/Old_Testament/34_Nahum/Nahum_01.md) | [Nahum 03 >>](/Old_Testament/34_Nahum/Nahum_03.md)
+[[Nahum_01|<< Nahum 01]] | [[Nahum_03|Nahum 03 >>]]
 
 # Nahum 02
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< Philippians 01](/New_Testament/11_Philippians/Philippians_01.md) | [Philippians 03 >>](/New_Testament/11_Philippians/Philippians_03.md)
+[[Philippians_01|<< Philippians 01]] | [[Philippians_03|Philippians 03 >>]]
 
 # Philippians 02
 

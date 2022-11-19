@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Alma 30](/Book_of_Mormon/09_Alma/Alma_30.md) | [Alma 32 >>](/Book_of_Mormon/09_Alma/Alma_32.md)
+[[Alma_30|<< Alma 30]] | [[Alma_32|Alma 32 >>]]
 
 # Alma 31
 

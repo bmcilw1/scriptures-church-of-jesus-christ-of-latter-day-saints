@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 1 Nephi 18](/Book_of_Mormon/01_1_Nephi/1_Nephi_18.md) | [1 Nephi 20 >>](/Book_of_Mormon/01_1_Nephi/1_Nephi_20.md)
+[[1_Nephi_18|<< 1 Nephi 18]] | [[1_Nephi_20|1 Nephi 20 >>]]
 
 # 1 Nephi 19
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Chronicles 29](/Old_Testament/14_2_Chronicles/2_Chronicles_29.md) | [2 Chronicles 31 >>](/Old_Testament/14_2_Chronicles/2_Chronicles_31.md)
+[[2_Chronicles_29|<< 2 Chronicles 29]] | [[2_Chronicles_31|2 Chronicles 31 >>]]
 
 # 2 Chronicles 30
 

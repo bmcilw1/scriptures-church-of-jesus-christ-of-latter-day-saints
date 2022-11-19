@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< John 21](/New_Testament/04_John/John_21.md) | [Acts 02 >>](/New_Testament/05_Acts/Acts_02.md)
+[[John_21|<< John 21]] | [[Acts_02|Acts 02 >>]]
 
 # Acts 01
 

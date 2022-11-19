@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Amos 09](/Old_Testament/30_Amos/Amos_09.md) | [Jonah 01 >>](/Old_Testament/32_Jonah/Jonah_01.md)
+[[Amos_09|<< Amos 09]] | [[Jonah_01|Jonah 01 >>]]
 
 # Obadiah 01
 

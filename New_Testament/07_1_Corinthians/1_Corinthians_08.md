@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 1 Corinthians 07](/New_Testament/07_1_Corinthians/1_Corinthians_07.md) | [1 Corinthians 09 >>](/New_Testament/07_1_Corinthians/1_Corinthians_09.md)
+[[1_Corinthians_07|<< 1 Corinthians 07]] | [[1_Corinthians_09|1 Corinthians 09 >>]]
 
 # 1 Corinthians 08
 

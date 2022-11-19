@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 08](/Old_Testament/05_Deuteronomy/Deuteronomy_08.md) | [Deuteronomy 10 >>](/Old_Testament/05_Deuteronomy/Deuteronomy_10.md)
+[[Deuteronomy_08|<< Deuteronomy 08]] | [[Deuteronomy_10|Deuteronomy 10 >>]]
 
 # Deuteronomy 09
 

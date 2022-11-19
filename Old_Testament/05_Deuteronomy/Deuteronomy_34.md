@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Deuteronomy 33](/Old_Testament/05_Deuteronomy/Deuteronomy_33.md) | [Joshua 01 >>](/Old_Testament/06_Joshua/Joshua_01.md)
+[[Deuteronomy_33|<< Deuteronomy 33]] | [[Joshua_01|Joshua 01 >>]]
 
 # Deuteronomy 34
 

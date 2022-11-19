@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jonah 04](/Old_Testament/32_Jonah/Jonah_04.md) | [Micah 02 >>](/Old_Testament/33_Micah/Micah_02.md)
+[[Jonah_04|<< Jonah 04]] | [[Micah_02|Micah 02 >>]]
 
 # Micah 01
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/new-testament
 
-[<< 1 John 01](/New_Testament/23_1_John/1_John_01.md) | [1 John 03 >>](/New_Testament/23_1_John/1_John_03.md)
+[[1_John_01|<< 1 John 01]] | [[1_John_03|1 John 03 >>]]
 
 # 1 John 02
 

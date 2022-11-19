@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 99](/Old_Testament/19_Psalms/Psalm_99.md) | [Proverbs 02 >>](/Old_Testament/20_Proverbs/Proverbs_02.md)
+[[Psalm_99|<< Psalm 99]] | [[Proverbs_02|Proverbs 02 >>]]
 
 # Proverbs 01
 

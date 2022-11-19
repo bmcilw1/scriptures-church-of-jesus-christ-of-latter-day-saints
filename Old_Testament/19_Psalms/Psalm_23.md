@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 22](/Old_Testament/19_Psalms/Psalm_22.md) | [Psalm 24 >>](/Old_Testament/19_Psalms/Psalm_24.md)
+[[Psalm_22|<< Psalm 22]] | [[Psalm_24|Psalm 24 >>]]
 
 # Psalm 23
 

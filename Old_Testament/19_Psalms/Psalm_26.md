@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 25](/Old_Testament/19_Psalms/Psalm_25.md) | [Psalm 27 >>](/Old_Testament/19_Psalms/Psalm_27.md)
+[[Psalm_25|<< Psalm 25]] | [[Psalm_27|Psalm 27 >>]]
 
 # Psalm 26
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Esther 09](/Old_Testament/17_Esther/Esther_09.md) | [Job 01 >>](/Old_Testament/18_Job/Job_01.md)
+[[Esther_09|<< Esther 09]] | [[Job_01|Job 01 >>]]
 
 # Esther 10
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Jeremiah 19](/Old_Testament/24_Jeremiah/Jeremiah_19.md) | [Jeremiah 21 >>](/Old_Testament/24_Jeremiah/Jeremiah_21.md)
+[[Jeremiah_19|<< Jeremiah 19]] | [[Jeremiah_21|Jeremiah 21 >>]]
 
 # Jeremiah 20
 

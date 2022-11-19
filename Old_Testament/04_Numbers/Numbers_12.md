@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Numbers 11](/Old_Testament/04_Numbers/Numbers_11.md) | [Numbers 13 >>](/Old_Testament/04_Numbers/Numbers_13.md)
+[[Numbers_11|<< Numbers 11]] | [[Numbers_13|Numbers 13 >>]]
 
 # Numbers 12
 

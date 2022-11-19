@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Psalm 06](/Old_Testament/19_Psalms/Psalm_06.md) | [Psalm 08 >>](/Old_Testament/19_Psalms/Psalm_08.md)
+[[Psalm_06|<< Psalm 06]] | [[Psalm_08|Psalm 08 >>]]
 
 # Psalm 07
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Haggai 02](/Old_Testament/37_Haggai/Haggai_02.md) | [Zechariah 02 >>](/Old_Testament/38_Zechariah/Zechariah_02.md)
+[[Haggai_02|<< Haggai 02]] | [[Zechariah_02|Zechariah 02 >>]]
 
 # Zechariah 01
 

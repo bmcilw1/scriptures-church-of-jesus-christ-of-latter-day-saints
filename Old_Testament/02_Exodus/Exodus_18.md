@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Exodus 17](/Old_Testament/02_Exodus/Exodus_17.md) | [Exodus 19 >>](/Old_Testament/02_Exodus/Exodus_19.md)
+[[Exodus_17|<< Exodus 17]] | [[Exodus_19|Exodus 19 >>]]
 
 # Exodus 18
 

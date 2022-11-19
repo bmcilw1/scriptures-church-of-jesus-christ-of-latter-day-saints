@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 47](/Old_Testament/23_Isaiah/Isaiah_47.md) | [Isaiah 49 >>](/Old_Testament/23_Isaiah/Isaiah_49.md)
+[[Isaiah_47|<< Isaiah 47]] | [[Isaiah_49|Isaiah 49 >>]]
 
 # Isaiah 48
 

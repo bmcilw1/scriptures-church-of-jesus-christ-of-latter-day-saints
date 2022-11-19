@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 22](/Old_Testament/26_Ezekiel/Ezekiel_22.md) | [Ezekiel 24 >>](/Old_Testament/26_Ezekiel/Ezekiel_24.md)
+[[Ezekiel_22|<< Ezekiel 22]] | [[Ezekiel_24|Ezekiel 24 >>]]
 
 # Ezekiel 23
 

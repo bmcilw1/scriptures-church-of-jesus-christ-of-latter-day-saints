@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Kings 19](/Old_Testament/12_2_Kings/2_Kings_19.md) | [2 Kings 21 >>](/Old_Testament/12_2_Kings/2_Kings_21.md)
+[[2_Kings_19|<< 2 Kings 19]] | [[2_Kings_21|2 Kings 21 >>]]
 
 # 2 Kings 20
 

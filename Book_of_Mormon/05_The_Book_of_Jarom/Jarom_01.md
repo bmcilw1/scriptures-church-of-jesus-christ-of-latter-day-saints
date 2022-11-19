@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Enos 01](/Book_of_Mormon/04_The_Book_of_Enos/Enos_01.md) | [Omni 01 >>](/Book_of_Mormon/06_The_Book_of_Omni/Omni_01.md)
+[[Enos_01|<< Enos 01]] | [[Omni_01|Omni 01 >>]]
 
 # Jarom 01
 

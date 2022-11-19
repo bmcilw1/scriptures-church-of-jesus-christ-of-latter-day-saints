@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Joshua 18](/Old_Testament/06_Joshua/Joshua_18.md) | [Joshua 20 >>](/Old_Testament/06_Joshua/Joshua_20.md)
+[[Joshua_18|<< Joshua 18]] | [[Joshua_20|Joshua 20 >>]]
 
 # Joshua 19
 

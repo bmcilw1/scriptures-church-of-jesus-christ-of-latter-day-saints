@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< Alma 57](/Book_of_Mormon/09_Alma/Alma_57.md) | [Alma 59 >>](/Book_of_Mormon/09_Alma/Alma_59.md)
+[[Alma_57|<< Alma 57]] | [[Alma_59|Alma 59 >>]]
 
 # Alma 58
 

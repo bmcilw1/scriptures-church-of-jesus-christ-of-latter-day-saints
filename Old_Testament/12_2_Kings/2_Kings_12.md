@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 2 Kings 11](/Old_Testament/12_2_Kings/2_Kings_11.md) | [2 Kings 13 >>](/Old_Testament/12_2_Kings/2_Kings_13.md)
+[[2_Kings_11|<< 2 Kings 11]] | [[2_Kings_13|2 Kings 13 >>]]
 
 # 2 Kings 12
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Isaiah 25](/Old_Testament/23_Isaiah/Isaiah_25.md) | [Isaiah 27 >>](/Old_Testament/23_Isaiah/Isaiah_27.md)
+[[Isaiah_25|<< Isaiah 25]] | [[Isaiah_27|Isaiah 27 >>]]
 
 # Isaiah 26
 

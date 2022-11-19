@@ -1,6 +1,6 @@
 tags:: #source/scripture/book-of-mormon
 
-[<< 2 Nephi 23](/Book_of_Mormon/02_2_Nephi/2_Nephi_23.md) | [2 Nephi 25 >>](/Book_of_Mormon/02_2_Nephi/2_Nephi_25.md)
+[[2_Nephi_23|<< 2 Nephi 23]] | [[2_Nephi_25|2 Nephi 25 >>]]
 
 # 2 Nephi 24
 

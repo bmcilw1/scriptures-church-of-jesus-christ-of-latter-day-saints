@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< Ezekiel 20](/Old_Testament/26_Ezekiel/Ezekiel_20.md) | [Ezekiel 22 >>](/Old_Testament/26_Ezekiel/Ezekiel_22.md)
+[[Ezekiel_20|<< Ezekiel 20]] | [[Ezekiel_22|Ezekiel 22 >>]]
 
 # Ezekiel 21
 

@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Kings 04](/Old_Testament/11_1_Kings/1_Kings_04.md) | [1 Kings 06 >>](/Old_Testament/11_1_Kings/1_Kings_06.md)
+[[1_Kings_04|<< 1 Kings 04]] | [[1_Kings_06|1 Kings 06 >>]]
 
 # 1 Kings 05
 

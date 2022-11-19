@@ -1,6 +1,6 @@
 tags:: #source/scripture/old-testament
 
-[<< 1 Samuel 19](/Old_Testament/09_1_Samuel/1_Samuel_19.md) | [1 Samuel 21 >>](/Old_Testament/09_1_Samuel/1_Samuel_21.md)
+[[1_Samuel_19|<< 1 Samuel 19]] | [[1_Samuel_21|1 Samuel 21 >>]]
 
 # 1 Samuel 20
 
