@@ -7,6 +7,13 @@ This contains the main canon of scripture for the [Church of Jesus Christ of Lat
 - See [here](https://www.youtube.com/watch?v=QgbLb6QCK88) for an introduction to the Obsidian app.
 - See [here](https://www.youtube.com/watch?v=vxc6YbmpMNQ) for an in-depth look into how one student of scripture set up his bible study in Obsidian.
 
+## Getting started
+
+1. Download this repo either using Git or as a zip
+2. Open your Obsidian vault
+3. Copy the scriptures into your vault
+4. Start linking!
+
 ## Linking Chapters
 
 Each chapter has a header with Obsidian-style links to the next and previous ones
